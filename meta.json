@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q104847864",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/sri-lanka-cabinet"
+    "cabinet": {
+      "id": "Q104847864",
+      "start": "2020-08-12"
+    },
+    "source": {
+        "url":   "http://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=25&Itemid=23&lang=en",
+        "title": "List of Cabinet Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/sri-lanka-cabinet"
 }

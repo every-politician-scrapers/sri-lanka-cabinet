@@ -2,7 +2,6 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/scraper_data'
-require 'open-uri/cached'
 require 'pry'
 
 class MemberList
@@ -31,5 +30,5 @@ class MemberList
   end
 end
 
-url = 'http://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=25&Itemid=23&lang=en'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
