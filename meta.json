@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+        "name": "Sri Lanka",
+        "id": "Q854"
+    },
     "cabinet": {
-      "id": "Q104847864",
-      "start": "2020-08-12"
+        "id": "Q104847864",
+        "start": "2020-08-12",
+        "parent": "Q3783006"
     },
     "source": {
         "url":   "http://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=25&Itemid=23&lang=en",

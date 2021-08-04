@@ -1,4 +1,8 @@
 // wd create-entity create-office.js "Minister for X"
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
 module.exports = (label) => {
   return {
     type: 'item',
@@ -6,18 +10,16 @@ module.exports = (label) => {
       en: label,
     },
     descriptions: {
-      en: 'Sri Lankan Cabinet position',
+      en: `cabinet position in ${meta.jurisdiction.name}`,
     },
     claims: {
       P31:   { value: 'Q294414' }, // instance of: public office
       P279:  { value: 'Q83307'  }, // subclas of: minister
-      P17:   { value: 'Q854'    }, // country: Sri Lanka
-      P1001: { value: 'Q854'    }, // jurisdiction: Sri Lanka
-      P361: {
-        value: 'Q3783006',         // part of: Cabinet of Sri Lanka
-        references: {
-          P854: 'http://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=25&Itemid=23&lang=en',
-        },
+      P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
+      P1001: { value: meta.jurisdiction.id },
+      P361: { // part of
+        value: meta.cabinet.parent,
+        references: { P854: meta.source.url },
       }
     }
   }
