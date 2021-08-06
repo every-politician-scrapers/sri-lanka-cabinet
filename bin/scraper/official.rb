@@ -8,7 +8,10 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.xpath('./preceding-sibling::tr[@bgcolor="#FFCC99"]').last.text.tidy.gsub('Hon. ', '').gsub('(Mrs.) ', '')
+      noko.xpath('./preceding-sibling::tr[@bgcolor="#FFCC99"]').last.text.tidy
+          .delete_prefix('His Excellency ')
+          .delete_prefix('Hon. ')
+          .gsub('(Mrs.) ', '')
     end
 
     field :position do
