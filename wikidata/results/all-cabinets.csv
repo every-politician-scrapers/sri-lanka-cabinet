@@ -1,0 +1,10 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q6167788,Jayewardene cabinet,1977-01-01,9,1977-01-01,9,1989-01-01,9,,,Q640506,cabinet,,,,,,,Q15926786,Second Sirimavo Bandaranaike cabinet,Q15927429,Premadasa cabinet
+,Q15927429,Premadasa cabinet,1989-01-01,9,1989-01-01,9,1989-01-01,9,,,Q640506,cabinet,,,,,,,Q6167788,Jayewardene cabinet,Q20687587,Wijetunga cabinet
+,Q7285747,Rajapaksa cabinet,2005-11-19,11,,,2015-01-09,11,,,Q3783006,Cabinet of Sri Lanka,,,,,Q18758308,Sirisena cabinet,Q20684427,Kumaratunga cabinet,Q18758308,Sirisena cabinet
+,Q18758308,Sirisena cabinet,2015-01-12,11,,,2015-08-17,11,,,Q640506,cabinet,,,Q7285747,Rajapaksa cabinet,Q85800191,Second Sirisena cabinet,Q7285747,Rajapaksa cabinet,,
+,Q85800191,Second Sirisena cabinet,2015-08-24,11,,,2018-10-26,11,,,Q640506,cabinet,,,Q18758308,Sirisena cabinet,Q85809066,Third Sirisena cabinet,,,,
+,Q85809066,Third Sirisena cabinet,2018-10-29,11,,,2018-12-15,11,,,Q640506,cabinet,,,Q85800191,Second Sirisena cabinet,Q85761840,Fourth Sirisena cabinet,,,,
+,Q85761840,Fourth Sirisena cabinet,2018-12-20,11,,,2019-11-21,11,,,Q640506,cabinet,,,Q85809066,Third Sirisena cabinet,Q79927671,Gotabaya Rajapaksa cabinet,,,,
+,Q79927671,Gotabaya Rajapaksa cabinet,2019-11-21,11,,,2020-08-12,11,,,Q3783006,Cabinet of Sri Lanka,,,Q85761840,Fourth Sirisena cabinet,Q104847864,Second Gotabaya Rajapaksa cabinet,,,,
+,Q104847864,Second Gotabaya Rajapaksa cabinet,2020-08-12,11,,,,,,,Q3783006,Cabinet of Sri Lanka,,,Q79927671,Gotabaya Rajapaksa cabinet,,,,,,
