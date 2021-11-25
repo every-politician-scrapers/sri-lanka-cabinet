@@ -1,0 +1,481 @@
+{
+  "title": "Dullas Alahapperuma",
+  "pageID": 23579354,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Alumni of Ananda College",
+    "Government ministers of Sri Lanka",
+    "Sri Lankan Buddhists",
+    "Provincial councillors of Sri Lanka",
+    "Members of the 10th Parliament of Sri Lanka",
+    "Members of the 11th Parliament of Sri Lanka",
+    "Members of the 13th Parliament of Sri Lanka",
+    "Members of the 14th Parliament of Sri Lanka",
+    "Members of the 15th Parliament of Sri Lanka",
+    "Members of the 16th Parliament of Sri Lanka",
+    "Sinhalese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Dullas Daham Kumara Alahapperuma (born May 14, 1959) is a Sri Lankan politician, current Cabinet Minister of Education and Sports and a Matara District member of the Parliament of Sri Lanka.",
+              "links": [
+                {
+                  "text": "Sri Lankan",
+                  "type": "internal",
+                  "page": "Sri Lanka"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Minister"
+                },
+                {
+                  "text": "Matara District",
+                  "type": "internal",
+                  "page": "National List Member of Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Sri Lanka"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Dullas Daham Kumara Alahapperuma"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Sri Lankan politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2017",
+          "template": "blp sources"
+        },
+        {
+          "date": "February 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1959",
+          "month": "05",
+          "day": "14",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dullas Alahapperuma"
+          },
+          "native_name": {
+            "text": "ඩලස් අලහප්පෙරුම\nடல்லாஸ் அழகப்பெரும"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Dullas Alahapperuma GloCha-Klagenfurt-2014 9799-2.jpg"
+          },
+          "order": {
+            "text": "Minister of Power"
+          },
+          "term_start": {
+            "text": "12 August 2020"
+          },
+          "president": {
+            "text": "Gotabaya Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Sports",
+            "links": [
+              {
+                "text": "Minister of Sports",
+                "type": "internal",
+                "page": "Ministry of Sports (Sri Lanka)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 November 2019"
+          },
+          "term_end1": {
+            "text": "12 August 2020"
+          },
+          "president1": {
+            "text": "Gotabaya Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Harin Fernando",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Harin Fernando"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Namal Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Namal Rajapaksa"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Matara District",
+            "links": [
+              {
+                "text": "Matara District",
+                "type": "internal",
+                "page": "Matara Electoral District"
+              }
+            ]
+          },
+          "parliament2": {
+            "text": "Sri Lankan"
+          },
+          "term_start2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_start3": {
+            "text": "1994",
+            "number": 1994
+          },
+          "term_end3": {
+            "text": "2001",
+            "number": 2001
+          },
+          "constituency_mp4": {
+            "text": "National List",
+            "links": [
+              {
+                "text": "National List",
+                "type": "internal",
+                "page": "National List Member of Parliament"
+              }
+            ]
+          },
+          "parliament4": {
+            "text": "Sri Lankan"
+          },
+          "term_start4": {
+            "text": "2005",
+            "number": 2005
+          },
+          "term_end4": {
+            "text": "2015",
+            "number": 2015
+          },
+          "birth_date": {
+            "text": "May 14, 1959"
+          },
+          "birth_place": {
+            "text": "Sri Lanka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sri Lanka"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Sri Lankan",
+            "links": [
+              {
+                "text": "Sri Lankan",
+                "type": "internal",
+                "page": "Sri Lanka"
+              }
+            ]
+          },
+          "party": {
+            "text": "Sri Lanka Freedom Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sri Lanka Freedom Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Pradeepa Dharmadasa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pradeepa Dharmadasa"
+              }
+            ]
+          },
+          "children": {
+            "text": "Mahima Induwara Kaushika Nalanda"
+          },
+          "birth_name": {
+            "text": "Dullas Daham Kumara Alahapperuma"
+          },
+          "alma_mater": {
+            "text": "St. Servatius' College Ananda College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St. Servatius' College"
+              },
+              {
+                "type": "internal",
+                "page": "Ananda College"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Journalist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Journalist"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alahapperuma was born on 14 May 1959 in Dikwella, Matara to Carolis Alahapperuma and Aslin Alahapperuma, who were principals of local schools.",
+              "links": [
+                {
+                  "text": "Matara",
+                  "type": "internal",
+                  "page": "Matara, Sri Lanka"
+                }
+              ]
+            },
+            {
+              "text": "Alahapperuma received his primary and secondary education at St. Servatius' College and Ananda College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St. Servatius' College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ananda College"
+                }
+              ]
+            },
+            {
+              "text": "Studied Political Science at the University of Iowa, for one and half years, but did not complete the degree"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "BUSINESS TODAY -Dullas Alahapperuma Outlines the track record",
+          "url": "https://www.businesstoday.lk/cover_page.php?article=684",
+          "access-date": "2020-07-23",
+          "website": "www.businesstoday.lk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sundayobserver.lk/2008/10/05/spe07.asp",
+          "title": "I appreciate him as a politician but prefer the journalist in him",
+          "last": "WELABADA",
+          "first": "Lakmal",
+          "date": "5 October 2008",
+          "website": "Sunday Observer (Sri Lanka)",
+          "access-date": "1 March 2016",
+          "archive-url": "https://web.archive.org/web/20160303195400/http://www.sundayobserver.lk/2008/10/05/spe07.asp",
+          "archive-date": "3 March 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married to popular singer Pradeepa Dharmadasa, daughter of P.K and Hema Dharmadasa of Galle, and has two children Mahima Induwara and Kaushika Nalanda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pradeepa Dharmadasa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Galle"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Sri Lanka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Sri Lanka"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "members of 10th parliament of sri lanka"
+        },
+        {
+          "template": "members of 11th parliament of sri lanka"
+        },
+        {
+          "template": "members of 13th parliament of sri lanka"
+        },
+        {
+          "template": "members of 14th parliament of sri lanka"
+        },
+        {
+          "template": "members of 15th parliament of sri lanka"
+        },
+        {
+          "template": "members of 16th parliament of sri lanka"
+        },
+        {
+          "template": "srilanka-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Sri Lanka Parliament profile",
+            "links": [
+              {
+                "text": "Sri Lanka Parliament profile",
+                "type": "external",
+                "site": "https://web.archive.org/web/20100325212844/http://www.parliament.lk/directory_of_members/ViewMember.do?memID=2868"
+              }
+            ]
+          },
+          {
+            "text": "‘I appreciate him as a politician but prefer the journalist in him’",
+            "links": [
+              {
+                "text": "‘I appreciate him as a politician but prefer the journalist in him’",
+                "type": "external",
+                "site": "https://web.archive.org/web/20160303195400/http://www.sundayobserver.lk/2008/10/05/spe07.asp"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
