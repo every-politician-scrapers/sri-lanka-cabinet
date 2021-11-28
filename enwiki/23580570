@@ -67,6 +67,10 @@
       ],
       "templates": [
         {
+          "description": "Sri Lankan politician and academic",
+          "template": "short description"
+        },
+        {
           "date": "November 2019",
           "template": "blp sources"
         },
