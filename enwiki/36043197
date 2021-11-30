@@ -311,52 +311,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "List of political families in Sri Lanka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "List of political families in Sri Lanka"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "members of the 15th parliament of sri lanka"
-        },
-        {
-          "template": "members of 16th parliament of sri lanka"
-        },
-        {
-          "template": "members of the sri lankan parliament from gampaha"
-        },
-        {
-          "template": "chief ministers of western province"
-        },
-        {
-          "template": "srilanka-politician-stub"
-        }
-      ]
     }
   ]
 }

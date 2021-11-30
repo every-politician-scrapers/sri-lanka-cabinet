@@ -181,45 +181,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "members of 12th parliament of sri lanka"
-        },
-        {
-          "template": "members of 13th parliament of sri lanka"
-        },
-        {
-          "template": "members of 14th parliament of sri lanka"
-        },
-        {
-          "template": "members of 15th parliament of sri lanka"
-        },
-        {
-          "template": "members of 16th parliament of sri lanka"
-        },
-        {
-          "template": "srilanka-politician-stub"
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/directory_of_members/ViewMember.do?memID=276",
-          "title": "S.M. CHANDRASENA",
-          "work": "Directory of Members",
-          "publisher": "Parliament of Sri Lanka",
-          "template": "citation",
-          "type": "cite web"
-        }
-      ]
     }
   ]
 }

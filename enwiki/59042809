@@ -240,58 +240,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-legal"
-        },
-        {
-          "before": "Yuwanjana Wijayatilake",
-          "template": "s-bef"
-        },
-        {
-          "title": "Attorney General of Sri Lanka",
-          "years": "2014–2019",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Dappula de Livera (as Acting)",
-          "template": "s-aft"
-        },
-        {
-          "before": "Nalin Perera",
-          "template": "s-bef"
-        },
-        {
-          "title": "Chief Justice of Sri Lanka",
-          "years": "2019–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "supreme court of sri lanka"
-        },
-        {
-          "template": "chief justice of sri lanka"
-        },
-        {
-          "template": "jayasuriya-court"
-        },
-        {
-          "template": "attorney general of sri lanka"
-        }
-      ]
     }
   ]
 }
