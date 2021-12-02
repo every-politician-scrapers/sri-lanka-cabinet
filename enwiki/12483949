@@ -34,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Lieutenant Colonel Nandasena Gotabaya Rajapaksa, RWP, RSP, psc, GR (නන්දසේන ගෝඨාභය රාජපක්ෂ; நந்தசேன கோட்டாபய ராஜபக்ஸ; born 20 June 1949) is a Sri Lankan politician and former military officer currently serving as the 8th President of Sri Lanka since 2019.",
+              "text": "Lieutenant Colonel Nandasena Gotabaya Rajapaksa RWP, RSP, psc, GR (නන්දසේන ගෝඨාභය රාජපක්ෂ; நந்தசேன கோட்டாபய ராஜபக்ஸ; born 20 June 1949) is a Sri Lankan politician and former military officer currently serving as the 8th President of Sri Lanka since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -711,14 +711,6 @@
           "date": "1 August 2019",
           "publisher": "Ceylon Today",
           "access-date": "1 August 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.colombomagazine.com/news/know-your-president-mr-gotabaya-rajapaksa/",
-          "title": "Know your president : Mr Gotabaya Rajapaksa &#124; COLOMBO MAGAZINE",
-          "first": "Colombo",
-          "last": "Magazine",
           "template": "citation",
           "type": "web"
         },
