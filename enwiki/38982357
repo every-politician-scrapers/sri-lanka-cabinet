@@ -368,43 +368,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/directory_of_members/ViewMember.do?memID=3187",
-          "title": "SARATH WEERASEKARA",
-          "work": "Directory of Members",
-          "publisher": "Parliament of Sri Lanka",
-          "access-date": "1 April 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.slelections.gov.lk/pdf/GE2010_preferences/Digamadulla_pref_GE2010.pdf",
-          "archive-url": "https://web.archive.org/web/20100513034732/http://www.slelections.gov.lk/pdf/GE2010_preferences/Digamadulla_pref_GE2010.pdf",
-          "url-status": "dead",
-          "archive-date": "13 May 2010",
-          "title": "Parliamentary Elections -2010",
-          "publisher": "Department of Elections, Sri Lanka",
-          "access-date": "1 April 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.tamilnet.com/art.html?catid=13&artid=7828",
-          "title": "Military-LTTE commanders meet at Muhamalai second time",
-          "publisher": "Tamilnet",
-          "date": "16 November 2002",
-          "access-date": "April 1, 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

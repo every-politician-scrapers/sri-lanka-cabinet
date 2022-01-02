@@ -388,39 +388,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.adaderana.lk/news/32022/preferential-votes-general-election-2015",
-          "title": "(adaderana)",
-          "publisher": "ada derana",
-          "date": "2015-08-27",
-          "accessdate": "2012-09-28",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "May 2021",
-          "template": "citation needed"
-        }
       ]
     }
   ]

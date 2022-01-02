@@ -273,46 +273,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "BBCSinhala.com {{!}} Sandeshaya {{!}} Sri Lanka minister 'to complain' to ICC",
-          "url": "https://www.bbc.com/sinhala/news/story/2011/04/110411_minister_icc.shtml",
-          "access-date": "2020-06-25",
-          "website": "www.bbc.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Hon State Ministers’ Message",
-          "url": "http://powermin.gov.lk/english/?page_id=5365",
-          "access-date": "2020-06-25",
-          "website": "Ministry of Power and Energy",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Mahindananda completes 30 years in politics",
-          "url": "http://www.dailynews.lk/2020/03/02/local/213082/mahindananda-completes-30-years-politics",
-          "access-date": "2020-06-25",
-          "website": "Daily News",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

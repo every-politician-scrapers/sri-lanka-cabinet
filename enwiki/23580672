@@ -398,28 +398,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/en/members-of-parliament/directory-of-members/viewMember/168",
-          "title": "Hon. Chamal Rajapaksa, M.P.",
-          "publisher": "Parliament of Sri Lanka",
-          "access-date": "26 September 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
