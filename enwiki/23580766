@@ -218,20 +218,6 @@
             "number": 4
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/en/component/members/viewMember/104?Itemid=206_",
-          "title": "Parliament of Sri Lanka - Janaka Bandara Thennakoon",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parliament.lk/en/component/members/viewMember",
-          "title": "Parliament of Sri Lanka -",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

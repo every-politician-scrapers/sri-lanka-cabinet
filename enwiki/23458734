@@ -222,44 +222,6 @@
             "text": "4/3/A First Lane, Gangadara Road, Sirimal Uyana, Ratmalana"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/directory_of_members/ViewMember.do?memID=234",
-          "title": "Rohitha Abeygunawardana",
-          "work": "Directory of Members",
-          "publisher": "Parliament of Sri Lanka",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20090312013517/http://www.parliament.lk/directory_of_members/ViewMember.do?memID=234",
-          "archive-date": "2009-03-12",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "38 State and Deputy Ministers sworn in",
-          "url": "https://www.newsfirst.lk/2019/11/27/38-state-and-deputy-ministers-sworn-in/",
-          "website": "Newsfirst",
-          "publisher": "MTV Channel (Pvt) Ltd",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "LBO",
-          "date": "2020-08-12",
-          "title": "Swearing-in ceremony for Sri Lanka's new Cabinet",
-          "url": "https://www.lankabusinessonline.com/swearing-in-ceremony-for-sri-lankas-new-cabinet-live/",
-          "access-date": "2020-08-13",
-          "website": "Lanka Business Online",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

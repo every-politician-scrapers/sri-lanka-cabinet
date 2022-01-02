@@ -289,44 +289,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Wanted man with SL delegation: TN passes the buck",
-          "url": "http://www.zeenews.com/news633001.html",
-          "newspaper": "ZeeNews.com",
-          "date": "10 June 2010",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Devananda case: Madras HC seeks response from TN Govt.",
-          "url": "http://www.dailymirror.lk/print/index.php/news/news/13087-devananda-case-madras-hc-seeks-response-from-tn-govt.html",
-          "newspaper": "Daily Mirror (Sri Lanka)",
-          "date": "15 June 2010",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "New Cabinet Ministers sworn in",
-          "url": "http://www.dailynews.lk/2019/11/22/local/203590/new-cabinet-ministers-sworn",
-          "newspaper": "Daily News, Sri Lanka",
-          "date": "22 November 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.epdpnews.com/Media",
-          "title": "'LTTE usurped Lankan Tamils' identity'",
-          "publisher": "The Statesman",
-          "date": "10 February 2007",
-          "url-status": "bot: unknown",
-          "archive-url": "https://web.archive.org/web/20070220214845/http://www.epdpnews.com/Media%20Release/The%20Statesman%2010.02.2007.html",
-          "archive-date": "20 February 2007",
-          "df": "dmy",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

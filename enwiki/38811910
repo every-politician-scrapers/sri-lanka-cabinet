@@ -260,23 +260,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.lk/directory_of_members/ViewMember.do?mem",
-          "title": "RAMESH PATHIRANA",
-          "work": "Directory of Members",
-          "publisher": "Parliament of Sri Lanka",
-          "access-date": "14 March 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

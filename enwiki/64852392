@@ -214,39 +214,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "admin",
-          "date": "2020-08-12",
-          "title": "Ali Sabry takes oaths as new Justice Minister {{!}} Colombo Gazette",
-          "url": "https://colombogazette.com/2020/08/12/ali-sabry-takes-oaths-as-new-justice-minister/",
-          "access-date": "2020-08-12",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Times",
-          "first": "Colombo",
-          "date": "2020-08-12",
-          "title": "Lawyer turned politician Ali Sabry is the new Justice Minister",
-          "url": "http://colombotimes.net/lawyer-turned-politician-ali-sabry-is-the-new-justice-minister/",
-          "access-date": "2020-08-12",
-          "website": "Colombo Times",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "New Cabinet: Ali Sabry appointed Minister of Justice",
-          "url": "https://ceylontoday.lk/news/new-cabinet-ali-sabry-appointed-minister-of-justice",
-          "access-date": "2020-08-12",
-          "website": "CeylonToday",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

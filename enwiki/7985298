@@ -346,48 +346,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.accessmylibrary.com/coms2/summary_0286-12754655_ITM",
-          "title": "Rosy send-off for Senanayake",
-          "first": "Ranjeetha",
-          "last": "Pakiam",
-          "publisher": "Asia Africa Intelligence Wire",
-          "date": "July 2004",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
