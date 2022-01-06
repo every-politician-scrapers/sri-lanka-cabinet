@@ -49,7 +49,7 @@
               }
             },
             {
-              "text": "He is a former Cabinet Minister of External Affairs and a former member of the Parliament of Sri Lanka.He is the current Minister of Education and a national listed member of parliament from the SLPP party",
+              "text": "He is a former Cabinet Minister of External Affairs and a former member of the Parliament of Sri Lanka.",
               "links": [
                 {
                   "text": "Cabinet Minister of External Affairs",
@@ -61,6 +61,9 @@
                   "page": "Parliament of Sri Lanka"
                 }
               ]
+            },
+            {
+              "text": "He is the current Minister of Education and a national listed member of parliament from the SLPP party."
             }
           ]
         }
