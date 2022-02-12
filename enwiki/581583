@@ -48,11 +48,12 @@
         {
           "sentences": [
             {
-              "text": "Percy Mahinda Rajapaksa (මහින්ද රාජපක්ෂ, மஹிந்த ராஜபக்ஷ; born 18 November 1945) is a Sri Lankan politician serving as Prime Minister of Sri Lanka since 2019, and previously from 2004 to 2005.",
+              "text": "Percy Mahinda Rajapaksa (මහින්ද රාජපක්ෂ, மஹிந்த ராஜபக்ஷ; born 18 November 1945) is a Sri Lankan politician serving as prime minister of Sri Lanka since 2019, and previously from 2004 to 2005.",
               "links": [
                 {
+                  "text": "prime minister of Sri Lanka",
                   "type": "internal",
-                  "page": "Prime Minister of Sri Lanka"
+                  "page": "prime minister of Sri Lanka"
                 }
               ],
               "formatting": {
