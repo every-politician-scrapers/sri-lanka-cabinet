@@ -271,6 +271,15 @@
               }
             ]
           },
+          "partner": {
+            "text": "Piumi Hansamali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Piumi Hansamali"
+              }
+            ]
+          },
           "relations": {
             "text": "Major General Ananda Weerasekara",
             "links": [
