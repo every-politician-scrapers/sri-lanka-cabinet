@@ -313,7 +313,7 @@
       "infoboxes": [
         {
           "honorific_prefix": {
-            "text": "His Excellency Lieutenant Colonel",
+            "text": "His Excellency\nLieutenant Colonel",
             "links": [
               {
                 "text": "His Excellency",
@@ -368,7 +368,7 @@
             "text": "18 November 2019"
           },
           "primeminister": {
-            "text": "Ranil Wickremesinghe Mahinda Rajapaksa",
+            "text": "Ranil Wickremesinghe\nMahinda Rajapaksa",
             "links": [
               {
                 "type": "internal",
@@ -457,7 +457,7 @@
             }
           },
           "office3": {
-            "text": "Secretary to the Ministry of Defence and Urban Development",
+            "text": "Secretary to the\nMinistry of Defence and Urban Development",
             "links": [
               {
                 "text": "Secretary",
@@ -559,7 +559,7 @@
             ]
           },
           "education": {
-            "text": "Ananda College, Colombo, Sri Lanka Military Academy",
+            "text": "Ananda College, Colombo,\nSri Lanka Military Academy",
             "links": [
               {
                 "text": "Ananda College, Colombo",
