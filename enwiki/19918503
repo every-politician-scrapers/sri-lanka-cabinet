@@ -153,6 +153,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Gamini Lokuge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gamini Lokuge"
+              }
+            ]
+          },
           "term_start": {
             "text": "12 August 2020"
           },
