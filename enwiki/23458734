@@ -1,228 +1,27 @@
 {
-  "title": "Rohitha Abeygunawardena",
-  "pageID": 23458734,
-  "categories": [
-    "Sinhalese businesspeople",
-    "1966 births",
-    "Living people",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Podujana Peramuna politicians",
-    "Government ministers of Sri Lanka",
-    "Sri Lanka Freedom Party politicians",
-    "United People's Freedom Alliance politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pahalage Rohitha Piyatissa Abeygunawardena (born 21 September 1966) is a Sri Lankan politician and businessman.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pahalage Rohitha Piyatissa Abeygunawardena"
-                ]
-              }
-            },
-            {
-              "text": "He was the Minister of Nation Building."
-            },
-            {
-              "text": "He is a representative of Kalutara District for the United People's Freedom Alliance in the Parliament of Sri Lanka.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kalutara District"
-                },
-                {
-                  "type": "internal",
-                  "page": "United People's Freedom Alliance"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ]
-            },
-            {
-              "text": "He is often referred to by the masses as \"Raththaran\"."
-            },
-            {
-              "text": "On 27 November 2019, he was appointed as Minister for Energy On 12 August 2020, he was appointed as the minister of ports and shipping.",
-              "links": [
-                {
-                  "text": "minister of ports and shipping",
-                  "type": "internal",
-                  "page": "Ministry of Ports and Shipping (Sri Lanka)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician, economist and businessman",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "November 2019",
-          "template": "blp sources"
-        },
-        {
-          "year": "1966",
-          "month": "09",
-          "day": "21",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Rohitha Abeygunawardena"
-          },
-          "native_name": {
-            "text": "රෝහිත අබේගුණවර්ධන\nரோஹித அபேகுணவர்தன"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Deputy Minister of Post, Telecommunications & Udarata Development"
-          },
-          "term_start": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office2": {
-            "text": "Minister of Nation Building"
-          },
-          "term_start2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end2": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office3": {
-            "text": "Deputy Minister of Ports & Aviation"
-          },
-          "term_start3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end3": {
-            "text": "9 January 2015"
-          },
-          "constituency_mp4": {
-            "text": "Kalutara District",
-            "links": [
-              {
-                "text": "Kalutara District",
-                "type": "internal",
-                "page": "Kalutara Electoral District"
-              }
-            ]
-          },
-          "parliament4": {
-            "text": "Sri Lanka"
-          },
-          "term_start4": {
-            "text": "2001",
-            "number": 2001
-          },
-          "office5": {
-            "text": "State Minister of Energy"
-          },
-          "term_start5": {
-            "text": "27 November 2019"
-          },
-          "office6": {
-            "text": "Minister of Ports and Shipping",
-            "links": [
-              {
-                "text": "Minister of Ports and Shipping",
-                "type": "internal",
-                "page": "Ministry of Ports and Shipping (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "12 August 2020"
-          },
-          "birth_date": {
-            "text": "September 21, 1966"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "United People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "residence": {
-            "text": "4/3/A First Lane, Gangadara Road, Sirimal Uyana, Ratmalana"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Rohitha Abeygunawardena",
+  "native_name": "රෝහිත අබේගුණවර්ධන\nரோஹித அபேகுணவர்தன",
+  "honorific-suffix": "MP",
+  "office": "Deputy Minister of Post, Telecommunications & Udarata Development",
+  "term_start": "2004",
+  "term_end": "2007",
+  "office2": "Minister of Nation Building",
+  "term_start2": "2007",
+  "term_end2": "2010",
+  "office3": "Deputy Minister of Ports & Aviation",
+  "term_start3": "2010",
+  "term_end3": "9 January 2015",
+  "constituency_mp4": "Kalutara District",
+  "parliament4": "Sri Lanka",
+  "term_start4": "2001",
+  "office5": "State Minister of Energy",
+  "term_start5": "27 November 2019",
+  "office6": "Minister of Ports and Shipping",
+  "term_start6": "12 August 2020",
+  "birth_date": "September 21, 1966",
+  "nationality": "Sri Lankan",
+  "party": "Sri Lanka Freedom Party",
+  "otherparty": "United People's Freedom Alliance",
+  "residence": "4/3/A First Lane, Gangadara Road, Sirimal Uyana, Ratmalana"
 }

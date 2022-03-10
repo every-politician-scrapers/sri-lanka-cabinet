@@ -1,222 +1,29 @@
 {
-  "title": "C. B. Ratnayake",
-  "pageID": 23580678,
-  "categories": [
-    "Living people",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Podujana Peramuna politicians",
-    "Sports ministers of Sri Lanka",
-    "Sri Lanka Freedom Party politicians",
-    "United People's Freedom Alliance politicians",
-    "1958 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ratnayake Mudiyanselage Chandrasiri Bandara Ratnayake (known as C. B. Ratnayake) is a Sri Lankan politician, a member of the Parliament of Sri Lanka and a government minister.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ratnayake Mudiyanselage Chandrasiri Bandara Ratnayake",
-                  "C. B. Ratnayake"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2013",
-          "template": "engvarb"
-        },
-        {
-          "date": "December 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "January 2013",
-          "template": "blp sources"
-        },
-        {
-          "df": "yes",
-          "year": "1958",
-          "month": "01",
-          "day": "21",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "C. B. Ratnayake"
-          },
-          "native_name": {
-            "text": "චන්ද්‍රසිරි බණ්ඩාර රත්නායක\nசந்திரசிறி பண்டார ரத்நாயக்க"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Plantation Community Infrastructure Development"
-          },
-          "term_start": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office2": {
-            "text": "Minister of Livestock Development"
-          },
-          "term_end2": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office3": {
-            "text": "Minister of Sport",
-            "links": [
-              {
-                "text": "Minister of Sport",
-                "type": "internal",
-                "page": "Ministry of Sports (Sri Lanka)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Gamini Lokuge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gamini Lokuge"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Mahindananda Aluthgamage",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahindananda Aluthgamage"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "23 April 2010"
-          },
-          "term_end3": {
-            "text": "22 November 2010"
-          },
-          "constituency_mp4": {
-            "text": "Nuwara Eliya District",
-            "links": [
-              {
-                "text": "Nuwara Eliya District",
-                "type": "internal",
-                "page": "Nuwara Eliya Electoral District"
-              }
-            ]
-          },
-          "parliament4": {
-            "text": "Sri Lanka"
-          },
-          "term_start4": {
-            "text": "5 December 2001"
-          },
-          "term_start5": {
-            "text": "16 August 1994"
-          },
-          "term_end5": {
-            "text": "18 August 2000"
-          },
-          "birth_date": {
-            "text": "January 21, 1958"
-          },
-          "nationality": {
-            "text": "Sri Lankan"
-          },
-          "spouse": {
-            "text": "Geetha Ratnayake"
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "Nuwan Ratnayake, Abheetha Ratnayake, Buddhimali Ratnayake"
-          },
-          "residence": {
-            "text": "308 Bauddhaloka Mawatha, Colombo 07",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colombo"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "C. B. Ratnayake",
+  "native_name": "චන්ද්‍රසිරි බණ්ඩාර රත්නායක\nசந்திரசிறி பண்டார ரத்நாயக்க",
+  "honorific-suffix": "MP",
+  "office": "Minister of Plantation Community Infrastructure Development",
+  "term_start": "2004",
+  "term_end": "2010",
+  "office2": "Minister of Livestock Development",
+  "term_end2": "2010",
+  "office3": "Minister of Sport",
+  "president3": "Mahinda Rajapaksa",
+  "primeminister3": "D. M. Jayaratne",
+  "predecessor3": "Gamini Lokuge",
+  "successor3": "Mahindananda Aluthgamage",
+  "term_start3": "23 April 2010",
+  "term_end3": "22 November 2010",
+  "constituency_mp4": "Nuwara Eliya District",
+  "parliament4": "Sri Lanka",
+  "term_start4": "5 December 2001",
+  "term_start5": "16 August 1994",
+  "term_end5": "18 August 2000",
+  "birth_date": "January 21, 1958",
+  "nationality": "Sri Lankan",
+  "spouse": "Geetha Ratnayake",
+  "party": "Sri Lanka Freedom Party",
+  "children": "Nuwan Ratnayake, Abheetha Ratnayake, Buddhimali Ratnayake",
+  "residence": "308 Bauddhaloka Mawatha, Colombo 07"
 }

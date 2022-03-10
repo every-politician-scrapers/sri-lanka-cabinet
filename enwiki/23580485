@@ -1,324 +1,40 @@
 {
-  "title": "Gamini Lokuge",
-  "pageID": 23580485,
-  "categories": [
-    "Living people",
-    "Members of the 8th Parliament of Sri Lanka",
-    "Members of the 9th Parliament of Sri Lanka",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Podujana Peramuna politicians",
-    "1943 births",
-    "Labour ministers of Sri Lanka",
-    "United National Party politicians",
-    "United People's Freedom Alliance politicians",
-    "Sports ministers of Sri Lanka",
-    "Ministers of state of Sri Lanka",
-    "Alumni of Ananda Sastralaya, Kotte"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gamini Kulawansa Lokuge (born 8 May 1943 in Piliyandala) is a Sri Lankan politician and Cabinet Minister of Transport.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Piliyandala"
-                },
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gamini Kulawansa Lokuge"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2021",
-          "template": "blp sources"
-        },
-        {
-          "year": "1943",
-          "month": "05",
-          "day": "08",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Gamini Lokuge"
-          },
-          "native_name": {
-            "text": "ගාමිණී ලොකුගේ\nகாமினி லோகுகே"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "order": {
-            "text": "Minister of Energy"
-          },
-          "term_start": {
-            "text": "3 March 2022"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dullas Alahapperuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dullas Alahapperuma"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Labour & Productivity Improvement"
-          },
-          "president1": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Athauda Seneviratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Athauda Seneviratne"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 April 2010"
-          },
-          "term_end1": {
-            "text": "12 January 2015"
-          },
-          "office2": {
-            "text": "Minister for Sports and Public Recreation",
-            "links": [
-              {
-                "text": "Minister for Sports",
-                "type": "internal",
-                "page": "Ministry of Sports (Sri Lanka)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Ratnasiri Wickremanayake",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ratnasiri Wickremanayake"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Jeewan Kumaranatunga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeewan Kumaranatunga"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "C. B. Rathnayake",
-            "links": [
-              {
-                "type": "internal",
-                "page": "C. B. Rathnayake"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 January 2007"
-          },
-          "term_end2": {
-            "text": "23 April 2010"
-          },
-          "office3": {
-            "text": "Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Ministry of Tourism (Sri Lanka)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Chandrika Kumaratunga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chandrika Kumaratunga"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end3": {
-            "text": "8 April 2004"
-          },
-          "constituency_mp4": {
-            "text": "Colombo",
-            "links": [
-              {
-                "text": "Colombo",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament4": {
-            "text": "Sri Lanka"
-          },
-          "term_start4": {
-            "text": "1989",
-            "number": 1989
-          },
-          "birth_date": {
-            "text": "May 8, 1943"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "United People's Freedom Alliance (2007 – present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "United National Front (2000 – 2007)",
-            "links": [
-              {
-                "text": "United National Front",
-                "type": "internal",
-                "page": "United National Front (Sri Lanka)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Piliyandala Central College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piliyandala Central College"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Businessman"
-          },
-          "website": {
-            "text": "http://www.manthri.lk/en/politicians/gamini-lokuge"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Gamini Lokuge",
+  "native_name": "ගාමිණී ලොකුගේ\nகாமினி லோகுகே",
+  "honorific-suffix": "MP",
+  "order": "Minister of Energy",
+  "term_start": "3 March 2022",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Dullas Alahapperuma",
+  "office1": "Minister of Labour & Productivity Improvement",
+  "president1": "Mahinda Rajapaksa",
+  "primeminister1": "D. M. Jayaratne",
+  "predecessor1": "Athauda Seneviratne",
+  "term_start1": "23 April 2010",
+  "term_end1": "12 January 2015",
+  "office2": "Minister for Sports and Public Recreation",
+  "president2": "Mahinda Rajapaksa",
+  "primeminister2": "Ratnasiri Wickremanayake",
+  "predecessor2": "Jeewan Kumaranatunga",
+  "successor2": "C. B. Rathnayake",
+  "term_start2": "28 January 2007",
+  "term_end2": "23 April 2010",
+  "office3": "Minister of Tourism",
+  "president3": "Chandrika Kumaratunga",
+  "primeminister3": "Ranil Wickremesinghe",
+  "term_start3": "2001",
+  "term_end3": "8 April 2004",
+  "constituency_mp4": "Colombo",
+  "parliament4": "Sri Lanka",
+  "term_start4": "1989",
+  "birth_date": "May 8, 1943",
+  "nationality": "Sri Lankan",
+  "party": "United People's Freedom Alliance (2007 – present)",
+  "otherparty": "United National Front (2000 – 2007)",
+  "alma_mater": "Piliyandala Central College",
+  "occupation": "Politician",
+  "profession": "Businessman",
+  "website": "http://www.manthri.lk/en/politicians/gamini-lokuge"
 }

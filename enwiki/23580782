@@ -1,365 +1,47 @@
 {
-  "title": "Wimal Weerawansa",
-  "pageID": 23580782,
-  "categories": [
-    "1970 births",
-    "Colombo municipal councillors",
-    "Housing ministers of Sri Lanka",
-    "Janatha Vimukthi Peramuna politicians",
-    "Jathika Nidahas Peramuna politicians",
-    "Sinhalese nationalists",
-    "Living people",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Members of the Western Provincial Council",
-    "Sinhalese politicians",
-    "Sri Lankan Buddhists",
-    "United People's Freedom Alliance politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Weerasangilige Wimal Weerawansha (born 7 March 1970) is a Sri Lankan politician, Member of Parliament and leader of the National Freedom Front (NFF).",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Freedom Front"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Weerasangilige Wimal Weerawansha"
-                ]
-              }
-            },
-            {
-              "text": "He is the Minister of Industries since 2020."
-            },
-            {
-              "text": "He was the Minister of Small & Medium Business and Enterprise Development, Industries and Supply chain Management from 2019 to 2020, the Minister of Housing and Social Welfare in 2018 and the Minister of Construction and Housing from 2010 to 2015.",
-              "links": [
-                {
-                  "text": "Minister of Construction and Housing",
-                  "type": "internal",
-                  "page": "Ministry of Housing and Construction (Sri Lanka)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1970",
-          "month": "03",
-          "day": "07",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Wimal Weerawansha"
-          },
-          "native_name": {
-            "text": "විමල් වීරවංශ\nவிமல் வீரவன்ச"
-          },
-          "native_name_lang": {
-            "text": "si"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "WimalWeerawansa.jpg"
-          },
-          "office": {
-            "text": "Leader of the National Freedom Front",
-            "links": [
-              {
-                "text": "National Freedom Front",
-                "type": "internal",
-                "page": "Jathika Nidahas Peramuna"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 May 2008"
-          },
-          "predecessor": {
-            "text": "Position Established",
-            "formatting": {
-              "bold": [
-                "Position Established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Minister of Industries",
-            "links": [
-              {
-                "text": "Minister of Industries",
-                "type": "internal",
-                "page": "Minister of Industries (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 August 2020"
-          },
-          "term_end1": {
-            "text": "3 March 2022"
-          },
-          "president1": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Small & Medium Business and Enterprise Development, Industries and Supply chain Management",
-            "links": [
-              {
-                "text": "Minister of Small & Medium Business and Enterprise Development",
-                "type": "internal",
-                "page": "Minister of Small and Medium Business and Enterprise Development (Sri Lanka)"
-              },
-              {
-                "text": "Industries and Supply chain Management",
-                "type": "internal",
-                "page": "Minister of Industries and Supply Chain Management (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "22 November 2019"
-          },
-          "term_end2": {
-            "text": "11 August 2020"
-          },
-          "president2": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Housing and Social Welfare",
-            "links": [
-              {
-                "text": "Minister of Housing and Social Welfare",
-                "type": "internal",
-                "page": "Minister of Housing and Social Welfare (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "9 November 2018"
-          },
-          "term_end3": {
-            "text": "15 December 2018"
-          },
-          "president3": {
-            "text": "Maithripala Sirisena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maithripala Sirisena"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Construction, Engineering Services, Housing and Common Amenities",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Construction, Engineering Services, Housing and Common Amenities"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 April 2010"
-          },
-          "term_end4": {
-            "text": "12 January 2015"
-          },
-          "predecessor4": {
-            "text": "Ferial Ashraff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ferial Ashraff"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Sajith Premadasa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sajith Premadasa"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "constituency_mp5": {
-            "text": "Colombo District",
-            "links": [
-              {
-                "text": "Colombo District",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament5": {
-            "text": "Sri Lankan"
-          },
-          "term_start5": {
-            "text": "2000",
-            "number": 2000
-          },
-          "office6": {
-            "text": "Member of the Western Provincial Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Western Provincial Council"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end6": {
-            "text": "2000",
-            "number": 2000
-          },
-          "office7": {
-            "text": "Member of Colombo Municipal Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colombo Municipal Council"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1997",
-            "number": 1997
-          },
-          "term_end7": {
-            "text": "1999",
-            "number": 1999
-          },
-          "birth_name": {
-            "text": "Weerasangilige Wimal Weerawansha"
-          },
-          "birth_date": {
-            "text": "March 7, 1970"
-          },
-          "citizenship": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Janatha Vimukthi Peramuna\n(Before 2008)\nNational Freedom Front\n(Since 2008)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janatha Vimukthi Peramuna"
-              },
-              {
-                "type": "internal",
-                "page": "National Freedom Front"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Sri Lanka People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka People's Freedom Alliance"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Shashi Weerawansha"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "website": {
-            "text": "wimalweerawansa.lk"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Wimal Weerawansha",
+  "native_name": "විමල් වීරවංශ\nவிமல் வீரவன்ச",
+  "native_name_lang": "si",
+  "honorific-suffix": "MP",
+  "image": "WimalWeerawansa.jpg",
+  "office": "Leader of the National Freedom Front",
+  "term_start": "14 May 2008",
+  "predecessor": "Position Established",
+  "office1": "Minister of Industries",
+  "term_start1": "12 August 2020",
+  "term_end1": "3 March 2022",
+  "president1": "Gotabaya Rajapaksa",
+  "office2": "Minister of Small & Medium Business and Enterprise Development, Industries and Supply chain Management",
+  "term_start2": "22 November 2019",
+  "term_end2": "11 August 2020",
+  "president2": "Gotabaya Rajapaksa",
+  "office3": "Minister of Housing and Social Welfare",
+  "term_start3": "9 November 2018",
+  "term_end3": "15 December 2018",
+  "president3": "Maithripala Sirisena",
+  "office4": "Minister of Construction, Engineering Services, Housing and Common Amenities",
+  "term_start4": "23 April 2010",
+  "term_end4": "12 January 2015",
+  "predecessor4": "Ferial Ashraff",
+  "successor4": "Sajith Premadasa",
+  "president4": "Mahinda Rajapaksa",
+  "constituency_mp5": "Colombo District",
+  "parliament5": "Sri Lankan",
+  "term_start5": "2000",
+  "office6": "Member of the Western Provincial Council",
+  "term_start6": "1999",
+  "term_end6": "2000",
+  "office7": "Member of Colombo Municipal Council",
+  "term_start7": "1997",
+  "term_end7": "1999",
+  "birth_name": "Weerasangilige Wimal Weerawansha",
+  "birth_date": "March 7, 1970",
+  "citizenship": "Sri Lankan",
+  "party": "Janatha Vimukthi Peramuna\n(Before 2008)\nNational Freedom Front\n(Since 2008)",
+  "otherparty": "Sri Lanka People's Freedom Alliance",
+  "spouse": "Shashi Weerawansha",
+  "children": "2",
+  "occupation": "Politician",
+  "website": "wimalweerawansa.lk"
 }

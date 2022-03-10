@@ -1,551 +1,68 @@
 {
-  "title": "Dinesh Gunawardena",
-  "pageID": 10121384,
-  "categories": [
-    "1949 births",
-    "Alumni of Royal College, Colombo",
-    "Alumni of Royal Preparatory School",
-    "Chief Government Whips (Sri Lanka)",
-    "Deputy ministers of Sri Lanka",
-    "Environment ministers of Sri Lanka",
-    "Mahajana Eksath Peramuna politicians",
-    "Members of the 8th Parliament of Sri Lanka",
-    "Members of the 9th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Living people",
-    "Nyenrode Business University alumni",
-    "Sinhalese politicians",
-    "Sinhalese trade unionists",
-    "Sri Lankan Buddhists",
-    "Transport ministers of Sri Lanka",
-    "United People's Freedom Alliance politicians",
-    "University of Oregon alumni",
-    "Urban development ministers of Sri Lanka"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dinesh Chandra Rupasinghe Gunawardena (born 2 March 1949) is a Sri Lankan politician, Member of Parliament, Cabinet Minister, and Leader of House Parliament.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dinesh Chandra Rupasinghe Gunawardena"
-                ]
-              }
-            },
-            {
-              "text": "He is the current leader of the Mahajana Eksath Peramuna (MEP).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mahajana Eksath Peramuna"
-                }
-              ]
-            },
-            {
-              "text": "He was appointed as the Minister of Education on 16th of August 2021"
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "September 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Minister of Transport and Environment from September 2001 to December 2001."
-          ],
-          "template": "efn"
-        },
-        {
-          "list": [
-            "Minister of Urban Development and Sacred Area Development from January 2007 to April 2010."
-          ],
-          "template": "efn"
-        },
-        {
-          "year": "1949",
-          "month": "03",
-          "day": "02",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "template": "notelist"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Dinesh Gunawardena"
-          },
-          "native_name": {
-            "text": "දිනේෂ් ගුණවර්ධන\nதினேஷ் குணவர்தன"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Dinesh Gunawardena.jpg"
-          },
-          "office": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (Sri Lanka)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 August 2021"
-          },
-          "predecessor": {
-            "text": "G. L. Peiris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "G. L. Peiris"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Foreign Relations",
-            "links": [
-              {
-                "text": "Minister of Foreign Relations",
-                "type": "internal",
-                "page": "Minister of Foreign Relations (Sri Lanka)"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "22 November 2019"
-          },
-          "term_end3": {
-            "text": "16 August 2021"
-          },
-          "predecessor3": {
-            "text": "Tilak Marapana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tilak Marapana"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "G. L. Peiris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "G. L. Peiris"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Leader of the House",
-            "links": [
-              {
-                "text": "Leader of the House",
-                "type": "internal",
-                "page": "Leader of the House (Sri Lanka)"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 January 2020"
-          },
-          "predecessor1": {
-            "text": "Lakshman Kiriella",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lakshman Kiriella"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Leader of the Mahajana Eksath Peramuna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahajana Eksath Peramuna"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1983",
-            "number": 1983
-          },
-          "office6": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Minister of Transport (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "October 2000"
-          },
-          "term_end6": {
-            "text": "December 2001"
-          },
-          "predecessor6": {
-            "text": "Srimani Athulathmudali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Srimani Athulathmudali"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Gamini Atukorale",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gamini Atukorale"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Urban Development and Water Supply",
-            "links": [
-              {
-                "text": "Minister of Urban Development and Water Supply",
-                "type": "internal",
-                "page": "Minister of Urban Development and Water Supply (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "April 2004"
-          },
-          "term_end5": {
-            "text": "April 2010"
-          },
-          "predecessor5": {
-            "text": "Gamini Atukorale",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gamini Atukorale"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Water Supply and Drainage",
-            "links": [
-              {
-                "text": "Minister of Water Supply and Drainage",
-                "type": "internal",
-                "page": "Minister of Water Supply and Drainage (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "April 2010"
-          },
-          "term_end4": {
-            "text": "12 January 2015"
-          },
-          "predecessor4": {
-            "text": "A. L. M. Athaullah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "A. L. M. Athaullah"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Rauff Hakeem",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rauff Hakeem"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Chief Government Whip",
-            "links": [
-              {
-                "text": "Chief Government Whip",
-                "type": "internal",
-                "page": "Chief Government Whip (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "17 June 2008"
-          },
-          "term_end7": {
-            "text": "20 January 2015"
-          },
-          "predecessor7": {
-            "text": "Jeyaraj Fernandopulle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeyaraj Fernandopulle"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Gayantha Karunathilaka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gayantha Karunathilaka"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Deputy Minister of Education"
-          },
-          "term_start8": {
-            "text": "April 2004"
-          },
-          "term_end8": {
-            "text": "January 2007"
-          },
-          "successor8": {
-            "text": "M. Satchithanandan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. Satchithanandan"
-              }
-            ]
-          },
-          "constituency_mp11": {
-            "text": "Maharagama",
-            "links": [
-              {
-                "text": "Maharagama",
-                "type": "internal",
-                "page": "Maharagama Electoral District"
-              }
-            ]
-          },
-          "parliament11": {
-            "text": "Sri Lankan"
-          },
-          "term_start11": {
-            "text": "1983",
-            "number": 1983
-          },
-          "term_end11": {
-            "text": "1989",
-            "number": 1989
-          },
-          "predecessor11": {
-            "text": "Premarathne Gunasekera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Premarathne Gunasekera"
-              }
-            ]
-          },
-          "constituency_mp9": {
-            "text": "Colombo District",
-            "links": [
-              {
-                "text": "Colombo District",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament9": {
-            "text": "Sri Lankan"
-          },
-          "term_start9": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_start10": {
-            "text": "1989",
-            "number": 1989
-          },
-          "term_end10": {
-            "text": "1994",
-            "number": 1994
-          },
-          "birth_date": {
-            "text": "March 2, 1949"
-          },
-          "citizenship": {
-            "text": "Sri Lanka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Mahajana Eksath Peramuna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahajana Eksath Peramuna"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Sri Lanka People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka People's Freedom Alliance"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Royal College Colombo, University of Oregon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Royal College Colombo"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oregon"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Trade unionist"
-          },
-          "blank1": {
-            "text": "Ethnicity"
-          },
-          "data1": {
-            "text": "Sinhalese",
-            "links": [
-              {
-                "text": "Sinhalese",
-                "type": "internal",
-                "page": "Sinhalese people"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Dinesh Gunawardena",
+  "native_name": "දිනේෂ් ගුණවර්ධන\nதினேஷ் குணவர்தன",
+  "honorific-suffix": "MP",
+  "image": "Dinesh Gunawardena.jpg",
+  "office": "Minister of Education",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "term_start": "16 August 2021",
+  "predecessor": "G. L. Peiris",
+  "office3": "Minister of Foreign Relations",
+  "president3": "Gotabaya Rajapaksa",
+  "primeminister3": "Mahinda Rajapaksa",
+  "term_start3": "22 November 2019",
+  "term_end3": "16 August 2021",
+  "predecessor3": "Tilak Marapana",
+  "successor3": "G. L. Peiris",
+  "office1": "Leader of the House",
+  "president1": "Gotabaya Rajapaksa",
+  "primeminister1": "Mahinda Rajapaksa",
+  "term_start1": "3 January 2020",
+  "predecessor1": "Lakshman Kiriella",
+  "office2": "Leader of the Mahajana Eksath Peramuna",
+  "term_start2": "1983",
+  "office6": "Minister of Transport",
+  "term_start6": "October 2000",
+  "term_end6": "December 2001",
+  "predecessor6": "Srimani Athulathmudali",
+  "successor6": "Gamini Atukorale",
+  "office5": "Minister of Urban Development and Water Supply",
+  "term_start5": "April 2004",
+  "term_end5": "April 2010",
+  "predecessor5": "Gamini Atukorale",
+  "successor5": "Mahinda Rajapaksa",
+  "office4": "Minister of Water Supply and Drainage",
+  "term_start4": "April 2010",
+  "term_end4": "12 January 2015",
+  "predecessor4": "A. L. M. Athaullah",
+  "successor4": "Rauff Hakeem",
+  "office7": "Chief Government Whip",
+  "term_start7": "17 June 2008",
+  "term_end7": "20 January 2015",
+  "predecessor7": "Jeyaraj Fernandopulle",
+  "successor7": "Gayantha Karunathilaka",
+  "office8": "Deputy Minister of Education",
+  "term_start8": "April 2004",
+  "term_end8": "January 2007",
+  "successor8": "M. Satchithanandan",
+  "constituency_mp11": "Maharagama",
+  "parliament11": "Sri Lankan",
+  "term_start11": "1983",
+  "term_end11": "1989",
+  "predecessor11": "Premarathne Gunasekera",
+  "constituency_mp9": "Colombo District",
+  "parliament9": "Sri Lankan",
+  "term_start9": "2000",
+  "term_start10": "1989",
+  "term_end10": "1994",
+  "birth_date": "March 2, 1949",
+  "citizenship": "Sri Lanka",
+  "party": "Mahajana Eksath Peramuna",
+  "otherparty": "Sri Lanka People's Freedom Alliance",
+  "alma_mater": "Royal College Colombo, University of Oregon",
+  "occupation": "Trade unionist",
+  "blank1": "Ethnicity",
+  "data1": "Sinhalese"
 }
