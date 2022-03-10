@@ -1,271 +1,41 @@
 {
-  "title": "Pavithra Wanniarachchi",
-  "pageID": 23580775,
-  "categories": [
-    "Members of the Sabaragamuwa Provincial Council",
-    "Women legislators in Sri Lanka",
-    "Living people",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Freedom Party politicians",
-    "United People's Freedom Alliance politicians",
-    "1964 births",
-    "People from Ratnapura",
-    "Culture ministers of Sri Lanka",
-    "Power ministers of Sri Lanka",
-    "20th-century women politicians",
-    "21st-century women politicians",
-    "Women government ministers of Sri Lanka"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pavithra Wanniarachchi (පවිත්‍රා වන්නිආරච්චි) is a Sri Lankan lawyer and politician.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pavithra Wanniarachchi"
-                ]
-              }
-            },
-            {
-              "text": "The current Minister of Transport, she is a Member of Parliament from the Ratnapura District.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2016",
-          "template": "no footnotes"
-        },
-        {
-          "year": "1964",
-          "month": "11",
-          "day": "10",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Pavithra Wanniarachchi"
-          },
-          "native_name": {
-            "text": "පවිත්‍රා වන්නිආරච්චි\nவித்ரா வன்னியாராச்சி"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "order": {
-            "text": "Minister of Commerece"
-          },
-          "term_start": {
-            "text": "22 November 2019"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dullas Alahapperuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dullas Alahapperuma"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Plan Implementation"
-          },
-          "term_start1": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_end1": {
-            "text": "2001",
-            "number": 2001
-          },
-          "office2": {
-            "text": "Minister of Samurdhi & Poverty Alleviation"
-          },
-          "term_start2": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end2": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office3": {
-            "text": "Minister of Youth Affairs"
-          },
-          "term_start3": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office4": {
-            "text": "Minister of Cultural Affairs & National Heritage"
-          },
-          "term_start4": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end4": {
-            "text": "12 January 2015"
-          },
-          "office5": {
-            "text": "Minister of Technology and Research"
-          },
-          "term_start5": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end5": {
-            "text": "12 January 2015"
-          },
-          "office6": {
-            "text": "Minister of Power & Energy"
-          },
-          "term_start6": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end6": {
-            "text": "12 January 2015"
-          },
-          "office7": {
-            "text": "Minister of Health, Nutrition and Indigenous Medicine"
-          },
-          "term_start7": {
-            "text": "November 2019"
-          },
-          "constituency_mp8": {
-            "text": "Ratnapura District",
-            "links": [
-              {
-                "text": "Ratnapura District",
-                "type": "internal",
-                "page": "Ratnapura Electoral District"
-              }
-            ]
-          },
-          "parliament8": {
-            "text": "Sri Lanka"
-          },
-          "term_start8": {
-            "text": "1994",
-            "number": 1994
-          },
-          "birth_date": {
-            "text": "November 10, 1964"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Kanchana Jayaratne"
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "United People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "residence": {
-            "text": "C42 Keppetipola Mawatha, Colombo 05",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colombo"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Lawyer"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Pavithra Wanniarachchi",
+  "native_name": "පවිත්‍රා වන්නිආරච්චි\nவித்ரா வன்னியாராச்சி",
+  "honorific-suffix": "MP",
+  "order": "Minister of Commerece",
+  "term_start": "22 November 2019",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Dullas Alahapperuma",
+  "office1": "Minister of Plan Implementation",
+  "term_start1": "2000",
+  "term_end1": "2001",
+  "office2": "Minister of Samurdhi & Poverty Alleviation",
+  "term_start2": "2004",
+  "term_end2": "2007",
+  "office3": "Minister of Youth Affairs",
+  "term_start3": "2007",
+  "term_end3": "2010",
+  "office4": "Minister of Cultural Affairs & National Heritage",
+  "term_start4": "2010",
+  "term_end4": "12 January 2015",
+  "office5": "Minister of Technology and Research",
+  "term_start5": "2010",
+  "term_end5": "12 January 2015",
+  "office6": "Minister of Power & Energy",
+  "term_start6": "2013",
+  "term_end6": "12 January 2015",
+  "office7": "Minister of Health, Nutrition and Indigenous Medicine",
+  "term_start7": "November 2019",
+  "constituency_mp8": "Ratnapura District",
+  "parliament8": "Sri Lanka",
+  "term_start8": "1994",
+  "birth_date": "November 10, 1964",
+  "nationality": "Sri Lankan",
+  "spouse": "Kanchana Jayaratne",
+  "party": "Sri Lanka Freedom Party",
+  "otherparty": "United People's Freedom Alliance",
+  "residence": "C42 Keppetipola Mawatha, Colombo 05",
+  "occupation": "Lawyer"
 }

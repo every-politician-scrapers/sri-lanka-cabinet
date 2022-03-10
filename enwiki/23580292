@@ -1,354 +1,42 @@
 {
-  "title": "Bandula Gunawardane",
-  "pageID": 23580292,
-  "categories": [
-    "Sinhalese politicians",
-    "Living people",
-    "1953 births",
-    "Lumbini College alumni",
-    "Members of the 9th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Education ministers of Sri Lanka",
-    "Mahajana Eksath Peramuna politicians",
-    "United National Party politicians",
-    "United People's Freedom Alliance politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sumithra Arachchige Don Bandula Chandrasiri Gunawardane (born 15 March 1953 ) (known as Bandula Gunawardane) is a Sri Lankan politician, a member of the Parliament of Sri Lanka and a government minister.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sumithra Arachchige Don Bandula Chandrasiri Gunawardane"
-                ],
-                "italic": [
-                  "Bandula Gunawardane"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "April 2016",
-          "template": "blp sources"
-        },
-        {
-          "year": "1953",
-          "month": "03",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Bandula Gunawardane"
-          },
-          "native_name": {
-            "text": "බන්දුල ගුණවර්ධන\nபந்துல குணவர்தனே"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "order": {
-            "text": "Minister of Trade"
-          },
-          "term_start": {
-            "text": "12 August 2020"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dullas Alahapperuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dullas Alahapperuma"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Rural Economy"
-          },
-          "president1": {
-            "text": "Chandrika Kumaratunga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chandrika Kumaratunga"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end1": {
-            "text": "2004",
-            "number": 2004
-          },
-          "office2": {
-            "text": "Deputy Minister of Finance"
-          },
-          "president2": {
-            "text": "Chandrika Kumaratunga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chandrika Kumaratunga"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end2": {
-            "text": "2004",
-            "number": 2004
-          },
-          "office3": {
-            "text": "Minister of Trade, Marketing Development & Consumer Affairs"
-          },
-          "president3": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Ratnasiri Wickremanayake",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ratnasiri Wickremanayake"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office4": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (Sri Lanka)"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 April 2010"
-          },
-          "term_end4": {
-            "text": "12 January 2015"
-          },
-          "successor4": {
-            "text": "Akila Viraj Kariyawasam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akila Viraj Kariyawasam"
-              }
-            ]
-          },
-          "constituency_mp5": {
-            "text": "Colombo District",
-            "links": [
-              {
-                "text": "Colombo District",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament5": {
-            "text": "Sri Lanka"
-          },
-          "term_start5": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_start6": {
-            "text": "1989",
-            "number": 1989
-          },
-          "term_end6": {
-            "text": "1994",
-            "number": 1994
-          },
-          "birth_date": {
-            "text": "March 15, 1953"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party (2007 - Present)\nUnited National Party (2001- 2007)\nMahajana Eksath Peramuna (1989 - 2001)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              },
-              {
-                "type": "internal",
-                "page": "United National Party"
-              },
-              {
-                "type": "internal",
-                "page": "Mahajana Eksath Peramuna"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Present"
-              ]
-            }
-          },
-          "otherparty": {
-            "text": "Sri Lanka People's Freedom Alliance (2019 - Present)\nUnited People's Freedom Alliance  (2007 - 2019)\nUnited National Front  (2001- 2007) \nPeople's Alliance (Sri Lanka) (2000 - 2001)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka People's Freedom Alliance"
-              },
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              },
-              {
-                "text": "United National Front",
-                "type": "internal",
-                "page": "United National Front (Sri Lanka)"
-              },
-              {
-                "type": "internal",
-                "page": "People's Alliance (Sri Lanka)"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Present"
-              ]
-            }
-          },
-          "residence": {
-            "text": "142 Jambugasmulla Mw,\nNugegoda, Sri Lanka."
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Bandula Gunawardane",
+  "native_name": "බන්දුල ගුණවර්ධන\nபந்துல குணவர்தனே",
+  "honorific-suffix": "MP",
+  "order": "Minister of Trade",
+  "term_start": "12 August 2020",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Dullas Alahapperuma",
+  "office1": "Minister of Rural Economy",
+  "president1": "Chandrika Kumaratunga",
+  "primeminister1": "Ranil Wickremesinghe",
+  "term_start1": "2001",
+  "term_end1": "2004",
+  "office2": "Deputy Minister of Finance",
+  "president2": "Chandrika Kumaratunga",
+  "primeminister2": "Ranil Wickremesinghe",
+  "term_start2": "2001",
+  "term_end2": "2004",
+  "office3": "Minister of Trade, Marketing Development & Consumer Affairs",
+  "president3": "Mahinda Rajapaksa",
+  "primeminister3": "Ratnasiri Wickremanayake",
+  "term_start3": "2007",
+  "term_end3": "2010",
+  "office4": "Minister of Education",
+  "president4": "Mahinda Rajapaksa",
+  "primeminister4": "D. M. Jayaratne",
+  "term_start4": "23 April 2010",
+  "term_end4": "12 January 2015",
+  "successor4": "Akila Viraj Kariyawasam",
+  "constituency_mp5": "Colombo District",
+  "parliament5": "Sri Lanka",
+  "term_start5": "2000",
+  "term_start6": "1989",
+  "term_end6": "1994",
+  "birth_date": "March 15, 1953",
+  "nationality": "Sri Lankan",
+  "party": "Sri Lanka Freedom Party (2007 - Present)\nUnited National Party (2001- 2007)\nMahajana Eksath Peramuna (1989 - 2001)",
+  "otherparty": "Sri Lanka People's Freedom Alliance (2019 - Present)\nUnited People's Freedom Alliance  (2007 - 2019)\nUnited National Front  (2001- 2007) \nPeople's Alliance (Sri Lanka) (2000 - 2001)",
+  "residence": "142 Jambugasmulla Mw,\nNugegoda, Sri Lanka."
 }

@@ -1,408 +1,57 @@
 {
-  "title": "Mahinda Amaraweera",
-  "pageID": 23458874,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Government ministers of Sri Lanka",
-    "Sri Lanka Freedom Party politicians",
-    "United People's Freedom Alliance politicians",
-    "People from Southern Province, Sri Lanka",
-    "Fisheries ministers of Sri Lanka"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mahinda Amaraweera (Sinhala:මහින්ද අමරවීර ) (born 12 February 1962) is a Sri Lankan politician.",
-              "links": [
-                {
-                  "text": "Sinhala",
-                  "type": "internal",
-                  "page": "Sinhala language"
-                },
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mahinda Amaraweera"
-                ]
-              }
-            },
-            {
-              "text": "He is currently the cabinet minister of Transportation, Power and Energy and is a member for Hambantota, representing the United People's Freedom Alliance in the Parliament of Sri Lanka.",
-              "links": [
-                {
-                  "text": "Hambantota",
-                  "type": "internal",
-                  "page": "Hambantota Electoral District"
-                },
-                {
-                  "type": "internal",
-                  "page": "United People's Freedom Alliance"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "March 2016",
-          "template": "more footnotes"
-        },
-        {
-          "date": "October 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1962",
-          "month": "02",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mahinda Amaraweera"
-          },
-          "native_name": {
-            "text": "මහින්ද අමරවිර\nமகிந்த அமரவீர"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Chief Opposition Whip"
-          },
-          "president": {
-            "text": "Maithripala Sirisena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maithripala Sirisena"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Anura Kumara Dissanayake",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anura Kumara Dissanayake"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 December 2018"
-          },
-          "term_end": {
-            "text": "22 November 2019"
-          },
-          "office1": {
-            "text": "Minister of Transportation, Power and Energy"
-          },
-          "president1": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mahinda Rajapakse",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapakse"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 November 2019"
-          },
-          "office2": {
-            "text": "Minister of Agriculture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Agriculture"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Maithripala Sirisena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maithripala Sirisena"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 September 2015"
-          },
-          "term_end2": {
-            "text": "26 October 2018"
-          },
-          "office3": {
-            "text": "Minister of Disaster Management"
-          },
-          "president3": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end3": {
-            "text": "12 January 2015"
-          },
-          "office4": {
-            "text": "Deputy Minister of Health"
-          },
-          "president4": {
-            "text": "Mahinda Rajapaksa"
-          },
-          "primeminister4": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end4": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office5": {
-            "text": "Minister of Water Supply"
-          },
-          "president5": {
-            "text": "Mahinda Rajapaksa"
-          },
-          "primeminister5": {
-            "text": "Ratnasiri Wickremanayake",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ratnasiri Wickremanayake"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end5": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office6": {
-            "text": "General Secretary of the United People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "General Secretary"
-              },
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "leader6": {
-            "text": "Maithripala Sirisena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maithripala Sirisena"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "8 March 2016"
-          },
-          "predecessor6": {
-            "text": "Wiswa Warnapala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wiswa Warnapala"
-              }
-            ]
-          },
-          "constituency_mp7": {
-            "text": "Hambantota District",
-            "links": [
-              {
-                "text": "Hambantota District",
-                "type": "internal",
-                "page": "Hambantota Electoral District"
-              }
-            ]
-          },
-          "parliament7": {
-            "text": "Sri Lanka"
-          },
-          "term_start7": {
-            "text": "2004",
-            "number": 2004
-          },
-          "constituency_mp8": {
-            "text": "National List"
-          },
-          "parliament8": {
-            "text": "Sri Lanka"
-          },
-          "term_start8": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end8": {
-            "text": "2004",
-            "number": 2004
-          },
-          "birth_date": {
-            "text": "February 12, 1962"
-          },
-          "birth_place": {
-            "text": "Udayala, Angunukolapelessa"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Dilrukshika Weerakoon (m.1996-2011), Madushini Prancisku (m.2018-),"
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "United People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "children": {
-            "text": "Pasan Amaraweera"
-          },
-          "residence": {
-            "text": "B/63 Mahagamasekara Mawatha, Colombo 07",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colombo"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Vijithl Central College, Dickwella."
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Mahinda Amaraweera",
+  "native_name": "මහින්ද අමරවිර\nமகிந்த அமரவீர",
+  "honorific-suffix": "MP",
+  "office": "Chief Opposition Whip",
+  "president": "Maithripala Sirisena",
+  "primeminister": "Ranil Wickremesinghe",
+  "predecessor": "Anura Kumara Dissanayake",
+  "term_start": "18 December 2018",
+  "term_end": "22 November 2019",
+  "office1": "Minister of Transportation, Power and Energy",
+  "president1": "Gotabaya Rajapaksa",
+  "primeminister1": "Mahinda Rajapakse",
+  "term_start1": "22 November 2019",
+  "office2": "Minister of Agriculture",
+  "president2": "Maithripala Sirisena",
+  "primeminister2": "Ranil Wickremesinghe",
+  "term_start2": "4 September 2015",
+  "term_end2": "26 October 2018",
+  "office3": "Minister of Disaster Management",
+  "president3": "Mahinda Rajapaksa",
+  "primeminister3": "D. M. Jayaratne",
+  "term_start3": "2010",
+  "term_end3": "12 January 2015",
+  "office4": "Deputy Minister of Health",
+  "president4": "Mahinda Rajapaksa",
+  "primeminister4": "D. M. Jayaratne",
+  "term_start4": "2010",
+  "term_end4": "2010",
+  "office5": "Minister of Water Supply",
+  "president5": "Mahinda Rajapaksa",
+  "primeminister5": "Ratnasiri Wickremanayake",
+  "term_start5": "2007",
+  "term_end5": "2010",
+  "office6": "General Secretary of the United People's Freedom Alliance",
+  "leader6": "Maithripala Sirisena",
+  "term_start6": "8 March 2016",
+  "predecessor6": "Wiswa Warnapala",
+  "constituency_mp7": "Hambantota District",
+  "parliament7": "Sri Lanka",
+  "term_start7": "2004",
+  "constituency_mp8": "National List",
+  "parliament8": "Sri Lanka",
+  "term_start8": "2001",
+  "term_end8": "2004",
+  "birth_date": "February 12, 1962",
+  "birth_place": "Udayala, Angunukolapelessa",
+  "nationality": "Sri Lankan",
+  "spouse": "Dilrukshika Weerakoon (m.1996-2011), Madushini Prancisku (m.2018-),",
+  "party": "Sri Lanka Freedom Party",
+  "otherparty": "United People's Freedom Alliance",
+  "children": "Pasan Amaraweera",
+  "residence": "B/63 Mahagamasekara Mawatha, Colombo 07",
+  "alma_mater": "Vijithl Central College, Dickwella.",
+  "occupation": "Politician"
 }

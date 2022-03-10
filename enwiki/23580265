@@ -1,209 +1,28 @@
 {
-  "title": "Johnston Fernando",
-  "pageID": 23580265,
-  "categories": [
-    "Sri Lankan Roman Catholics",
-    "Living people",
-    "Sinhalese businesspeople",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Podujana Peramuna politicians",
-    "Trade ministers of Sri Lanka",
-    "Members of the North Western Provincial Council",
-    "United National Party politicians",
-    "United People's Freedom Alliance politicians",
-    "1964 births",
-    "Sports ministers of Sri Lanka",
-    "Alumni of St. Anne's College, Kurunegala",
-    "People from Kurunegala"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Johnston Xavier Fernando (born 5 December 1964) is a Sri Lankan politician, former Cabinet Minister of Co-operatives and Internal Trade.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "text": "Co-operatives and Internal Trade",
-                  "type": "internal",
-                  "page": "Ministry of Co-operatives and Internal Trade"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Johnston Xavier Fernando"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2018",
-          "template": "blp sources"
-        },
-        {
-          "year": "1964",
-          "month": "12",
-          "day": "05",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Johnston Fernando"
-          },
-          "native_name": {
-            "text": "ජොන්ස්ටන් ප්‍රනාන්දු\nஜான்ஸ்டன் பெர்னாண்டோ"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "2009JF.png"
-          },
-          "office": {
-            "text": "Project Minister of Youth Affairs & Sports"
-          },
-          "term_start": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end": {
-            "text": "2004",
-            "number": 2004
-          },
-          "office2": {
-            "text": "Minister of Co-operatives & Internal Trade"
-          },
-          "term_start2": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end2": {
-            "text": "12 January 2015"
-          },
-          "constituency_mp3": {
-            "text": "Kurunegala District",
-            "links": [
-              {
-                "text": "Kurunegala District",
-                "type": "internal",
-                "page": "Kurunegala Electoral District"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Sri Lanka"
-          },
-          "term_start3": {
-            "text": "2000",
-            "number": 2000
-          },
-          "birth_date": {
-            "text": "December 5, 1964"
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "party": {
-            "text": "United National Party (Democratic)"
-          },
-          "otherparty": {
-            "text": "United People's Freedom Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United People's Freedom Alliance"
-              }
-            ]
-          },
-          "children": {
-            "text": "Johan Fernando and 1"
-          },
-          "residence": {
-            "text": "61 Wilgoda Road, Kurunegala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kurunegala"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "St. Anne's College, Kurunegala",
-            "links": [
-              {
-                "text": "St. Anne's College, Kurunegala",
-                "type": "internal",
-                "page": "St. Anne's College (Sri Lanka)"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Businessman"
-          },
-          "website": {
-            "text": "johnstonfernando.lk",
-            "links": [
-              {
-                "text": "johnstonfernando.lk",
-                "type": "external",
-                "site": "http://www.johnstonfernando.lk"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes"
+}
+{
+  "honorific-prefix": "Hon.",
+  "name": "Johnston Fernando",
+  "native_name": "ජොන්ස්ටන් ප්‍රනාන්දු\nஜான்ஸ்டன் பெர்னாண்டோ",
+  "honorific-suffix": "MP",
+  "image": "2009JF.png",
+  "office": "Project Minister of Youth Affairs & Sports",
+  "term_start": "2001",
+  "term_end": "2004",
+  "office2": "Minister of Co-operatives & Internal Trade",
+  "term_start2": "2010",
+  "term_end2": "12 January 2015",
+  "constituency_mp3": "Kurunegala District",
+  "parliament3": "Sri Lanka",
+  "term_start3": "2000",
+  "birth_date": "December 5, 1964",
+  "nationality": "Sri Lankan",
+  "party": "United National Party (Democratic)",
+  "otherparty": "United People's Freedom Alliance",
+  "children": "Johan Fernando and 1",
+  "residence": "61 Wilgoda Road, Kurunegala",
+  "alma_mater": "St. Anne's College, Kurunegala",
+  "occupation": "Businessman",
+  "website": "johnstonfernando.lk"
 }

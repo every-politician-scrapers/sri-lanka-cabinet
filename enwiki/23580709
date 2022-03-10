@@ -1,365 +1,45 @@
 {
-  "title": "Basil Rajapaksa",
-  "pageID": 23580709,
-  "categories": [
-    "1952 births",
-    "Alumni of Ananda College",
-    "Alumni of Isipathana College",
-    "Government ministers of Sri Lanka",
-    "Living people",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Prisoners and detainees of Sri Lanka",
-    "Rajapaksa family",
-    "Sinhalese politicians",
-    "Sri Lankan Buddhists",
-    "Sri Lankan prisoners and detainees",
-    "Sri Lanka Podujana Peramuna politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Basil Rohana Rajapaksa (born 27 April 1951) is a Sri Lankan-American and a Sri Lankan politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sri Lankan-American"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Basil Rohana Rajapaksa"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Sri Lankan Parliament for national list and the Minister of Finance.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sri Lankan Parliament"
-                },
-                {
-                  "text": "national list",
-                  "type": "internal",
-                  "page": "National List Member of Parliament"
-                },
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Minister of Finance (Sri Lanka)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was also a member of the Sri Lankan Parliament from 2007 to 2015."
-            },
-            {
-              "text": "During the period of 2005–2010 he served as a presidential senior advisor for President Mahinda Rajapaksa and in 2007 he was appointed as a member of parliament from the national list.",
-              "links": [
-                {
-                  "text": "President",
-                  "type": "internal",
-                  "page": "President of Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mahinda Rajapaksa"
-                },
-                {
-                  "text": "national list",
-                  "type": "internal",
-                  "page": "National List Member of Parliament"
-                }
-              ]
-            },
-            {
-              "text": "He was the Cabinet minister for Economic Development in President Mahinda Rajapaksa's second term (2010–2015)."
-            },
-            {
-              "text": "In the 2010 parliamentary election, he was elected from Gampaha district by obtaining the highest number of preferential votes in Sri Lanka."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2017",
-          "template": "blp sources"
-        },
-        {
-          "date": "May 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1951",
-          "month": "4",
-          "day": "27",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Basil Rohana Rajapaksa"
-          },
-          "native_name": {
-            "text": "බැසිල් රෝහණ රාජපක්ෂ \nபசில் ரோஹன ராஜபக்ஷ"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "parliament": {
-            "text": "Sri Lanka"
-          },
-          "image": {
-            "text": "Basil Rajapaksa.JPG"
-          },
-          "order": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "Minister of Finance (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 July 2021"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "order4": {
-            "text": "Minister of Economic Development",
-            "links": [
-              {
-                "text": "Minister of Economic Development",
-                "type": "internal",
-                "page": "Minister of Economic Development (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "22 April 2010"
-          },
-          "term_end4": {
-            "text": "9 January 2015"
-          },
-          "president4": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Office Established",
-            "formatting": {
-              "italic": [
-                "Office Established"
-              ]
-            }
-          },
-          "successor4": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Gampaha District",
-            "links": [
-              {
-                "text": "Gampaha District",
-                "type": "internal",
-                "page": "Gampaha Electoral District"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Sri Lanka"
-          },
-          "term_start3": {
-            "text": "22 April 2010"
-          },
-          "term_end3": {
-            "text": "26 June 2015"
-          },
-          "majority3": {
-            "text": "425,861 Preferential Votes"
-          },
-          "constituency_mp1": {
-            "text": "National List",
-            "links": [
-              {
-                "text": "National List",
-                "type": "internal",
-                "page": "National List Member of Parliament"
-              }
-            ]
-          },
-          "parliament1": {
-            "text": "Sri Lanka"
-          },
-          "term_start1": {
-            "text": "8 July 2021"
-          },
-          "predecessor1": {
-            "text": "Jayantha Ketagoda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jayantha Ketagoda"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 September 2007"
-          },
-          "term_end2": {
-            "text": "9 February 2010"
-          },
-          "predecessor2": {
-            "text": "Mohamed Ismail Anwar Ismail"
-          },
-          "birth_name": {
-            "text": "Basil Rohana Rajapaksa"
-          },
-          "birth_date": {
-            "text": "April 27, 1951"
-          },
-          "birth_place": {
-            "text": "Sri Lanka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Sri Lankan",
-            "links": [
-              {
-                "text": "Sri Lankan",
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "Sri Lankan\nAmerican"
-          },
-          "party": {
-            "text": "Sri Lanka Podujana Peramuna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Podujana Peramuna"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Pushpa Rajapaksa"
-          },
-          "children": {
-            "text": "Thejani, Bimalka and Ashantha"
-          },
-          "alma_mater": {
-            "text": "Isipathana College\nAnanda College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isipathana College"
-              },
-              {
-                "type": "internal",
-                "page": "Ananda College"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://basilrajapaksa.com/"
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes"
+}
+{
+  "honorific-prefix": "Hon.",
+  "name": "Basil Rohana Rajapaksa",
+  "native_name": "බැසිල් රෝහණ රාජපක්ෂ \nபசில் ரோஹன ராஜபக்ஷ",
+  "honorific-suffix": "MP",
+  "parliament": "Sri Lanka",
+  "image": "Basil Rajapaksa.JPG",
+  "order": "Minister of Finance",
+  "term_start": "8 July 2021",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Mahinda Rajapaksa",
+  "order4": "Minister of Economic Development",
+  "term_start4": "22 April 2010",
+  "term_end4": "9 January 2015",
+  "president4": "Mahinda Rajapaksa",
+  "primeminister4": "D. M. Jayaratne",
+  "predecessor4": "Office Established",
+  "successor4": "Ranil Wickremesinghe",
+  "constituency_mp3": "Gampaha District",
+  "parliament3": "Sri Lanka",
+  "term_start3": "22 April 2010",
+  "term_end3": "26 June 2015",
+  "majority3": "425,861 Preferential Votes",
+  "constituency_mp1": "National List",
+  "parliament1": "Sri Lanka",
+  "term_start1": "8 July 2021",
+  "predecessor1": "Jayantha Ketagoda",
+  "term_start2": "19 September 2007",
+  "term_end2": "9 February 2010",
+  "predecessor2": "Mohamed Ismail Anwar Ismail",
+  "birth_name": "Basil Rohana Rajapaksa",
+  "birth_date": "April 27, 1951",
+  "birth_place": "Sri Lanka",
+  "nationality": "Sri Lankan",
+  "citizenship": "Sri Lankan\nAmerican",
+  "party": "Sri Lanka Podujana Peramuna",
+  "spouse": "Pushpa Rajapaksa",
+  "children": "Thejani, Bimalka and Ashantha",
+  "alma_mater": "Isipathana College\nAnanda College",
+  "website": "http://basilrajapaksa.com/"
 }

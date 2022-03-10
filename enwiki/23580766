@@ -1,224 +1,26 @@
 {
-  "title": "Janaka Bandara Tennakoon",
-  "pageID": 23580766,
-  "categories": [
-    "Alumni of Dharmaraja College",
-    "Living people",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 15th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Sri Lanka Podujana Peramuna politicians",
-    "Government ministers of Sri Lanka",
-    "Sri Lanka Freedom Party politicians",
-    "United People's Freedom Alliance politicians",
-    "1953 births",
-    "Local government and provincial councils ministers of Sri Lanka"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Janaka Bandara Tennakoon is a Sri Lankan politician and a member of the Parliament of Sri Lanka.",
-              "links": [
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Janaka Bandara Tennakoon"
-                ]
-              }
-            },
-            {
-              "text": "He is currently the Minister of Lands and Land Development."
-            },
-            {
-              "text": "He was educated at Dharmaraja College, Kandy.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Dharmaraja College, Kandy"
-                }
-              ]
-            },
-            {
-              "text": "He contested as the Group Leader of the Matale District of the Central Province and was elected to the Provincial Council with a majority of Proportional Votes in 1993; Elected as a Member of Parliament with a majority of proportional votes in the General Election of 1994; Elected as a Member of Parliament from the District of Matale with the majority of proportional votes in the general election of 2000."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is involved in several committees formed by the government."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2015",
-          "template": "more footnotes"
-        },
-        {
-          "year": "1953",
-          "month": "04",
-          "day": "13",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Janaka Bandara Tennakoon"
-          },
-          "native_name": {
-            "text": "ජනක බණ්ඩාර තෙන්නකෝන්\nஜனக பண்டார தென்னக்கோன்"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "order": {
-            "text": "Minister of Public Services, Provincial Councils and Local Government"
-          },
-          "term_start": {
-            "text": "12 August 2020"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dullas Alahapperuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dullas Alahapperuma"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Minister of Health"
-          },
-          "term_start1": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_end1": {
-            "text": "2001",
-            "number": 2001
-          },
-          "office2": {
-            "text": "Minister of Local Government and Provincial Councils"
-          },
-          "term_start2": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end2": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office3": {
-            "text": "Minister of Lands and Land Development",
-            "links": [
-              {
-                "text": "Minister of Lands and Land Development",
-                "type": "internal",
-                "page": "Ministry of Land and Land Development (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end3": {
-            "text": "12 January 2015"
-          },
-          "constituency_mp4": {
-            "text": "Matale District",
-            "links": [
-              {
-                "text": "Matale District",
-                "type": "internal",
-                "page": "Matale Electoral District"
-              }
-            ]
-          },
-          "parliament4": {
-            "text": "Sri Lanka"
-          },
-          "term_start4": {
-            "text": "16 August 1994"
-          },
-          "birth_date": {
-            "text": "April 13, 1953"
-          },
-          "party": {
-            "text": "Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Janaka Bandara Tennakoon",
+  "native_name": "ජනක බණ්ඩාර තෙන්නකෝන්\nஜனக பண்டார தென்னக்கோன்",
+  "honorific-suffix": "MP",
+  "order": "Minister of Public Services, Provincial Councils and Local Government",
+  "term_start": "12 August 2020",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Dullas Alahapperuma",
+  "office1": "Deputy Minister of Health",
+  "term_start1": "2000",
+  "term_end1": "2001",
+  "office2": "Minister of Local Government and Provincial Councils",
+  "term_start2": "2004",
+  "term_end2": "2010",
+  "office3": "Minister of Lands and Land Development",
+  "term_start3": "2010",
+  "term_end3": "12 January 2015",
+  "constituency_mp4": "Matale District",
+  "parliament4": "Sri Lanka",
+  "term_start4": "16 August 1994",
+  "birth_date": "April 13, 1953",
+  "party": "Sri Lanka Freedom Party",
+  "children": "4"
 }

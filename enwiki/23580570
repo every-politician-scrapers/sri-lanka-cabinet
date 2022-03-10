@@ -1,417 +1,50 @@
 {
-  "title": "G. L. Peiris",
-  "pageID": 23580570,
-  "categories": [
-    "1946 births",
-    "Living people",
-    "Sinhalese academics",
-    "Justice ministers of Sri Lanka",
-    "Alumni of the University of Ceylon (Colombo)",
-    "Alumni of New College, Oxford",
-    "Sri Lankan Rhodes Scholars",
-    "Members of the 10th Parliament of Sri Lanka",
-    "Members of the 11th Parliament of Sri Lanka",
-    "Members of the 12th Parliament of Sri Lanka",
-    "Members of the 13th Parliament of Sri Lanka",
-    "Members of the 14th Parliament of Sri Lanka",
-    "Members of the 16th Parliament of Sri Lanka",
-    "Alumni of S. Thomas' College, Mount Lavinia",
-    "Vice-Chancellors of the University of Colombo",
-    "Industries ministers of Sri Lanka",
-    "Vidya Jyothi",
-    "Sri Lanka Podujana Peramuna politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gamini Lakshman Peiris (Sinhala:ගාමීණි ලක්ෂ්මණ් පීරිස්) (born 13 August 1946) is a Sri Lankan politician and academic.",
-              "links": [
-                {
-                  "text": "Sinhala",
-                  "type": "internal",
-                  "page": "Sinhala language"
-                },
-                {
-                  "text": "Sri Lankan",
-                  "type": "internal",
-                  "page": "Sri Lanka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gamini Lakshman Peiris"
-                ]
-              }
-            },
-            {
-              "text": "He is a former Cabinet Minister of External Affairs and a former member of the Parliament of Sri Lanka.",
-              "links": [
-                {
-                  "text": "Cabinet Minister of External Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs of Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
-                }
-              ]
-            },
-            {
-              "text": "He is the current Minister of Education and a national listed member of parliament from the SLPP party."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Sri Lankan politician and academic",
-          "template": "short description"
-        },
-        {
-          "date": "November 2019",
-          "template": "blp sources"
-        },
-        {
-          "date": "January 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1946",
-          "month": "08",
-          "day": "13",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Gamini Lakshman Peiris"
-          },
-          "native_name": {
-            "text": "ගාමිණී ලක්ශ්මන් පීරිස්\nகாமினி லக்ஷ்மன் பீரிஸ்"
-          },
-          "native_name_lang": {
-            "text": "si"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "G. L. Peiris portrait.jpg"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 August 2021"
-          },
-          "president": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dinesh Gunawardena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dinesh Gunawardena"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 April 2010"
-          },
-          "term_end1": {
-            "text": "12 January 2015"
-          },
-          "president1": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Rohitha Bogollagama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rohitha Bogollagama"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Mangala Samaraweera",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mangala Samaraweera"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "12 August 2020"
-          },
-          "term_end2": {
-            "text": "16 August 2021"
-          },
-          "president2": {
-            "text": "Gotabaya Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Dullas Alahapperuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dullas Alahapperuma"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Dinesh Gunawardena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dinesh Gunawardena"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Export Development & International Trade"
-          },
-          "office4": {
-            "text": "Minister of Industrial Development",
-            "links": [
-              {
-                "text": "Minister of Industrial Development",
-                "type": "internal",
-                "page": "Minister of Industrial Development (Sri Lanka)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1994",
-            "number": 1994
-          },
-          "term_end5": {
-            "text": "2001",
-            "number": 2001
-          },
-          "president5": {
-            "text": "Chandrika Kumaratunga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chandrika Kumaratunga"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Harold Herath",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harold Herath"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "W. J. M. Lokubandara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "W. J. M. Lokubandara"
-              }
-            ]
-          },
-          "constituency_mp6": {
-            "text": "Colombo District",
-            "links": [
-              {
-                "text": "Colombo District",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament6": {
-            "text": "Sri Lankan"
-          },
-          "term_start6": {
-            "text": "2000",
-            "number": 2000
-          },
-          "term_end6": {
-            "text": "2001",
-            "number": 2001
-          },
-          "constituency_mp7": {
-            "text": "National List",
-            "links": [
-              {
-                "text": "National List",
-                "type": "internal",
-                "page": "National List Member of Parliament"
-              }
-            ]
-          },
-          "parliament9": {
-            "text": "Sri Lankan"
-          },
-          "term_start9": {
-            "text": "2020",
-            "number": 2020
-          },
-          "parliament7": {
-            "text": "Sri Lankan"
-          },
-          "term_start7": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end7": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_start8": {
-            "text": "1994",
-            "number": 1994
-          },
-          "term_end8": {
-            "text": "2000",
-            "number": 2000
-          },
-          "birth_date": {
-            "text": "August 13, 1946"
-          },
-          "party": {
-            "text": "Sri Lanka Podujana Peramuna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka Podujana Peramuna"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "United National Party, Sri Lanka Freedom Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United National Party"
-              },
-              {
-                "type": "internal",
-                "page": "Sri Lanka Freedom Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Ceylon, Colombo University of Oxford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Ceylon, Colombo"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oxford"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Hon.",
+  "name": "Gamini Lakshman Peiris",
+  "native_name": "ගාමිණී ලක්ශ්මන් පීරිස්\nகாமினி லக்ஷ்மன் பீரிஸ்",
+  "native_name_lang": "si",
+  "honorific-suffix": "MP",
+  "image": "G. L. Peiris portrait.jpg",
+  "office": "Minister of Foreign Affairs",
+  "term_start": "16 August 2021",
+  "president": "Gotabaya Rajapaksa",
+  "primeminister": "Mahinda Rajapaksa",
+  "predecessor": "Dinesh Gunawardena",
+  "term_start1": "23 April 2010",
+  "term_end1": "12 January 2015",
+  "president1": "Mahinda Rajapaksa",
+  "primeminister1": "D. M. Jayaratne",
+  "predecessor1": "Rohitha Bogollagama",
+  "successor1": "Mangala Samaraweera",
+  "office2": "Minister of Education",
+  "term_start2": "12 August 2020",
+  "term_end2": "16 August 2021",
+  "president2": "Gotabaya Rajapaksa",
+  "primeminister2": "Mahinda Rajapaksa",
+  "predecessor2": "Dullas Alahapperuma",
+  "successor2": "Dinesh Gunawardena",
+  "office3": "Minister of Export Development & International Trade",
+  "office4": "Minister of Industrial Development",
+  "office5": "Minister of Justice",
+  "term_start5": "1994",
+  "term_end5": "2001",
+  "president5": "Chandrika Kumaratunga",
+  "predecessor5": "Harold Herath",
+  "successor5": "W. J. M. Lokubandara",
+  "constituency_mp6": "Colombo District",
+  "parliament6": "Sri Lankan",
+  "term_start6": "2000",
+  "term_end6": "2001",
+  "constituency_mp7": "National List",
+  "parliament9": "Sri Lankan",
+  "term_start9": "2020",
+  "parliament7": "Sri Lankan",
+  "term_start7": "2001",
+  "term_end7": "2015",
+  "term_start8": "1994",
+  "term_end8": "2000",
+  "birth_date": "August 13, 1946",
+  "party": "Sri Lanka Podujana Peramuna",
+  "otherparty": "United National Party, Sri Lanka Freedom Party",
+  "alma_mater": "University of Ceylon, Colombo University of Oxford"
 }
