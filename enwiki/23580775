@@ -1,7 +1,7 @@
 {
   "honorific-prefix": "The Honourable",
   "name": "Pavithra Wanniarachchi",
-  "native_name": "පවිත්‍රා වන්නිආරච්චි\nவித்ரா வன்னியாராச்சி",
+  "native_name": "පවිත්‍රා වන්නිආරච්චි\n\nபவித்ரா வன்னியாராச்சி",
   "honorific-suffix": "MP",
   "order": "Minister of Commerece",
   "term_start": "22 November 2019",
@@ -36,6 +36,5 @@
   "spouse": "Kanchana Jayaratne",
   "party": "Sri Lanka Freedom Party",
   "otherparty": "United People's Freedom Alliance",
-  "residence": "C42 Keppetipola Mawatha, Colombo 05",
   "occupation": "Lawyer"
 }
