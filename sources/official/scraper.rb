@@ -6,6 +6,12 @@ require 'pry'
 
 class MemberList
   class Member
+    POSITION_MAP = {
+      'Minister of Tourism and Lands'      => ['Minister of Tourism', 'Minister of Lands'],
+      'Minister of Power and Energy'       => ['Minister of Power', 'Minister of Energy'],
+      'Minister of Transport and Highways' => ['Minister of Transport', 'Minister of Highways'],
+    }.freeze
+
     def name
       Name.new(
         full:     noko.xpath('./preceding-sibling::tr[@bgcolor="#FFCC99"]').last.text.tidy.gsub(/[()]/, ''),
@@ -14,6 +20,12 @@ class MemberList
     end
 
     def position
+      POSITION_MAP.fetch(raw_position, raw_position)
+    end
+
+    private
+
+    def raw_position
       noko.css('td').last.text.tidy
     end
   end
