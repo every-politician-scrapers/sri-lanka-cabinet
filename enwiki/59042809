@@ -1,6 +1,9 @@
 {
   "honorific-prefix": "The Honourable Justice",
   "name": "Jayantha Jayasuriya",
+  "native_name": "ජයන්ත ජයසූරිය",
+  "honorific-suffix": "PC",
+  "alt": "ජයන්ත ජයසූරිය",
   "office": "47th Chief Justice of Sri Lanka",
   "appointer": "Maithripala Sirisena",
   "term_start": "29 April 2019",
@@ -10,5 +13,11 @@
   "term_end2": "29 April 2019",
   "appointer2": "Maithripala Sirisena",
   "predecessor2": "Yuwanjana Wijayatilake",
-  "successor2": "Dappula de Livera"
+  "successor2": "Dappula de Livera",
+  "birthname": "Jayantha Chandrasiri Jayasuriya",
+  "nationality": "Sri Lankan",
+  "residence": "Official Residence - Colombo 07",
+  "alma_mater": "* Maliyadeva College\n* Sri Lanka Law College",
+  "occupation": "Attorney-At-Law",
+  "website": "https://www.supremecourt.lk/"
 }

@@ -1,5 +1,4 @@
 {
-  "honorific-prefix": "Hon.",
   "name": "Rohitha Abeygunawardena",
   "native_name": "රෝහිත අබේගුණවර්ධන\nரோஹித அபேகுணவர்தன",
   "honorific-suffix": "MP",
@@ -23,5 +22,8 @@
   "nationality": "Sri Lankan",
   "party": "Sri Lanka Freedom Party",
   "otherparty": "United People's Freedom Alliance",
-  "residence": "4/3/A First Lane, Gangadara Road, Sirimal Uyana, Ratmalana"
+  "residence": "4/3/A First Lane, Gangadara Road, Sirimal Uyana, Ratmalana",
+  "term_end6": "18 April 2022",
+  "successor6": "Pramitha Tennakoon",
+  "predecessor6": "Mahinda Samarasinghe"
 }
