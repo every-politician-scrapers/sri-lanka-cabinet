@@ -2,7 +2,6 @@
   "name": "Rosy Senanayake",
   "honorific-prefix": "Her Worship",
   "honorific-suffix": "JP, UM",
-  "image": "Rosy Senanayake.jpeg",
   "order3": "State Minister for Child Affairs",
   "party": "United National Party",
   "office1": "Mayor of Colombo",
@@ -13,7 +12,7 @@
   "birth_place": "Colombo, Dominion of Ceylon",
   "nationality": "Sri Lankan",
   "spouse": "Athula Senanayake",
-  "children": "Kanishka Thisakya Radhya",
+  "children": "Kanishka\nThisakya\nRadhya",
   "occupation": "Politician",
   "profession": "Activist",
   "term_start1": "19 March 2018",
@@ -35,5 +34,5 @@
 }
 {
   "name": "Rosy Senanayake",
-  "title": "Mrs. World1984, Miss Asia Pacific International 1981, Miss Sri Lanka 1980"
+  "title": "Mrs. World1984,\nMiss Asia Pacific International 1981,\nMiss Sri Lanka 1980"
 }

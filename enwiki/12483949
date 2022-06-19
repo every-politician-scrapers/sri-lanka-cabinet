@@ -1,10 +1,8 @@
 {
-  "honorific_prefix": "His Excellency\nLieutenant Colonel",
+  "honorific-prefix": "His Excellency",
   "name": "Gotabaya Rajapaksa",
   "honorific_suffix": "RWP, RSP",
   "native_name": "ගෝඨාභය රාජපක්ෂ\nகோட்டாபய ராஜபக்ஸ",
-  "image": "File:President Gotabaya Rajapaksa official photograph.jpg",
-  "caption": "Official portrait, 2020",
   "office": "8th President of Sri Lanka",
   "term_start": "18 November 2019",
   "primeminister": "Ranil Wickremesinghe\nMahinda Rajapaksa",
@@ -28,7 +26,7 @@
   "birth_name": "Nandasena Gotabaya Rajapaksa",
   "birth_date": "June 20, 1949",
   "birth_place": "Palatuwa, Dominion of Ceylon",
-  "citizenship": "Sri Lankan (1949-2003)\n\nAmerican (2003–05)\n\nAmerican and Sri Lankan (2005–19)\n\nSri Lankan (since 2019)",
+  "citizenship": "Sri Lankan (1949–2003)\n\nAmerican (2003–05)\n\nAmerican and Sri Lankan (2005–19)\n\nSri Lankan (since 2019)",
   "party": "Sri Lanka Podujana Peramuna",
   "spouse": "Ioma Rajapaksa",
   "relations": "Mahinda (brother)\n\nChamal (brother)\n\nBasil (brother)",
@@ -41,6 +39,6 @@
   "unit": "Gajaba Regiment",
   "commands": "1st Gajaba Regiment\nGeneral Sir John Kotelawala Defence Academy",
   "battles": "Sri Lankan Civil War\n1987–1989 JVP insurrection",
-  "mawards": "Rana Wickrama Padakkama Bar.png Rana Wickrama Padakkama\n\nRana Sura Padakkama bar.GIF Rana Sura Padakkama",
-  "website": "Official website"
+  "mawards": "Rana Wickrama Padakkama Bar.png Rana Wickrama Padakkama\nRana Sura Padakkama bar.GIF Rana Sura Padakkama",
+  "website": "gota.lk"
 }
