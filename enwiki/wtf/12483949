@@ -54,7 +54,10 @@
               }
             },
             {
-              "text": "He previously served as Secretary to the Ministry of Defence and Ministry Urban Development from 2005 to 2015 under the administration of his elder brother former President Mahinda Rajapaksa, during the final phase of the Sri Lankan Civil War which ended with the Sri Lankan Armed Forces securing the military defeat of the Tamil Tigers.",
+              "text": "Rajapaksa fled to Singapore via the Maldives in self-exile on the 14th of July 2022."
+            },
+            {
+              "text": "He previously served as Secretary to the Ministry of Defence and Ministry Urban Development from 2005 to 2015 under the administration of his elder brother former President Mahinda Rajapaksa, during the final phase of the Sri Lankan Civil War.",
               "links": [
                 {
                   "text": "Secretary",
@@ -79,14 +82,6 @@
                 {
                   "type": "internal",
                   "page": "Sri Lankan Civil War"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sri Lankan Armed Forces"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tamil Tigers"
                 }
               ]
             }
@@ -383,12 +378,8 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency Lieutenant Colonel",
+            "text": "Lieutenant Colonel",
             "links": [
-              {
-                "type": "internal",
-                "page": "His Excellency"
-              },
               {
                 "type": "internal",
                 "page": "Lieutenant Colonel"
@@ -445,7 +436,7 @@
             ]
           },
           "successor": {
-            "text": "Ranil Wickremesinghe (Acting)",
+            "text": "Ranil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
@@ -943,7 +934,7 @@
       ]
     },
     {
-      "title": "Personal life",
+      "title": "Early life and education",
       "depth": 0,
       "paragraphs": [
         {
@@ -1027,37 +1018,7 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In September 2018 Director of the Anti Corruption Movement revealed a conspiracy to assassinate President Maithripala Sirisena and former Defence Secretary Gotabaya Rajapaksa because the duo are against the drug trade.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Maithripala Sirisena"
-                }
-              ]
-            },
-            {
-              "text": "CID of Sri Lanka Police investigated the issue.",
-              "links": [
-                {
-                  "text": "CID of Sri Lanka Police",
-                  "type": "internal",
-                  "page": "Criminal Investigation Department (Sri Lanka)"
-                }
-              ]
-            }
-          ]
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Alleged assassination plot"
-          }
-        ]
       ],
       "references": [
         {
@@ -1095,37 +1056,11 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "http://www.dailymirror.lk/article/A-President-Under-Threat-155759.html",
-          "title": "A President Under Threat",
-          "date": "26 September 2018",
-          "work": "dailymirror.lk",
-          "access-date": "26 September 2018",
-          "language": "en-US",
-          "archive-date": "26 September 2018",
-          "archive-url": "https://web.archive.org/web/20180926094535/http://www.dailymirror.lk/article/A-President-Under-Threat-155759.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.dailymirror.lk/article/-Indian-who-visited-Namal-Kumara-arrested-155914.html",
-          "title": "Indian who visited Namal Kumara arrested",
-          "date": "26 September 2018",
-          "work": "dailymirror.lk",
-          "access-date": "26 September 2018",
-          "language": "en-US",
-          "archive-date": "25 September 2018",
-          "archive-url": "https://web.archive.org/web/20180925165739/http://www.dailymirror.lk/article/-Indian-who-visited-Namal-Kumara-arrested-155914.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
     {
-      "title": "Army career (1971–1991)",
+      "title": "Military career (1971–1991)",
       "depth": 0
     },
     {
@@ -1548,7 +1483,7 @@
               ]
             },
             {
-              "text": "In January 1991, he was appointed Deputy Commandant of the Sir John Kotelawala Defence Academy and held the position until his retirement from the army on 1 November 1991.",
+              "text": "In January 1991, he was appointed Deputy Commandant of the Sir John Kotelawala Defence Academy and held the position until his early retirement from the army on 1 November 1991.",
               "links": [
                 {
                   "text": "Sir John Kotelawala Defence Academy",
@@ -1577,8 +1512,8 @@
       ]
     },
     {
-      "title": "Private life",
-      "depth": 1,
+      "title": "Immigration to the United States",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -1890,6 +1825,12 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "fact"
         }
       ],
       "references": [
@@ -2818,28 +2759,6 @@
               "text": "Rajapaksa rejected the allegations regarding occupying a house rented for a consulate in LA."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "After the defeat of Mahinda Rajapaksa in the 2015 Presidential elections, he was replaced as Secretary of Defence by B. M. U. D. Basnayake a day after the new president was sworn in.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mahinda Rajapaksa"
-                },
-                {
-                  "text": "2015 Presidential elections",
-                  "type": "internal",
-                  "page": "2015 Sri Lankan presidential election"
-                },
-                {
-                  "type": "internal",
-                  "page": "B. M. U. D. Basnayake"
-                }
-              ]
-            }
-          ]
         }
       ],
       "references": [
@@ -2975,7 +2894,37 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Private life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the defeat of Mahinda Rajapaksa in the 2015 Presidential elections, he was replaced as Secretary of Defence by B. M. U. D. Basnayake a day after the new president was sworn in.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mahinda Rajapaksa"
+                },
+                {
+                  "text": "2015 Presidential elections",
+                  "type": "internal",
+                  "page": "2015 Sri Lankan presidential election"
+                },
+                {
+                  "type": "internal",
+                  "page": "B. M. U. D. Basnayake"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "date": "10 January 2015",
           "title": "B.M.U.D. Basnayake appointed new Defence Secretary",
@@ -2984,6 +2933,63 @@
           "access-date": "31 March 2016",
           "archive-date": "12 April 2016",
           "archive-url": "https://web.archive.org/web/20160412152242/http://www.adaderana.lk/news/29368/bmud-basnayake-appointed-new-defence-secretary-",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Alleged assassination plot",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In September 2018 Director of the Anti Corruption Movement revealed a conspiracy to assassinate President Maithripala Sirisena and former Defence Secretary Gotabaya Rajapaksa because the duo are against the drug trade.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maithripala Sirisena"
+                }
+              ]
+            },
+            {
+              "text": "CID of Sri Lanka Police investigated the issue.",
+              "links": [
+                {
+                  "text": "CID of Sri Lanka Police",
+                  "type": "internal",
+                  "page": "Criminal Investigation Department (Sri Lanka)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.dailymirror.lk/article/A-President-Under-Threat-155759.html",
+          "title": "A President Under Threat",
+          "date": "26 September 2018",
+          "work": "dailymirror.lk",
+          "access-date": "26 September 2018",
+          "language": "en-US",
+          "archive-date": "26 September 2018",
+          "archive-url": "https://web.archive.org/web/20180926094535/http://www.dailymirror.lk/article/A-President-Under-Threat-155759.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dailymirror.lk/article/-Indian-who-visited-Namal-Kumara-arrested-155914.html",
+          "title": "Indian who visited Namal Kumara arrested",
+          "date": "26 September 2018",
+          "work": "dailymirror.lk",
+          "access-date": "26 September 2018",
+          "language": "en-US",
+          "archive-date": "25 September 2018",
+          "archive-url": "https://web.archive.org/web/20180925165739/http://www.dailymirror.lk/article/-Indian-who-visited-Namal-Kumara-arrested-155914.html",
           "url-status": "live",
           "template": "citation",
           "type": "news"
@@ -3532,7 +3538,7 @@
         {
           "url": "https://www.presidentsoffice.gov.lk/index.php/2019/11/18/president-will-establish-new-govt-to-execute-his-policies-2/?lang=en",
           "archiveurl": "https://web.archive.org/web/20210719085049/https://www.presidentsoffice.gov.lk/index.php/2019/11/18/president-will-establish-new-govt-to-execute-his-policies-2/",
-          "archivedate": "2021-07-19",
+          "archivedate": "19 July 2021",
           "url-status": "dead",
           "title": "President will establish new govt. to execute his policies – Presidential Secretariat of Sri Lanka",
           "template": "citation",
@@ -4210,8 +4216,12 @@
               "text": "Later that day, Speaker of the Parliament announced that the President still is in the country."
             },
             {
-              "text": "It was later revealed that Rajapaksa and his wife and evacuated from President's House on morning of 9 July by the navy and had boarded SLNS Gajabahu which then departed Colombo habour and sailed within Sri Lankan territorial waters allowing Rajapaksa maintain communications.",
+              "text": "It was later revealed that Rajapaksa and his wife and evacuated from President's House on morning of 9 July by the Sri Lanka Navy and had boarded SLNS Gajabahu which then departed Colombo habour and sailed within Sri Lankan territorial waters allowing Rajapaksa maintain communications while being safely out of reach of the protestes.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Sri Lanka Navy"
+                },
                 {
                   "type": "internal",
                   "page": "SLNS Gajabahu"
@@ -4236,11 +4246,15 @@
         {
           "sentences": [
             {
-              "text": "In the morning of 13 July, Rajapaksa left Sri Lanka via Sri Lanka Air Force Antonov An-32 military transport aircraft for Maldives.",
+              "text": "In the morning of 13 July, Rajapaksa left Sri Lanka via an Antonov An-32 military transport aircraft of the Sri Lanka Air Force to Maldives.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Antonov An-32"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sri Lanka Air Force"
                 },
                 {
                   "type": "internal",
@@ -4448,9 +4462,9 @@
           "url": "https://www.bbc.com/news/world-asia-62132271",
           "title": "Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet",
           "work": "BBC News",
-          "date": "2022-07-12",
+          "date": "12 July 2022",
           "language": "en-GB",
-          "accessdate": "2022-07-12",
+          "accessdate": "12 July 2022",
           "archive-date": "12 July 2022",
           "archive-url": "https://web.archive.org/web/20220712222342/https://www.bbc.com/news/world-asia-62132271",
           "url-status": "live",
@@ -4458,12 +4472,12 @@
           "type": "news"
         },
         {
-          "date": "July 13, 2022",
+          "date": "13 July 2022",
           "first": "Devika",
           "last": "Bhattacharya",
           "title": "#GotaGoHome trends in Maldives as Sri Lankan President flees country amid crisis",
           "url": "https://www.indiatoday.in/world/story/gota-go-home-trends-maldives-gotabaya-rajpaksa-flees-country-sri-lanka-crisis-1975130-2022-07-13",
-          "access-date": "2022-07-14",
+          "access-date": "14 July 2022",
           "website": "India Today",
           "language": "en",
           "archive-date": "14 July 2022",
@@ -5205,7 +5219,7 @@
           "template": "s-ttl"
         },
         {
-          "after": "Ranil Wickremesinghe\n(Acting)",
+          "after": "Ranil Wickremesinghe",
           "template": "s-aft"
         },
         {

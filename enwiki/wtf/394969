@@ -6,6 +6,7 @@
     "1949 births",
     "Living people",
     "People from Colombo",
+    "Presidents of Sri Lanka",
     "Prime Ministers of Sri Lanka",
     "Acting presidents of Sri Lanka",
     "Alumni of Royal Preparatory School",
@@ -28,7 +29,6 @@
     "Members of the 13th Parliament of Sri Lanka",
     "Members of the 14th Parliament of Sri Lanka",
     "Members of the 15th Parliament of Sri Lanka",
-    "People of British Ceylon",
     "Sinhalese lawyers",
     "Sinhalese politicians",
     "Candidates in the 2022 Sri Lankan presidential election"
@@ -41,21 +41,12 @@
         {
           "sentences": [
             {
-              "text": "Ranil Wickremesinghe (රනිල් වික්‍රමසිංහ, ரணில் விக்கிரமசிங்க; born 24 March 1949) is a Sri Lankan politician, who is the current acting president of Sri Lanka since 2022, in his capacity as the prime minister after the resignation of President Gotabaya Rajapaksa on 15 July 2022.",
+              "text": "Ranil Wickremesinghe (රනිල් වික්‍රමසිංහ, ரணில் விக்கிரமசிங்க; born 24 March 1949) is a Sri Lankan politician, who has been the president of Sri Lanka since 20 July 2022.",
               "links": [
                 {
-                  "text": "acting president of Sri Lanka",
+                  "text": "president of Sri Lanka",
                   "type": "internal",
-                  "page": "President of Sri Lanka"
-                },
-                {
-                  "text": "prime minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Gotabaya Rajapaksa"
+                  "page": "president of Sri Lanka"
                 }
               ],
               "formatting": {
@@ -92,7 +83,7 @@
               "text": "He has been the leader of the UNP since 1994."
             },
             {
-              "text": "Earlier he served as Prime Minister of Sri Lanka from 1993 to 1994, 2001 to 2004, 2015 to 2018 and 2018 to 2019."
+              "text": "Earlier he served as Prime Minister of Sri Lanka in six separate stints, from 1993 to 1994, 2001 to 2004, 2015 to 2018, 2018 to 2019, and in 2022."
             },
             {
               "text": "He also served as Leader of the Opposition from 1994 to 2001 and from 2004 to 2015.",
@@ -335,7 +326,7 @@
               ]
             },
             {
-              "text": "On 9 July 2022, Wickremesinghe announced that he is willing to resign amidst mass anti-government protests that saw his personal residence set ablaze, along with the residence of then-President Gotabaya Rajapaska taken over by protestors.",
+              "text": "On 9 July 2022, Wickremesinghe announced that he was willing to resign amidst mass anti-government protests that saw his personal residence set ablaze, along with the residence of then-President Gotabaya Rajapaska taken over by protestors.",
               "links": [
                 {
                   "text": "anti-government protests",
@@ -358,6 +349,43 @@
               "text": "He agreed to resign as prime minister once a new government is formed."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wickremesinghe became the acting president on 13 July 2022, after his predecessor Gotabaya Rajapaksa fled the country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gotabaya Rajapaksa"
+                }
+              ]
+            },
+            {
+              "text": "Rajapaksa resigned on 14 July 2022, and the next day, Wickremesinghe was sworn in as acting president of Sri Lanka."
+            },
+            {
+              "text": "The same day, he decided to formally abolish the presidential standard and remove the style \"His Excellency\" when addressing the president.",
+              "links": [
+                {
+                  "text": "presidential standard",
+                  "type": "internal",
+                  "page": "List_of_Sri_Lankan_flags",
+                  "anchor": "Presidential_flag_(1972–2022)"
+                }
+              ]
+            },
+            {
+              "text": "On 20 July 2022, Wickremesinghe was elected as the 9th President via an election by parliament.",
+              "links": [
+                {
+                  "text": "election",
+                  "type": "internal",
+                  "page": "2022 Sri Lankan presidential election"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
@@ -371,6 +399,10 @@
         },
         {
           "date": "July 2022",
+          "template": "current person"
+        },
+        {
+          "date": "July 2022",
           "template": "use sri lankan english"
         },
         {
@@ -378,9 +410,8 @@
           "template": "use dmy dates"
         },
         {
-          "_list": "MP",
-          "size": "100%",
-          "template": "post-nominals"
+          "date": "July 2022",
+          "template": "fact"
         },
         {
           "year": "1949",
@@ -390,7 +421,7 @@
           "template": "birth date and age"
         },
         {
-          "spouse": "Maitree Wickremasinghe",
+          "spouse": "Maithree Wickremesinghe",
           "from": "1994",
           "template": "marriage"
         },
@@ -413,13 +444,9 @@
           "bullets": "on",
           "list": [
             "23 July 1977 – 5 October 1977: Deputy Minister of Foreign Affairs",
-            "2001 – 2019: Leader of the United National Front for Good Governance"
+            "2001–2019: Leader of the United National Front for Good Governance"
           ],
           "template": "collapsible list"
-        },
-        {
-          "_list": "MP",
-          "template": "post-nominals"
         },
         {
           "list": [
@@ -430,47 +457,26 @@
       ],
       "infoboxes": [
         {
-          "honorific_prefix": {
-            "text": "Hon.",
-            "links": [
-              {
-                "text": "Hon.",
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
           "name": {
             "text": "Ranil Wickremesinghe"
           },
           "native_name": {
-            "text": "රනිල් වික්‍රමසිංහ \nரணில் விக்கிரமசிங்க"
+            "text": "රනිල් වික්‍රමසිංහ\n\nரணில் விக்கிரமசிங்க"
           },
           "image": {
-            "text": "Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on November 23, 2017.jpg"
+            "text": "Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on September 15, 2015 (1).jpg"
           },
           "caption": {
-            "text": "Wickremesinghe in November 2017"
+            "text": "Wickremesinghe in 2015"
+          },
+          "order": {
+            "text": "9th"
           },
           "office": {
-            "text": "Acting President of Sri Lanka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Sri Lanka"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "President of Sri Lanka"
           },
           "term_start": {
-            "text": "15 July 2022"
+            "text": "21 July 2022 Acting: 15 July 2022 – 21 July 2022"
           },
           "predecessor": {
             "text": "Gotabaya Rajapaksa",
@@ -493,6 +499,9 @@
           "term_start1": {
             "text": "12 May 2022"
           },
+          "term_end1": {
+            "text": "20 July 2022"
+          },
           "president1": {
             "text": "Gotabaya Rajapaksa",
             "links": [
@@ -510,6 +519,9 @@
                 "page": "Mahinda Rajapaksa"
               }
             ]
+          },
+          "successor1": {
+            "text": "TBC"
           },
           "term_start2": {
             "text": "15 December 2018"
@@ -531,22 +543,10 @@
             ]
           },
           "predecessor2": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
+            "text": "Mahinda Rajapaksa"
           },
           "successor2": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
+            "text": "Mahinda Rajapaksa"
           },
           "term_start3": {
             "text": "9 January 2015"
@@ -594,13 +594,7 @@
             ]
           },
           "successor4": {
-            "text": "Mahinda Rajapaksa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              }
-            ]
+            "text": "Mahinda Rajapaksa"
           },
           "term_start5": {
             "text": "7 May 1993"
@@ -1105,7 +1099,7 @@
             ]
           },
           "spouse": {
-            "text": "Maitree Wickremasinghe (m. 1994)"
+            "text": "Maithree Wickremesinghe (m. 1994)"
           },
           "relatives": {
             "text": "Wijewardene family"
@@ -1150,7 +1144,7 @@
             "text": "Official website"
           },
           "footnotes": {
-            "text": "Other offices held\n\n23 July 1977 – 5 October 1977: Deputy Minister of Foreign Affairs\n\n2001 – 2019: Leader of the United National Front for Good Governance",
+            "text": "Other offices held\n\n23 July 1977 – 5 October 1977: Deputy Minister of Foreign Affairs\n\n2001–2019: Leader of the United National Front for Good Governance",
             "formatting": {
               "bold": [
                 "Other offices held"
@@ -1161,12 +1155,10 @@
       ],
       "references": [
         {
-          "url": "https://www.parliament.lk/si/component/members/viewMember/1244",
-          "title": "ශ්‍රී ලංකා පාර්ලිමේන්තුව - රනිල් වික්‍රමසිංහ",
-          "publisher": "Parliament.lk",
-          "accessdate": "2022-07-14",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "- Share Image",
@@ -1280,6 +1272,14 @@
           "access-date": "9 July 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-asia-62202901",
+          "title": "Sri Lanka: Ranil Wickremesinghe elected president by MPs",
+          "website": "www.bbc.com",
+          "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "template": "citation",
@@ -4972,7 +4972,7 @@
               ]
             },
             {
-              "text": "Wickremesinghe has stated that his intentions are to form a national government with the participation of all political parties in the parliament and lead the country through the worst economic crisis in its history with less than one million USD in foreign reserves and unable to import essential fuel, food, and medicines, calling the months to come the most difficult in the country's history.",
+              "text": "Wickremesinghe has stated that he intends to form a national government with the participation of all political parties in the parliament and lead the country through the worst economic crisis in its history with less than one million USD in foreign reserves and unable to import essential fuel, food, and medicines, calling the months to come the most difficult in the country's history.",
               "links": [
                 {
                   "text": "worst economic crisis",
@@ -5057,7 +5057,7 @@
           "url": "https://www.thehindu.com/news/international/sri-lanka-pm-ranil-wickremesinghe-appointed-finance-minister-by-president-gotabaya-rajapaksa/article65459383.ece",
           "access-date": "12 July 2022",
           "agency": "The Hindu Times",
-          "date": "May 25, 2022",
+          "date": "25 May 2022",
           "template": "citation",
           "type": "news"
         },
@@ -5092,7 +5092,7 @@
       ]
     },
     {
-      "title": "Acting Presidency (2022–present)",
+      "title": "Presidency (2022–present)",
       "depth": 1,
       "paragraphs": [
         {
@@ -5112,23 +5112,7 @@
               ]
             },
             {
-              "text": "The Leader of Opposition Sajith Premadasa rejected his authority to impose a curfew or state of emergency, stating that his appointment did not fulfill any of the conditions set out in the Constitution."
-            },
-            {
-              "text": "Parliament Speaker Mahinda Yapa Abeywardena said that he did not receive Gotabaya's resignation on 13 July.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mahinda Yapa Abeywardena"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Wickremesingh was sworn in as the acting president of Sri Lanka before Chief Justice Jayantha Jayasuriya on 15 July after Gotabaya had e-mailed his resignation letter late at night on 14 July.",
+              "text": "Following Rajapaksa's official resignation, Wickremesinghe was sworn in as the acting president of Sri Lanka before Chief Justice Jayantha Jayasuriya on 15 July.",
               "links": [
                 {
                   "type": "internal",
@@ -5141,21 +5125,40 @@
               ]
             },
             {
-              "text": "Wickremesinghe, who had formerly been a National List MP with his party represented by only one seat in the Parliament, was now the President, Prime Minister, Minister of Defense, Minister of Technology, and Minister of Finance all at the same time."
+              "text": "Wickremesinghe, who had formerly been a National List MP with his party represented by only one seat in the Parliament, became the President, Prime Minister, Minister of Defense, Minister of Technology, and Minister of Finance all at the same time."
+            },
+            {
+              "text": "Upon becoming the acting President, Wickremesinghe prohibited the usage of \"His Excellency\" as an honorific prefix for the President and officially abolished the usage of a Presidential flag."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Upon becoming the acting President, Wickremesinghe prohibited the usage of His Excellency as an honorific prefix for the President and officially abolished the usage of a Presidential flag.",
-              "formatting": {
-                "italic": [
-                  "His Excellency"
-                ]
-              }
+              "text": "On 20 July, he was elected as the 9th President of Sri Lanka by the Parliament of Sri Lanka in a secret ballot to serve the remainder of Rajapaksa's term, which was supposed to end in November 2024.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Sri Lanka"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Sri Lanka"
+                }
+              ]
+            },
+            {
+              "text": "He defeated his main rival, Dullus Alahapperuma, with 134 votes to 82."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2022 Sri Lankan presidential election"
+          ],
+          "template": "further"
         }
       ],
       "references": [
@@ -5166,26 +5169,6 @@
           "inline": {}
         },
         {
-          "author": "PTI / Updated: Jul 13, 2022, 14:06 IST",
-          "url": "https://www.thestatesman.com/world/gotabaya-rajapaksa-resign-today-confirms-speaker-video-statement-1503089675.html",
-          "title": "Gotabaya Rajapaksa gets asylum in Singapore, to resign today",
-          "date": "13 July 2022",
-          "publisher": "The Statesman",
-          "accessdate": "2022-07-13",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "PTI / Updated: Jul 14, 2022, 14:06 IST",
-          "url": "https://www.businesstoday.in/latest/world/story/sri-lanka-opposition-parties-reject-ranil-wickremsinghes-authority-as-acting-president-341474-2022-07-14",
-          "title": "Sri Lanka: Opposition parties reject Ranil Wickremsinghe's authority as acting President",
-          "date": "14 July 2022",
-          "publisher": "BusinessToday.in",
-          "accessdate": "2022-07-15",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.deccanherald.com/international/wickremesinghe-decides-to-prohibit-use-of-his-excellency-to-address-president-abolish-presidential-flag-1126941.html",
           "title": "Wickremesinghe decides to prohibit use of 'His Excellency' to address President, abolish presidential flag",
           "date": "15 July 2022",
@@ -5194,11 +5177,27 @@
           "type": "news"
         },
         {
-          "author": "PTI / Updated: Jul 13, 2022, 14:06 IST",
+          "title": "Sri Lankan parliament elects six-time PM Wickremesinghe as new president",
+          "url": "https://www.france24.com/en/live-news/20220720-%F0%9F%94%B4-sri-lankan-parliament-elects-six-time-pm-wickremesinghe-as-new-president",
+          "date": "20 July 2022",
+          "website": "France 24",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sri Lanka: Ranil Wickremesinghe elected president",
+          "url": "https://www.bbc.com/news/world-asia-62202901",
+          "date": "20 July 2022",
+          "website": "BBC News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "PTI / Updated: 13 July 2022, 14:06 IST",
           "url": "https://www.telegraphindia.com/world/ranil-wickremesinghe-sworn-in-as-sri-lankas-interim-president/cid/1874835",
           "title": "Ranil Wickremesinghe sworn in as Sri Lanka's interim president",
           "publisher": "The Telegraph India",
-          "accessdate": "2022-07-15",
+          "accessdate": "15 July 2022",
           "template": "citation",
           "type": "web"
         }
@@ -5211,11 +5210,11 @@
         {
           "sentences": [
             {
-              "text": "Wickremasinghe married Maitree Wickremasinghe, Sri Lankan academic and Professor of English in 1994.",
+              "text": "Wickremasinghe married Maithree Wickremesinghe, Sri Lankan academic and Professor of English in 1994.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Maitree Wickremasinghe"
+                  "page": "Maithree Wickremesinghe"
                 }
               ]
             },
@@ -5226,7 +5225,7 @@
               "text": "His personal life is rarely publicized or discussed."
             },
             {
-              "text": "Maitree Wickremasinghe avoided the political spotlight until Wickremasinghe's recent re-election as prime minister in 2015."
+              "text": "Maithree Wickremasinghe avoided the political spotlight until Wickremasinghe's recent re-election as prime minister in 2015."
             }
           ]
         },
@@ -5490,6 +5489,9 @@
       "paragraphs": [
         {
           "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "templates": [
@@ -5506,39 +5508,29 @@
           "template": "s-gov"
         },
         {
-          "before": "Gotabaya Rajapaksa",
-          "template": "s-bef"
-        },
-        {
-          "title": "President of Sri Lanka\n(Acting)",
-          "years": "2022–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "before": "Mahinda Rajapaksa",
+          "before": "Dingiri Banda Wijetunge",
           "template": "s-bef"
         },
         {
           "title": "Prime Minister of Sri Lanka",
-          "years": "2022–present",
+          "years": "1993–1994",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Chandrika Bandaranaike Kumaratunga",
+          "template": "s-aft"
         },
         {
-          "before": "Mahinda Rajapaksa",
+          "before": "Ratnasiri Wickremanayake",
           "template": "s-bef"
         },
         {
           "title": "Prime Minister of Sri Lanka",
-          "years": "2018–2019",
+          "years": "2001–2004",
           "template": "s-ttl"
         },
         {
+          "rows": "3",
           "after": "Mahinda Rajapaksa",
           "template": "s-aft"
         },
@@ -5552,34 +5544,34 @@
           "template": "s-ttl"
         },
         {
-          "after": "Mahinda Rajapaksa",
-          "template": "s-aft"
-        },
-        {
-          "before": "Ratnasiri Wickremanayake",
+          "rows": "2",
+          "before": "Mahinda Rajapaksa",
           "template": "s-bef"
         },
         {
           "title": "Prime Minister of Sri Lanka",
-          "years": "2001–2004",
+          "years": "2018–2019",
           "template": "s-ttl"
-        },
-        {
-          "after": "Mahinda Rajapaksa",
-          "template": "s-aft"
-        },
-        {
-          "before": "Dingiri Banda Wijetunge",
-          "template": "s-bef"
         },
         {
           "title": "Prime Minister of Sri Lanka",
-          "years": "1993–1994",
+          "years": "2022",
           "template": "s-ttl"
         },
         {
-          "after": "Chandrika Bandaranaike Kumaratunga",
-          "template": "s-aft"
+          "template": "s-vac"
+        },
+        {
+          "before": "Gotabaya Rajapaksa",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Sri Lanka",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         },
         {
           "template": "ranil wickremesinghe"

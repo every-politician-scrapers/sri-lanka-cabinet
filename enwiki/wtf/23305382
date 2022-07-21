@@ -205,6 +205,16 @@
           "name": {
             "text": "Sajith Premadasa"
           },
+          "honorific-prefix": {
+            "text": "Hon.",
+            "links": [
+              {
+                "text": "Hon.",
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
           "honorific-suffix": {
             "text": "MP",
             "links": [
