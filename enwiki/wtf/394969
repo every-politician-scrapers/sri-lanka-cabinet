@@ -41,7 +41,7 @@
         {
           "sentences": [
             {
-              "text": "Ranil Wickremesinghe (රනිල් වික්‍රමසිංහ, ரணில் விக்கிரமசிங்க; born 24 March 1949) is a Sri Lankan politician, who has been the president of Sri Lanka since 20 July 2022.",
+              "text": "Ranil Wickremesinghe (රනිල් වික්‍රමසිංහ, ரணில் விக்கிரமசிங்க; born 24 March 1949) is a Sri Lankan politician who is the current president of Sri Lanka since 21 July 2022.",
               "links": [
                 {
                   "text": "president of Sri Lanka",
@@ -66,7 +66,7 @@
               ]
             },
             {
-              "text": "He is a member of parliament from the United National Party (UNP).",
+              "text": "He is a member of parliament from the center-right United National Party (UNP).",
               "links": [
                 {
                   "text": "member of parliament",
@@ -83,7 +83,13 @@
               "text": "He has been the leader of the UNP since 1994."
             },
             {
-              "text": "Earlier he served as Prime Minister of Sri Lanka in six separate stints, from 1993 to 1994, 2001 to 2004, 2015 to 2018, 2018 to 2019, and in 2022."
+              "text": "He served as Prime Minister of Sri Lanka in five separate stints, leading six governments, from 1993 to 1994, 2001 to 2004, 2015 to 2018, 2018 to 2019, and in 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Sri Lanka"
+                }
+              ]
             },
             {
               "text": "He also served as Leader of the Opposition from 1994 to 2001 and from 2004 to 2015.",
@@ -384,6 +390,9 @@
                   "page": "2022 Sri Lankan presidential election"
                 }
               ]
+            },
+            {
+              "text": "On 21 July 2022, he took the presidential oath in parliament as president of Sri Lanka."
             }
           ]
         }
@@ -408,10 +417,6 @@
         {
           "date": "July 2022",
           "template": "use dmy dates"
-        },
-        {
-          "date": "July 2022",
-          "template": "fact"
         },
         {
           "year": "1949",
@@ -466,17 +471,26 @@
           "image": {
             "text": "Prime Minister of the Democratic Socialist Republic of Sri Lanka, Mr. Ranil Wickremesinghe, at Hyderabad House, in New Delhi on September 15, 2015 (1).jpg"
           },
-          "caption": {
-            "text": "Wickremesinghe in 2015"
-          },
-          "order": {
-            "text": "9th"
-          },
           "office": {
-            "text": "President of Sri Lanka"
+            "text": "9th President of Sri Lanka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Sri Lanka"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Himself Dinesh Gunawardena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
+              }
+            ]
           },
           "term_start": {
-            "text": "21 July 2022 Acting: 15 July 2022 – 21 July 2022"
+            "text": "21 July 2022 Acting: 13 July 2022 – 21 July 2022"
           },
           "predecessor": {
             "text": "Gotabaya Rajapaksa",
@@ -488,7 +502,7 @@
             ]
           },
           "office1": {
-            "text": "10th Prime Minister of Sri Lanka",
+            "text": "Prime Minister of Sri Lanka",
             "links": [
               {
                 "type": "internal",
@@ -500,10 +514,10 @@
             "text": "12 May 2022"
           },
           "term_end1": {
-            "text": "20 July 2022"
+            "text": "21 July 2022"
           },
           "president1": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa Himself (Acting)",
             "links": [
               {
                 "type": "internal",
@@ -521,7 +535,13 @@
             ]
           },
           "successor1": {
-            "text": "TBC"
+            "text": "Dinesh Gunawardena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
+              }
+            ]
           },
           "term_start2": {
             "text": "15 December 2018"
@@ -543,10 +563,22 @@
             ]
           },
           "predecessor2": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "successor2": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "term_start3": {
             "text": "9 January 2015"
@@ -555,7 +587,13 @@
             "text": "26 October 2018"
           },
           "president3": {
-            "text": "Maithripala Sirisena"
+            "text": "Maithripala Sirisena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maithripala Sirisena"
+              }
+            ]
           },
           "predecessor3": {
             "text": "D. M. Jayaratne",
@@ -567,7 +605,13 @@
             ]
           },
           "successor3": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "term_start4": {
             "text": "9 December 2001"
@@ -594,7 +638,13 @@
             ]
           },
           "successor4": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "term_start5": {
             "text": "7 May 1993"
@@ -612,10 +662,22 @@
             ]
           },
           "predecessor5": {
-            "text": "Dingiri Banda Wijetunga"
+            "text": "Dingiri Banda Wijetunga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dingiri Banda Wijetunga"
+              }
+            ]
           },
           "successor5": {
-            "text": "Chandrika Kumaratunga"
+            "text": "Chandrika Kumaratunga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandrika Kumaratunga"
+              }
+            ]
           },
           "office6": {
             "text": "10th Leader of the Opposition",
@@ -634,13 +696,43 @@
             "text": "9 January 2015"
           },
           "president6": {
-            "text": "Chandrika Kumaratunga\nMahinda Rajapaksa"
+            "text": "Chandrika Kumaratunga\nMahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandrika Kumaratunga"
+              },
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "primeminister6": {
-            "text": "Mahinda Rajapaksa\nRatnasiri Wickremanayake\nD. M. Jayaratne"
+            "text": "Mahinda Rajapaksa\nRatnasiri Wickremanayake\nD. M. Jayaratne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ratnasiri Wickremanayake"
+              },
+              {
+                "type": "internal",
+                "page": "D. M. Jayaratne"
+              }
+            ]
           },
           "predecessor6": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
           },
           "successor6": {
             "text": "Nimal Siripala de Silva",
@@ -658,7 +750,13 @@
             "text": "10 October 2001"
           },
           "president7": {
-            "text": "Chandrika Kumaratunga"
+            "text": "Chandrika Kumaratunga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandrika Kumaratunga"
+              }
+            ]
           },
           "primeminister7": {
             "text": "Sirimavo Bandaranaike\nRatnasiri Wickremanayake",
@@ -666,6 +764,10 @@
               {
                 "type": "internal",
                 "page": "Sirimavo Bandaranaike"
+              },
+              {
+                "type": "internal",
+                "page": "Ratnasiri Wickremanayake"
               }
             ]
           },
@@ -688,7 +790,7 @@
             ]
           },
           "office8": {
-            "text": "Acting Minister of Defence",
+            "text": "Minister of Defence",
             "links": [
               {
                 "text": "Minister of Defence",
@@ -698,20 +800,10 @@
             ]
           },
           "president8": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "primeminister8": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start8": {
             "text": "13 July 2022"
@@ -726,7 +818,7 @@
             ]
           },
           "office9": {
-            "text": "Acting Minister of Technology",
+            "text": "Minister of Technology",
             "links": [
               {
                 "text": "Minister of Technology",
@@ -736,20 +828,10 @@
             ]
           },
           "president9": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "primeminister9": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start9": {
             "text": "13 July 2022"
@@ -788,12 +870,7 @@
             }
           },
           "primeminister10": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start10": {
             "text": "26 May 2022"
@@ -818,20 +895,10 @@
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            ]
           },
           "primeminister11": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start11": {
             "text": "25 May 2022"
@@ -869,12 +936,7 @@
             }
           },
           "primeminister12": {
-            "text": "Himself",
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start12": {
             "text": "25 May 2022"
@@ -947,7 +1009,13 @@
             "text": "6 May 1993"
           },
           "president14": {
-            "text": "Ranasinghe Premadasa"
+            "text": "Ranasinghe Premadasa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranasinghe Premadasa"
+              }
+            ]
           },
           "office15": {
             "text": "Minister of Education",
@@ -966,7 +1034,13 @@
             "text": "2 January 1989"
           },
           "president15": {
-            "text": "J. R. Jayewardene"
+            "text": "J. R. Jayewardene",
+            "links": [
+              {
+                "type": "internal",
+                "page": "J. R. Jayewardene"
+              }
+            ]
           },
           "office16": {
             "text": "Minister of Youth Affairs & Employment",
@@ -985,7 +1059,13 @@
             "text": "14 February 1980"
           },
           "president16": {
-            "text": "J. R. Jayewardene"
+            "text": "J. R. Jayewardene",
+            "links": [
+              {
+                "type": "internal",
+                "page": "J. R. Jayewardene"
+              }
+            ]
           },
           "constituency_mp17": {
             "text": "National List",
@@ -1155,10 +1235,13 @@
       ],
       "references": [
         {
+          "url": "https://www.theguardian.com/world/2022/jul/18/ranil-wickremesinghe-wily-fox-who-became-sri-lanka-pm-six-times-profile",
+          "title": "Ranil Wickremesinghe: wily fox who is Sri Lanka’s new president",
+          "date": "20 July 2022",
+          "newspaper": "The Guardian",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "title": "- Share Image",
@@ -1232,31 +1315,10 @@
           "type": "web"
         },
         {
-          "title": "RANIL SWORN IN AS PM – Top Story {{!}} Daily Mirror",
-          "url": "https://www.dailymirror.lk/top_story/RANIL-SWORN-IN-AS-PM/155-236884",
-          "access-date": "12 May 2022",
-          "website": "www.dailymirror.lk",
-          "language": "English",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Ellis-Petersen",
-          "first": "Hannah",
-          "date": "12 May 2022",
-          "title": "Sri Lanka president brings back five-time former PM in effort to ease crisis",
-          "url": "https://www.theguardian.com/world/2022/may/12/ranil-wickremesinghe-former-sri-lanka-pm-lead-unity-government-after-violence",
-          "access-date": "15 May 2022",
-          "website": "The Guardian",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "PM says he is willing to resign – Latest News {{!}} Daily Mirror",
           "url": "https://www.dailymirror.lk/latest_news/PM-says-he-is-willing-to-resign/342-240727",
           "access-date": "9 July 2022",
-          "website": "www.dailymirror.lk",
+          "website": "Dailymirror.lk",
           "language": "English",
           "template": "citation",
           "type": "web"
@@ -1276,8 +1338,16 @@
         {
           "url": "https://www.bbc.com/news/world-asia-62202901",
           "title": "Sri Lanka: Ranil Wickremesinghe elected president by MPs",
-          "website": "www.bbc.com",
+          "website": "Bbc.com",
           "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.indiatoday.in/world/story/ranil-wickremesinghe-takes-oath-as-sri-lankan-president-video-1978092-2022-07-21",
+          "title": "Ranil Wickremesinghe takes oath as President of Sri Lanka",
+          "website": "www.indiatoday.in",
+          "date": "2022-07-21",
           "template": "citation",
           "type": "web"
         },
@@ -1288,10 +1358,13 @@
           "inline": {}
         },
         {
+          "url": "https://www.reuters.com/world/us/sri-lanka-pm-wickremesinghe-sworn-acting-president-govt-official-2022-07-15/",
+          "title": "Sri Lanka PM Wickremesinghe sworn in as acting president – govt official",
+          "date": "15 July 2022",
+          "access-date": "21 July 2022",
+          "website": "Reuters.com",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "date": "23 June 2021",
@@ -1299,6 +1372,27 @@
           "url": "https://www.newsfirst.lk/2021/06/23/ranil-wickremesinghe-re-enters-parliament-as-an-mp/",
           "access-date": "22 August 2021",
           "website": "Sri Lanka News – Newsfirst",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "RANIL SWORN IN AS PM – Top Story {{!}} Daily Mirror",
+          "url": "https://www.dailymirror.lk/top_story/RANIL-SWORN-IN-AS-PM/155-236884",
+          "access-date": "12 May 2022",
+          "website": "Dailymirror.lk",
+          "language": "English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ellis-Petersen",
+          "first": "Hannah",
+          "date": "12 May 2022",
+          "title": "Sri Lanka president brings back five-time former PM in effort to ease crisis",
+          "url": "https://www.theguardian.com/world/2022/may/12/ranil-wickremesinghe-former-sri-lanka-pm-lead-unity-government-after-violence",
+          "access-date": "15 May 2022",
+          "website": "The Guardian",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -1454,7 +1548,7 @@
         {
           "url": "http://www.adaderana.lk/news/39091/prime-minister-wickremesinghe-awarded-an-honorary-doctorate",
           "title": "Prime Minister Wickremesinghe awarded an honorary doctorate",
-          "website": "www.adaderana.lk",
+          "website": "Adaderana.lk",
           "access-date": "14 February 2017",
           "archive-url": "https://web.archive.org/web/20170214184400/http://www.adaderana.lk/news/39091/prime-minister-wickremesinghe-awarded-an-honorary-doctorate",
           "archive-date": "14 February 2017",
@@ -1667,7 +1761,7 @@
           "title": "Economic Policy Statement made by Prime Minister, Ranil Wickremesinghe in Parliament",
           "url": "https://www.news.lk/fetures/item/10674-economic-policy-statement-made-by-prime-minister-ranil-wickremesinghe-in-parliament",
           "access-date": "13 May 2022",
-          "website": "www.news.lk",
+          "website": "News.lk",
           "language": "en-gb",
           "template": "citation",
           "type": "web"
@@ -1927,7 +2021,7 @@
           "title": "A political leader with the power of vision",
           "url": "https://www.dailymirror.lk/print/opinion/A-political-leader-with-the-power-of-vision/172-133934",
           "access-date": "13 May 2022",
-          "website": "www.dailymirror.lk",
+          "website": "Dailymirror.lk",
           "language": "English",
           "template": "citation",
           "type": "web"
@@ -1938,7 +2032,7 @@
           "title": "Sri Lanka's returning prime minister: Ranil Wickremesinghe",
           "url": "https://www.aljazeera.com/news/2022/5/12/ranil-wickremesinghe-who-is-sri-lankas-new-prime-minister",
           "access-date": "13 May 2022",
-          "website": "www.aljazeera.com",
+          "website": "Aljazeera.com",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -2202,15 +2296,19 @@
           "inline": {}
         },
         {
+          "url": "http://www.dailynews.lk/2001/12/10/new03.html",
+          "archiveurl": "https://web.archive.org/web/20121012233129/http://www.dailynews.lk/2001/12/10/new03.html",
+          "url-status": "dead",
+          "title": "Prime Minister sworn in, Dailynews, 10 December 2001",
+          "archive-date": "12 October 2012",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.island.lk/2001/12/09/",
           "title": "The Island on the net",
-          "work": "island.lk",
+          "website": "Island.lk",
           "access-date": "21 August 2015",
           "archive-url": "https://web.archive.org/web/20160303215729/http://www.island.lk/2001/12/09/",
           "archive-date": "3 March 2016",
@@ -2219,10 +2317,14 @@
           "type": "web"
         },
         {
+          "url": "http://www.dailynews.lk/2001/12/12/new05.html",
+          "archiveurl": "https://web.archive.org/web/20121012233500/http://www.dailynews.lk/2001/12/12/new05.html",
+          "url-status": "dead",
+          "title": "New Cabinet: Swearing in today, Dailynews, 12 December 2001",
+          "archive-date": "12 October 2012",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.dailynews.lk/2001/12/13/new01.html",
@@ -2248,7 +2350,7 @@
         {
           "title": "A new era for Japan-Sri Lanka diplomatic relations",
           "url": "http://www.ft.lk/article/484161/A-new-era-for-Japan-Sri-Lanka-diplomatic-relations",
-          "website": "www.ft.lk",
+          "website": "Ft.lk",
           "access-date": "25 November 2015",
           "archive-url": "https://web.archive.org/web/20151125165005/http://www.ft.lk/article/484161/A-new-era-for-Japan-Sri-Lanka-diplomatic-relations",
           "archive-date": "25 November 2015",
@@ -2272,10 +2374,14 @@
           "type": "book"
         },
         {
+          "url": "http://www.dailynews.lk/2002/07/24/new01.html",
+          "archiveurl": "https://web.archive.org/web/20121013032200/http://www.dailynews.lk/2002/07/24/new01.html",
+          "url-status": "dead",
+          "title": "PM holds top-level meetings in Washington: New relationship with the United States, Dailynews, 24 July 2002",
+          "archive-date": "13 October 2012",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.dailynews.lk/2002/07/25/new001.html",
@@ -2296,14 +2402,20 @@
           "type": "web"
         },
         {
+          "url": "http://www.dailynews.lk/2002/05/30/new01.html",
+          "archiveurl": "https://web.archive.org/web/20121013032243/http://www.dailynews.lk/2002/05/30/new01.html",
+          "url-status": "dead",
+          "title": "We could follow the British model of devolution – PM, Dailynews, 30 May 2002",
+          "archive-date": "13 October 2012",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.dailynews.lk/2002/12/03/new02.htm",
-          "title": "PM leaves for Japan, Dailynews, 3 December 2003",
+          "title": "PM leaves for Japan",
+          "website": "Dailynews.lk",
+          "date": "3 December 2003",
           "template": "citation",
           "type": "web"
         },
@@ -2314,7 +2426,7 @@
           "archive-url": "https://web.archive.org/web/20180612144012/http://www.ft.lk/columns/ranil-wickremesinghe-the-good-the-bad-or-the-ugly/4-412277",
           "archive-date": "12 June 2018",
           "access-date": "6 June 2018",
-          "website": "www.ft.lk",
+          "website": "Ft.lk",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -2694,7 +2806,7 @@
         {
           "url": "http://www.lankanewspapers.com/news/2007/4/13624.html",
           "title": "Sri Lanka News – LTTE smuggled 4 or 5 aircraft during CFA: Karuna",
-          "website": "www.lankanewspapers.com",
+          "website": "Lankanewspapers.com",
           "access-date": "16 December 2009",
           "archive-url": "https://web.archive.org/web/20110606070606/http://www.lankanewspapers.com/news/2007/4/13624.html",
           "archive-date": "6 June 2011",
@@ -2705,7 +2817,7 @@
         {
           "url": "http://www.priu.gov.lk/news_update/Current_Affairs/ca200708/20070801cfa_violations.htm",
           "title": "Current Affairs",
-          "work": "priu.gov.lk",
+          "website": "Priu.gov.lk",
           "access-date": "21 August 2015",
           "archive-url": "https://web.archive.org/web/20150924082123/http://www.priu.gov.lk/news_update/Current_Affairs/ca200708/20070801cfa_violations.htm",
           "archive-date": "24 September 2015",
@@ -2714,10 +2826,14 @@
           "type": "web"
         },
         {
+          "url": "http://www.dailynews.lk/2005/06/01/",
+          "archiveurl": "https://web.archive.org/web/20121012233259/http://www.dailynews.lk/2005/06/01/",
+          "url-status": "dead",
+          "title": "Chief Military Intelligence Officer gunned down, Dailynews, 1 June 2005",
+          "archive-date": "12 October 2012",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Silence Breaks : Part Three – Ranil's Presidential Dream Crumbled Down – Natarajah Kuruparan",
@@ -2982,31 +3098,22 @@
           "type": "web"
         },
         {
-          "author": "Anonymous",
-          "date": "12 August 2012",
-          "title": "Maithripala alleges Ranil subterfuge: 'SLFP clerk post was dignified'",
-          "url": "http://www.lakbimanews.lk/index.php?option=com_content&view=article&id=6496%3Amaithripala-alleges-ranil-subterfuge-slfp-clerk-post-was-dignified&Itemid=56",
-          "access-date": "21 September 2012",
-          "publisher": "Lakbimanews.lk}}{{Dead link|date=August 2018|bot=InternetArchiveBot|fix-attempted=yes|undefined",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
-          "date": "1 August 2012",
-          "title": "Ranil revealed Gamini's election campaign plans, claims Sirisena",
-          "url": "http://www.newsfirst.lk/english-news/index.php?view=news_more&id=14828",
-          "access-date": "21 September 2012",
-          "publisher": "Newsfirst.lk}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic|undefined",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
-          "title": "Maithripala Sirisena has absconded from challenge, says Tissa Attanayake",
-          "url": "http://www.newsfirst.lk/english-news/?view=news_more&id=15682",
-          "access-date": "21 September 2012",
-          "publisher": "Newsfirst.lk}}{{dead link|date=April 2018|bot=InternetArchiveBot|fix-attempted=yes|undefined",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "title": "News view",
@@ -3034,7 +3141,7 @@
           "title": "Sri Lanka Parliamentary Election 2015 Result: What Direction Will Foreign Policy Take? – Indian Council of World Affairs (Government of India)",
           "url": "https://www.icwa.in/show_content.php?lang=1&level=3&ls_id=2147&lid=1604",
           "access-date": "13 May 2022",
-          "website": "www.icwa.in",
+          "website": "Icwa.in",
           "template": "citation",
           "type": "web"
         }
@@ -3329,7 +3436,7 @@
           "archive-url": "https://web.archive.org/web/20110606070600/http://www.lankanewspapers.com/news/2007/11/21440.html",
           "archive-date": "6 June 2011",
           "access-date": "16 December 2009",
-          "website": "www.lankanewspapers.com",
+          "website": "Lankanewspapers.com",
           "template": "citation",
           "type": "web"
         },
@@ -3374,7 +3481,7 @@
           "url-status": "dead",
           "title": "Daily Mirror – Sri Lanka Latest Breaking News and Headlines",
           "archivedate": "6 June 2009",
-          "website": "www.dailymirror.lk",
+          "website": "Dailymirror.lk",
           "template": "citation",
           "type": "web"
         },
@@ -3472,7 +3579,7 @@
           "url-status": "dead",
           "title": "Daily Mirror – Sri Lanka Latest Breaking News and Headlines",
           "archivedate": "22 March 2009",
-          "website": "www.dailymirror.lk",
+          "website": "Dailymirror.lk",
           "template": "citation",
           "type": "web"
         }
@@ -4761,7 +4868,6 @@
           "url": "https://www.thehindu.com/opinion/interview/ranil-wickramasinghes-interview-to-thanthi-tv/article6966818.ece",
           "title": "Ranil Wickramasinghe's interview to Thanthi TV",
           "date": "6 March 2015",
-          "via": "www.thehindu.com",
           "newspaper": "The Hindu",
           "access-date": "14 November 2018",
           "archive-url": "https://web.archive.org/web/20181116073234/https://www.thehindu.com/opinion/interview/ranil-wickramasinghes-interview-to-thanthi-tv/article6966818.ece",
@@ -5010,27 +5116,6 @@
       ],
       "references": [
         {
-          "title": "RANIL SWORN IN AS PM – Top Story {{!}} Daily Mirror",
-          "url": "https://www.dailymirror.lk/top_story/RANIL-SWORN-IN-AS-PM/155-236884",
-          "access-date": "12 May 2022",
-          "website": "www.dailymirror.lk",
-          "language": "English",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Ellis-Petersen",
-          "first": "Hannah",
-          "date": "12 May 2022",
-          "title": "Sri Lanka president brings back five-time former PM in effort to ease crisis",
-          "url": "https://www.theguardian.com/world/2022/may/12/ranil-wickremesinghe-former-sri-lanka-pm-lead-unity-government-after-violence",
-          "access-date": "15 May 2022",
-          "website": "The Guardian",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last1": "Pal",
           "first1": "Alasdair",
           "last2": "Jayasinghe",
@@ -5065,7 +5150,7 @@
           "title": "Sri Lanka PM 'willing to resign' after President's House stormed",
           "url": "https://www.aljazeera.com/news/2022/7/9/sri-lanka-protesters-storm-president-house-demanding-resignation",
           "access-date": "9 July 2022",
-          "website": "www.aljazeera.com",
+          "website": "Aljazeera.com",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -5075,17 +5160,17 @@
           "title": "Sri Lankan crisis: Protesters set PM Ranil Wickremesinghe's residence on fire",
           "url": "https://www.hindustantimes.com/world-news/protesters-set-sri-lankan-pm-ranil-wickremesinghe-s-residence-on-fire-101657381849320.html",
           "access-date": "9 July 2022",
-          "website": "Hindustan Times News",
+          "newspaper": "Hindustan Times",
           "language": "en",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.cbsnews.com/news/sri-lankans-storm-presidents-house-office-in-biggest-rally/",
           "title": "After Sri Lankan Prime Minister Ranil Wickremesinghe resigns, protesters set his house on fire",
-          "publisher": "CBS News",
+          "publisher": "Cbsnews.com",
           "date": "9 July 2022",
-          "accessdate": "9 July 2022",
+          "access-date": "9 July 2022",
           "template": "citation",
           "type": "news"
         }
@@ -5149,6 +5234,21 @@
             },
             {
               "text": "He defeated his main rival, Dullus Alahapperuma, with 134 votes to 82."
+            },
+            {
+              "text": "On 21 July, he sworn in as the ninth (eight executive) President of Sri Lanka at Parliament premises before Chief Justice Jayantha Jayasuriya.",
+              "links": [
+                {
+                  "text": "sworn in",
+                  "type": "internal",
+                  "page": "Inauguration of Ranil Wickremesinghe"
+                },
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Sri Lanka"
+                }
+              ]
             }
           ]
         }
@@ -5163,10 +5263,13 @@
       ],
       "references": [
         {
+          "url": "https://www.dawn.com/news/1699361",
+          "title": "Sri Lanka PM declares state of emergency, curfew",
+          "date": "13 July 2022",
+          "website": "Dawn.com",
+          "access-date": "21 July 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.deccanherald.com/international/wickremesinghe-decides-to-prohibit-use-of-his-excellency-to-address-president-abolish-presidential-flag-1126941.html",
@@ -5193,11 +5296,27 @@
           "type": "news"
         },
         {
+          "title": "Ranil to be sworn in as new President today",
+          "url": "http://www.adaderana.lk/news/83780/ranil-to-be-sworn-in-as-new-president-today",
+          "website": "Ada Derana",
+          "date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ranil Wickremesinghe sworn in as Sri Lankan president",
+          "url": "https://www.reuters.com/world/asia-pacific/ranil-wickremesinghe-sworn-sri-lankan-president-2022-07-21/",
+          "website": "reuters",
+          "date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "author": "PTI / Updated: 13 July 2022, 14:06 IST",
           "url": "https://www.telegraphindia.com/world/ranil-wickremesinghe-sworn-in-as-sri-lankas-interim-president/cid/1874835",
           "title": "Ranil Wickremesinghe sworn in as Sri Lanka's interim president",
           "publisher": "The Telegraph India",
-          "accessdate": "15 July 2022",
+          "access-date": "15 July 2022",
           "template": "citation",
           "type": "web"
         }
@@ -5225,7 +5344,7 @@
               "text": "His personal life is rarely publicized or discussed."
             },
             {
-              "text": "Maithree Wickremasinghe avoided the political spotlight until Wickremasinghe's recent re-election as prime minister in 2015."
+              "text": "Maithree Wickremasinghe avoided the political spotlight until Wickremasinghe's re-election as prime minister in 2015."
             }
           ]
         },
@@ -5302,27 +5421,9 @@
           "title": "Who married Maitree Wickremasinghe? {{!}} WhoMarried.com",
           "url": "https://www.whomarried.com/maitree-wickramasinghe-6737193",
           "access-date": "15 May 2022",
-          "website": "www.whomarried.com",
+          "website": "Whomarried.com",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "template": "citation",
@@ -5386,6 +5487,8 @@
         {
           "url": "https://dsf.newscorpaustralia.com/geelongadvertiser/subscription/",
           "title": "Subscribe to the Geelong Advertiser",
+          "website": "Dsf.newscorpaustralia.com",
+          "access-date": "21 July 2022",
           "template": "citation",
           "type": "web"
         }
@@ -5437,9 +5540,6 @@
       "depth": 0,
       "templates": [
         {
-          "list": [
-            "30em"
-          ],
           "template": "reflist"
         }
       ]

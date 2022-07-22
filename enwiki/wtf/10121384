@@ -35,21 +35,11 @@
         {
           "sentences": [
             {
-              "text": "Dinesh Chandra Rupasinghe Gunawardena (born 2 March 1949) is a Sri Lankan politician, Member of Parliament, Cabinet Minister, and Leader of the House in the Sri Lankan Parliament.",
+              "text": "Dinesh Chandra Rupasinghe Gunawardena (දිනේෂ් ගුණවර්ධන, தினேஷ் குணவர்தன; born 2 March 1949) is a Sri Lankan politician has served as Prime Minister of Sri Lanka since July 2022.",
               "links": [
                 {
-                  "text": "Sri Lankan",
                   "type": "internal",
-                  "page": "Sri Lanka"
-                },
-                {
-                  "text": "Leader of the House",
-                  "type": "internal",
-                  "page": "Leader of the House (Sri Lanka)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sri Lankan Parliament"
+                  "page": "Prime Minister of Sri Lanka"
                 }
               ],
               "formatting": {
@@ -59,25 +49,25 @@
               }
             },
             {
-              "text": "He is the current leader of the Mahajana Eksath Peramuna (MEP).",
+              "text": "He has served as a member of parliament, cabinet minister, and Leader of the House in the Parliament of Sri Lanka.",
               "links": [
                 {
+                  "text": "Leader of the House",
                   "type": "internal",
-                  "page": "Mahajana Eksath Peramuna"
+                  "page": "Leader of the House (Sri Lanka)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Sri Lanka"
                 }
               ]
             },
             {
-              "text": "He was appointed as the Minister of Home Affairs on the 18th of April 2022 by President Gotabaya Rajapaksa",
+              "text": "He is the current leader of the left-wing Mahajana Eksath Peramuna (MEP) party since 1983.",
               "links": [
                 {
-                  "text": "Minister of Home Affairs",
                   "type": "internal",
-                  "page": "Minister of Home Affairs (Sri Lanka)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Gotabaya Rajapaksa"
+                  "page": "Mahajana Eksath Peramuna"
                 }
               ]
             }
@@ -86,7 +76,7 @@
       ],
       "templates": [
         {
-          "description": "Sri Lankan politician",
+          "description": "Prime Minister of Sri Lankan since 2022",
           "template": "short description"
         },
         {
@@ -99,6 +89,12 @@
         },
         {
           "list": [
+            "Cabinet positions"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "list": [
             "Minister of Urban Development and Sacred Area Development from January 2007 to April 2010."
           ],
           "template": "efn"
@@ -108,6 +104,18 @@
             "Minister of Transport and Environment from September 2001 to December 2001."
           ],
           "template": "efn"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "list": [
+            "Parliamentary positions"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
         },
         {
           "year": "1949",
@@ -136,7 +144,7 @@
             "text": "Dinesh Gunawardena"
           },
           "native_name": {
-            "text": "දිනේෂ් ගුණවර්ධන\nதினேஷ் குணவர்தன"
+            "text": "දිනේෂ් ගුණවර්ධන\n\nதினேஷ் குணவர்தன"
           },
           "honorific-suffix": {
             "text": "MP",
@@ -149,34 +157,20 @@
             ]
           },
           "image": {
-            "text": "Dinesh Gunawardena.jpg"
+            "text": "Dinesh Gunawardena (cropped).jpg"
+          },
+          "caption": {
+            "text": "Gunawardena in 2020"
+          },
+          "order": {
+            "text": "15th"
           },
           "office": {
-            "text": "Minister of Public Administration, Provincial Councils, Local Government and Home Affairs",
-            "links": [
-              {
-                "text": " Minister of Public Administration, Provincial Councils, Local Government and Home Affairs\t",
-                "type": "internal",
-                "page": "Minister of Home Affairs (Sri Lanka)"
-              }
-            ]
+            "text": "Prime Minister of Sri Lanka"
           },
           "president": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Ranil Wickremesinghe",
             "links": [
-              {
-                "type": "internal",
-                "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mahinda Rajapaksa Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapaksa"
-              },
               {
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
@@ -184,26 +178,19 @@
             ]
           },
           "term_start": {
-            "text": "18 April 2022"
+            "text": "22 July 2022"
           },
           "predecessor": {
-            "text": "Janaka Bandara Tennakoon",
+            "text": "Ranil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
-                "page": "Janaka Bandara Tennakoon"
+                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "office1": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (Sri Lanka)"
-              }
-            ]
+            "text": "[[Minister of Home Affairs (Sri Lanka)|Minister of Public Administration, Home Affairs, Provincial Councils and Local Government\n\n]]"
           },
           "president1": {
             "text": "Gotabaya Rajapaksa",
@@ -215,45 +202,37 @@
             ]
           },
           "primeminister1": {
-            "text": "Mahinda Rajapaksa",
+            "text": "Mahinda Rajapaksa Ranil Wickremesinghe Himself",
             "links": [
               {
                 "type": "internal",
                 "page": "Mahinda Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "term_start1": {
-            "text": "16 August 2021"
-          },
-          "term_end1": {
             "text": "18 April 2022"
           },
           "predecessor1": {
-            "text": "G. L. Peiris",
+            "text": "Janaka Bandara Tennakoon",
             "links": [
               {
                 "type": "internal",
-                "page": "G. L. Peiris"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ramesh Pathirana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramesh Pathirana"
+                "page": "Janaka Bandara Tennakoon"
               }
             ]
           },
           "office2": {
-            "text": "Leader of the House",
+            "text": "Minister of Education",
             "links": [
               {
-                "text": "Leader of the House",
+                "text": "Minister of Education",
                 "type": "internal",
-                "page": "Leader of the House (Sri Lanka)"
+                "page": "Minister of Education (Sri Lanka)"
               }
             ]
           },
@@ -267,27 +246,35 @@
             ]
           },
           "primeminister2": {
-            "text": "Mahinda Rajapaksa Ranil Wickremesinghe",
+            "text": "Mahinda Rajapaksa",
             "links": [
               {
                 "type": "internal",
                 "page": "Mahinda Rajapaksa"
-              },
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "term_start2": {
-            "text": "3 January 2020"
+            "text": "16 August 2021"
+          },
+          "term_end2": {
+            "text": "18 April 2022"
           },
           "predecessor2": {
-            "text": "Lakshman Kiriella",
+            "text": "G. L. Peiris",
             "links": [
               {
                 "type": "internal",
-                "page": "Lakshman Kiriella"
+                "page": "G. L. Peiris"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ramesh Pathirana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramesh Pathirana"
               }
             ]
           },
@@ -378,40 +365,6 @@
             ]
           },
           "office5": {
-            "text": "Chief Government Whip",
-            "links": [
-              {
-                "text": "Chief Government Whip",
-                "type": "internal",
-                "page": "Chief Government Whip (Sri Lanka)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "17 June 2008"
-          },
-          "term_end5": {
-            "text": "20 January 2015"
-          },
-          "predecessor5": {
-            "text": "Jeyaraj Fernandopulle",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeyaraj Fernandopulle"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Gayantha Karunathilaka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gayantha Karunathilaka"
-              }
-            ]
-          },
-          "office6": {
             "text": "Minister of Urban Development and Water Supply",
             "links": [
               {
@@ -421,13 +374,13 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start5": {
             "text": "April 2004"
           },
-          "term_end6": {
+          "term_end5": {
             "text": "April 2010"
           },
-          "predecessor6": {
+          "predecessor5": {
             "text": "Gamini Atukorale",
             "links": [
               {
@@ -436,7 +389,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor5": {
             "text": "Mahinda Rajapaksa",
             "links": [
               {
@@ -445,16 +398,16 @@
               }
             ]
           },
-          "office7": {
-            "text": "Deputy Minister of Education"
+          "office6": {
+            "text": "Deputy Minister of Education of Sri Lanka"
           },
-          "term_start7": {
+          "term_start6": {
             "text": "April 2004"
           },
-          "term_end7": {
+          "term_end6": {
             "text": "January 2007"
           },
-          "successor7": {
+          "successor6": {
             "text": "M. Satchithanandan",
             "links": [
               {
@@ -463,23 +416,23 @@
               }
             ]
           },
-          "office8": {
-            "text": "Minister of Transport",
+          "office7": {
+            "text": "Minister of Transport of Sri Lanka",
             "links": [
               {
-                "text": "Minister of Transport",
+                "text": "Minister of Transport of Sri Lanka",
                 "type": "internal",
                 "page": "Minister of Transport (Sri Lanka)"
               }
             ]
           },
-          "term_start8": {
+          "term_start7": {
             "text": "October 2000"
           },
-          "term_end8": {
+          "term_end7": {
             "text": "December 2001"
           },
-          "predecessor8": {
+          "predecessor7": {
             "text": "Srimani Athulathmudali",
             "links": [
               {
@@ -488,7 +441,7 @@
               }
             ]
           },
-          "successor8": {
+          "successor7": {
             "text": "Gamini Atukorale",
             "links": [
               {
@@ -497,21 +450,98 @@
               }
             ]
           },
-          "office9": {
-            "text": "President of the Mahajan Eksath Peramuna",
+          "office8": {
+            "text": "Leader of the House",
             "links": [
               {
-                "text": " President of the Mahajan Eksath Peramuna",
+                "text": "Leader of the House",
+                "type": "internal",
+                "page": "Leader of the House (Sri Lanka)"
+              }
+            ]
+          },
+          "president8": {
+            "text": "Gotabaya Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              }
+            ]
+          },
+          "primeminister8": {
+            "text": "Mahinda Rajapaksa Ranil Wickremesinghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "3 January 2020"
+          },
+          "predecessor8": {
+            "text": "Lakshman Kiriella",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lakshman Kiriella"
+              }
+            ]
+          },
+          "office9": {
+            "text": "Chief Government Whip",
+            "links": [
+              {
+                "text": "Chief Government Whip",
+                "type": "internal",
+                "page": "Chief Government Whip (Sri Lanka)"
+              }
+            ]
+          },
+          "term_start9": {
+            "text": "17 June 2008"
+          },
+          "term_end9": {
+            "text": "20 January 2015"
+          },
+          "predecessor9": {
+            "text": "Jeyaraj Fernandopulle",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeyaraj Fernandopulle"
+              }
+            ]
+          },
+          "successor9": {
+            "text": "Gayantha Karunathilaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gayantha Karunathilaka"
+              }
+            ]
+          },
+          "office10": {
+            "text": "President of Mahajana Eksath Peramuna",
+            "links": [
+              {
                 "type": "internal",
                 "page": "Mahajana Eksath Peramuna"
               }
             ]
           },
-          "term_start9": {
+          "term_start10": {
             "text": "1983",
             "number": 1983
           },
-          "predecessor9": {
+          "predecessor10": {
             "text": "Philip Gunawardena",
             "links": [
               {
@@ -520,46 +550,37 @@
               }
             ]
           },
-          "constituency_mp10": {
-            "text": "Colombo District",
+          "office11": {
+            "text": "Member of Parliament",
             "links": [
               {
-                "text": "Colombo District",
+                "text": "Member of Parliament",
                 "type": "internal",
-                "page": "Colombo Electoral District"
+                "page": "Member of Parliament (Sri Lanka)"
               }
             ]
-          },
-          "parliament10": {
-            "text": "Sri Lankan"
-          },
-          "term_start10": {
-            "text": "2000",
-            "number": 2000
-          },
-          "constituency_mp11": {
-            "text": "Colombo District",
-            "links": [
-              {
-                "text": "Colombo District",
-                "type": "internal",
-                "page": "Colombo Electoral District"
-              }
-            ]
-          },
-          "parliament11": {
-            "text": "Sri Lankan"
           },
           "term_start11": {
-            "text": "1989",
-            "number": 1989
+            "text": "10 October 2000"
           },
-          "term_end11": {
-            "text": "1994",
-            "number": 1994
+          "constituency11": {
+            "text": "Colombo",
+            "links": [
+              {
+                "text": "Colombo",
+                "type": "internal",
+                "page": "Colombo Electoral District"
+              }
+            ]
           },
-          "constituency_mp12": {
-            "text": "Maharagama",
+          "term_start12": {
+            "text": "18 May 1983"
+          },
+          "term_end12": {
+            "text": "16 August 1994"
+          },
+          "constituency12": {
+            "text": "Maharagama (1983–1989) Colombo (1989–1994)",
             "links": [
               {
                 "text": "Maharagama",
@@ -568,18 +589,7 @@
               }
             ]
           },
-          "parliament12": {
-            "text": "Sri Lankan"
-          },
-          "term_start12": {
-            "text": "1983",
-            "number": 1983
-          },
-          "term_end12": {
-            "text": "1989",
-            "number": 1989
-          },
-          "predecessor12": {
+          "predecessor13": {
             "text": "Premarathne Gunasekera",
             "links": [
               {
@@ -590,15 +600,6 @@
           },
           "birth_date": {
             "text": "March 2, 1949"
-          },
-          "citizenship": {
-            "text": "Sri Lanka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sri Lanka"
-              }
-            ]
           },
           "party": {
             "text": "Mahajana Eksath Peramuna",
@@ -633,23 +634,21 @@
           },
           "occupation": {
             "text": "Trade unionist"
-          },
-          "blank1": {
-            "text": "Ethnicity"
-          },
-          "data1": {
-            "text": "Sinhalese",
-            "links": [
-              {
-                "text": "Sinhalese",
-                "type": "internal",
-                "page": "Sinhalese people"
-              }
-            ]
           }
         }
       ],
       "references": [
+        {
+          "last": "Moonsinghe",
+          "first": "Vinod",
+          "date": "22 May 2020",
+          "title": "The By-Elections of 1983",
+          "work": "Daily News",
+          "url": "https://www.dailynews.lk/2020/05/22/features/219083/elections-1983",
+          "access-date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -668,18 +667,27 @@
               "text": "Gunawardena was born 2 March 1949."
             },
             {
-              "text": "He is the son of Philip Gunawardena and Kusumasiri née Amarasinghe.",
+              "text": "He is the son of Philip Gunawardena and Kusumasiri Gunawardena (née Amarasinghe).",
               "links": [
                 {
                   "type": "internal",
                   "page": "Philip Gunawardena"
                 },
                 {
-                  "text": "Kusumasiri née Amarasinghe",
                   "type": "internal",
                   "page": "Kusumasiri Gunawardena"
+                },
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "Birth name"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "née"
+                ]
+              }
             },
             {
               "text": "He was educated at Royal Primary School, Colombo and Royal College, Colombo.",
@@ -718,16 +726,11 @@
               ]
             },
             {
-              "text": "Whilst in the USA he became involved in student activism, taking part in Anti-Vietnam War protests.",
+              "text": "Whilst in the United States, he became involved in student activism, taking part in anti-Vietnam War protests.",
               "links": [
                 {
-                  "text": "student activism",
                   "type": "internal",
-                  "page": "student activism"
-                },
-                {
-                  "type": "internal",
-                  "page": "Anti-Vietnam War"
+                  "page": "Vietnam War"
                 }
               ]
             }
@@ -749,7 +752,7 @@
               ]
             },
             {
-              "text": "Ramani died of undiagnosed hepatitis in the mid 1980s.",
+              "text": "Ramani died of undiagnosed hepatitis in the mid-1980s.",
               "links": [
                 {
                   "text": "hepatitis",
@@ -852,7 +855,7 @@
         {
           "sentences": [
             {
-              "text": "After university Gunawardena worked in New York City but in 1972 his father died and Gunawardena returned to Sri Lanka.",
+              "text": "After university, Gunawardena worked in New York City, but in 1972 his father died, and Gunawardena returned to Sri Lanka.",
               "links": [
                 {
                   "type": "internal",
@@ -866,11 +869,6 @@
                 {
                   "type": "internal",
                   "page": "Mahajana Eksath Peramuna"
-                },
-                {
-                  "text": "central committee",
-                  "type": "internal",
-                  "page": "central committee"
                 }
               ]
             },
@@ -882,7 +880,7 @@
         {
           "sentences": [
             {
-              "text": "Gunawardena was the MEP's candidate in Avissawella at the 1977 parliamentary election but failed to get elected.",
+              "text": "Gunawardena was the MEP's candidate in Avissawella at the 1977 parliamentary election, but failed to get elected.",
               "links": [
                 {
                   "text": "Avissawella",
@@ -897,18 +895,12 @@
               ]
             },
             {
-              "text": "He was the MEP's candidate in Maharagama at the 1983 by-election.",
+              "text": "He was again the MEP's candidate in the Maharagama Electoral District at the 1983 by-election, winning and entering Parliament.",
               "links": [
                 {
-                  "text": "Maharagama",
                   "type": "internal",
                   "page": "Maharagama Electoral District"
-                }
-              ]
-            },
-            {
-              "text": "He won the election and entered Parliament.",
-              "links": [
+                },
                 {
                   "text": "Parliament",
                   "type": "internal",
@@ -917,7 +909,7 @@
               ]
             },
             {
-              "text": "Gunawardena contested the 1989 parliamentary election as one of the MEP's candidates in Colombo District.",
+              "text": "Gunawardena successfully contested the 1989 parliamentary election as one of the MEP's candidates in the multi-member Colombo Electoral District.",
               "links": [
                 {
                   "text": "1989 parliamentary election",
@@ -925,17 +917,13 @@
                   "page": "1989 Sri Lankan parliamentary election"
                 },
                 {
-                  "text": "Colombo District",
                   "type": "internal",
                   "page": "Colombo Electoral District"
                 }
               ]
             },
             {
-              "text": "He was elected and re-entered Parliament."
-            },
-            {
-              "text": "He was one of the MEP's candidates in Colombo District at the 1994 parliamentary election but the MEP failed to win any seats in Parliament.",
+              "text": "He was again one of the MEP's candidates in Colombo District at the 1994 parliamentary election, but the MEP failed to win any seats in Parliament.",
               "links": [
                 {
                   "text": "1994 parliamentary election",
@@ -949,7 +937,7 @@
         {
           "sentences": [
             {
-              "text": "On 27 August 2000 the MEP joined the People's Alliance (PA).",
+              "text": "On 27 August 2000, the MEP joined the People's Alliance (PA).",
               "links": [
                 {
                   "text": "People's Alliance",
@@ -1062,7 +1050,7 @@
         {
           "sentences": [
             {
-              "text": "Gunawardena was re-elected at the 2010 parliamentary election.",
+              "text": "Gunawardena was re-elected in the 2010 parliamentary election.",
               "links": [
                 {
                   "text": "2010 parliamentary election",
