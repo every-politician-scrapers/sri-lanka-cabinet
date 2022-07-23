@@ -22,10 +22,10 @@
         {
           "sentences": [
             {
-              "text": "Keheliya Rambukwella (born 21 September 1954, also known as Balcony Rambukwella) is a Sri Lankan politician.",
+              "text": "Dr. Keheliya Rambukwella (born 21 September 1954, also known as Balcony Rambukwella) is a Sri Lankan politician.",
               "formatting": {
                 "bold": [
-                  "Keheliya Rambukwella"
+                  "Dr. Keheliya Rambukwella"
                 ]
               }
             },
@@ -79,12 +79,17 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Hon.",
+            "text": "Hon. (Dr.)",
             "links": [
               {
                 "text": "Hon.",
                 "type": "internal",
                 "page": "The Honourable"
+              },
+              {
+                "text": "(Dr.)",
+                "type": "internal",
+                "page": "Physician"
               }
             ]
           },
@@ -95,12 +100,16 @@
             "text": "කෙහෙළිය රඹුක්වැල්ල\nகெஹெலிய ரம்புக்வெல"
           },
           "honorific-suffix": {
-            "text": "MP",
+            "text": "MP\n\nMBBS",
             "links": [
               {
                 "text": "MP",
                 "type": "internal",
                 "page": "Member of Parliament"
+              },
+              {
+                "type": "internal",
+                "page": "MBBS"
               }
             ]
           },
@@ -485,7 +494,7 @@
             ]
           },
           "profession": {
-            "text": "Businessman"
+            "text": "Medical Officer"
           }
         }
       ],
@@ -527,7 +536,7 @@
               ]
             },
             {
-              "text": "He is a professional hotelier, with a post graduate degree from the Hotel School.",
+              "text": "He is a professional hotelier, with a post graduate degree from the Hotel School and later qualified as a Medical Doctor.",
               "links": [
                 {
                   "text": "hotelier",

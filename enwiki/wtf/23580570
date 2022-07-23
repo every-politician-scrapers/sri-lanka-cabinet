@@ -54,7 +54,7 @@
               }
             },
             {
-              "text": "He is the current Cabinet Minister of External Affairs and a member of the Parliament of Sri Lanka from the National List.",
+              "text": "He was the Cabinet Minister of External Affairs and is a member of the Parliament of Sri Lanka from the National List.",
               "links": [
                 {
                   "text": "Cabinet Minister of External Affairs",
@@ -177,6 +177,9 @@
           "term_start": {
             "text": "16 August 2021"
           },
+          "term_end": {
+            "text": "22 July 2022"
+          },
           "president": {
             "text": "Gotabaya Rajapaksa",
             "links": [
@@ -205,6 +208,16 @@
               {
                 "type": "internal",
                 "page": "Dinesh Gunawardena"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Ali Sabry",
+            "links": [
+              {
+                "text": "Ali Sabry",
+                "type": "internal",
+                "page": "Ali Sabry (Sri Lankan politician)"
               }
             ]
           },

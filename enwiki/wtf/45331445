@@ -158,7 +158,7 @@
             ]
           },
           "primeminister": {
-            "text": "Mahinda Rajapaksa\nRanil Wickremesinghe",
+            "text": "Mahinda Rajapaksa\nRanil Wickremesinghe\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
@@ -167,6 +167,10 @@
               {
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },
@@ -230,20 +234,32 @@
             "text": "Sri Lankan"
           },
           "president3": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\nRanil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "primeminister3": {
-            "text": "Mahinda Rajapaksa",
+            "text": "Mahinda Rajapaksa\nRanil Wickremesinghe\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
                 "page": "Mahinda Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },

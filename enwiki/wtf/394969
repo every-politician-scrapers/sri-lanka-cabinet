@@ -419,6 +419,10 @@
           "template": "use dmy dates"
         },
         {
+          "date": "July 2022",
+          "template": "fact"
+        },
+        {
           "year": "1949",
           "month": "3",
           "day": "24",
@@ -481,7 +485,7 @@
             ]
           },
           "primeminister": {
-            "text": "Himself Dinesh Gunawardena",
+            "text": "Himself\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
@@ -490,7 +494,7 @@
             ]
           },
           "term_start": {
-            "text": "21 July 2022 Acting: 13 July 2022 – 21 July 2022"
+            "text": "21 July 2022\nActing: 13–21 July 2022"
           },
           "predecessor": {
             "text": "Gotabaya Rajapaksa",
@@ -517,7 +521,7 @@
             "text": "21 July 2022"
           },
           "president1": {
-            "text": "Gotabaya Rajapaksa Himself (Acting)",
+            "text": "Gotabaya Rajapaksa\nHimself (Acting)",
             "links": [
               {
                 "type": "internal",
@@ -1235,6 +1239,12 @@
       ],
       "references": [
         {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "url": "https://www.theguardian.com/world/2022/jul/18/ranil-wickremesinghe-wily-fox-who-became-sri-lanka-pm-six-times-profile",
           "title": "Ranil Wickremesinghe: wily fox who is Sri Lanka’s new president",
           "date": "20 July 2022",
@@ -1689,59 +1699,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "It was alleged by the People's Alliance government that Wickremesinghe, as Minister, was the political authority behind an illegal detention centre in the Batalanda housing and industrial complex outside Colombo between 1988 and 1990 which was allegedly run by a government-backed counter-subversive unit as part of the state's operation to put down an armed insurgency by the JVP.",
-              "links": [
-                {
-                  "text": "People's Alliance",
-                  "type": "internal",
-                  "page": "People's Alliance (Sri Lanka)"
-                },
-                {
-                  "text": "illegal detention centre",
-                  "type": "internal",
-                  "page": "Batalanda detention centre"
-                },
-                {
-                  "text": "armed insurgency by the JVP",
-                  "type": "internal",
-                  "page": "1987–89 JVP Insurrection"
-                }
-              ]
-            },
-            {
-              "text": "The People's Alliance government of President Chandrika Kumaratunga, appointed a Special Presidential Commission of Inquiry to investigate activities of Batalanda and on 3 September 1997 Wickremesinghe was summoned to testify before the commission.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chandrika Kumaratunga"
-                },
-                {
-                  "text": "Special Presidential Commission of Inquiry",
-                  "type": "internal",
-                  "page": "Presidential Commission of Inquiry"
-                }
-              ]
-            },
-            {
-              "text": "The commissions report was released on 12 April 1998."
-            },
-            {
-              "text": "The commission was a fact-finding mission and had no judicial powers, however it recommended the government to \"bring the guilty to book\"."
-            },
-            {
-              "text": "One of its findings was that \"Wickremesinghe and the SSP Nalin Delgoda, are indirectly responsible for the maintenance of places of unlawful detention and torture chambers in houses at the Batalanda Housing Scheme\"."
-            },
-            {
-              "text": "It further stated that Wickremesinghe held \"unauthorised meetings of police officers involved in counter-insurgency operations in the housing complex, and that as such, he had abused his authority\"."
-            },
-            {
-              "text": "No criminal proceedings took place thereafter."
-            }
-          ]
         }
       ],
       "references": [
@@ -1777,74 +1734,6 @@
           "type": "news"
         },
         {
-          "title": "Batalanda and Ranil – lot of explanations needed",
-          "newspaper": "Asian Tribune",
-          "url": "http://www.asiantribune.com/news/2005/10/17/batalanda-and-ranil-%E2%80%93-lot-explanations-needed",
-          "url-status": "live",
-          "access-date": "20 September 2012",
-          "archive-url": "https://web.archive.org/web/20131002100848/http://www.asiantribune.com/news/2005/10/17/batalanda-and-ranil-%E2%80%93-lot-explanations-needed",
-          "archive-date": "2 October 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The Sunday Times On The Web – News/Comment",
-          "url": "http://sundaytimes.lk/970831/newsm.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20160129070844/http://www.sundaytimes.lk/970831/newsm.html",
-          "archive-date": "29 January 2016",
-          "access-date": "21 August 2015",
-          "work": "sundaytimes.lk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "20 August 2000",
-          "title": "The Sunday Times News/Comment Section",
-          "url": "http://sundaytimes.lk/000820/news5.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20111215125119/http://sundaytimes.lk/000820/news5.html",
-          "archive-date": "15 December 2011",
-          "access-date": "20 September 2012",
-          "publisher": "Sundaytimes.lk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://books.google.com/books?id=ySQhuAAACAAJ",
-          "title": "Report of the Commission of Inquiry Into the Establishment and Maintenance ... – Google Books",
-          "year": "2000",
-          "access-date": "20 September 2012",
-          "via": "Google Books",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "title": "The Sunday Times Legal Column",
-          "url": "http://sundaytimes.lk/980412/mudli.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20160129080310/http://www.sundaytimes.lk/980412/mudli.html",
-          "archive-date": "29 January 2016",
-          "access-date": "21 August 2015",
-          "work": "sundaytimes.lk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Subramanian",
-          "first1": "Nirupama",
-          "date": "23 August 2000",
-          "title": "Batalanda's ghosts return to haunt Ranil",
-          "newspaper": "The Hindu",
-          "url": "http://hindu.com/2000/08/23/stories/03230007.htm",
-          "url-status": "dead",
-          "access-date": "21 September 2012",
-          "archive-url": "https://web.archive.org/web/20140508223725/http://hindu.com/2000/08/23/stories/03230007.htm",
-          "archive-date": "8 May 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "http://www.priu.gov.lk/PrimeMinister/formerprimeministers.html",
           "title": "Sri Lanka: Former Prime Ministers",
           "work": "priu.gov.lk",
@@ -1854,20 +1743,6 @@
           "archive-date": "24 September 2015",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "last1": "Subramanian",
-          "first1": "Nirupama",
-          "date": "23 August 2000",
-          "title": "Batalanda's ghosts return to haunt Ranil",
-          "newspaper": "The Hindu",
-          "url": "http://hindu.com/2000/08/23/stories/03230007.htm",
-          "url-status": "dead",
-          "access-date": "20 September 2012",
-          "archive-url": "https://web.archive.org/web/20140508223725/http://hindu.com/2000/08/23/stories/03230007.htm",
-          "archive-date": "8 May 2014",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -4393,375 +4268,6 @@
       ]
     },
     {
-      "title": "Government bonds controversy",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In February 2015 CBSL advertised the sale of Rs. 1 billion in 30 year government bonds at a coupon of 12.5%, though several accounts erroneously cite an indicative rate of 9.5%.",
-              "links": [
-                {
-                  "text": "Rs.",
-                  "type": "internal",
-                  "page": "Sri Lankan rupee"
-                },
-                {
-                  "text": "government bonds",
-                  "type": "internal",
-                  "page": "government bond"
-                }
-              ]
-            },
-            {
-              "text": "The sale was oversubscribed with 36 bids totaling Rs."
-            },
-            {
-              "text": "20 billion."
-            },
-            {
-              "text": "The majority of bidders, 26, bidded for Rs."
-            },
-            {
-              "text": "100 million or less at a rate of 9.5%–10.5%."
-            },
-            {
-              "text": "However, a few bidders, including Perpetual Treasuries Limited, wanted interest rates of 11%–12%."
-            },
-            {
-              "text": "On 27 February 2015 the CBSL accepted Rs."
-            },
-            {
-              "text": "10 billion in bids at rates of 9.5%–12.5%."
-            },
-            {
-              "text": "The issuing of ten times the advertised bonds, and at a higher than expected rate, was alleged to cost the Sri Lankan government an additional Rs."
-            },
-            {
-              "text": "1.6 billion ($10.6 million), though this was disputed by the Leader of the House of Parliament."
-            },
-            {
-              "text": "A petition was lodged in the Supreme Court of Sri Lanka contesting the methodology used to allege such a loss."
-            },
-            {
-              "text": "Perpetual Treasuries was issued, directly and indirectly, with Rs."
-            },
-            {
-              "text": "5 billion in bonds at 12.5%."
-            },
-            {
-              "text": "Perpetual Treasuries was one of the primary dealers in the sale and is owned by son-in-law of the Governor of the Central Bank of Sri Lanka Arjuna Mahendran, who was appointed by Wickremasinghe.",
-              "links": [
-                {
-                  "text": "primary dealers",
-                  "type": "internal",
-                  "page": "primary dealer"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Central Bank of Sri Lanka"
-                },
-                {
-                  "type": "internal",
-                  "page": "Arjuna Mahendran"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 28 October 2016 the Committee On Public Enterprises, after a lengthy investigation, found Mahendran responsible for the bond issue scam and recommended legal action be taken against him.",
-              "links": [
-                {
-                  "text": "Committee On Public Enterprises",
-                  "type": "internal",
-                  "page": "Committee On Public Enterprises (Sri Lanka)"
-                }
-              ]
-            },
-            {
-              "text": "However, President Maithripala Sirisena announced that he had appointed a Special Presidential Commission of Inquiry to further investigate the case.",
-              "links": [
-                {
-                  "text": "Special Presidential Commission of Inquiry",
-                  "type": "internal",
-                  "page": "Presidential Commission of Inquiry"
-                }
-              ]
-            },
-            {
-              "text": "The commission handed over the report on Central Bank bond issuance to Sirisena on 30 December 2017, and the Presidential Secretariat made available the full report in PDF form from its website for public viewing.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Presidential Secretariat"
-                }
-              ]
-            },
-            {
-              "text": "During the investigation Wickramesinghe had to appear before the Special Presidential Commission of Inquiry."
-            },
-            {
-              "text": "A group of ministers from the President's party along with opposition MPs failed in a recent attempt to pass a motion of no-confidence against the Prime Minister in Sri Lanka's Parliament."
-            },
-            {
-              "text": "On 15 March 2018 Colombo Fort Magistrate's Court issued an arrest warrant on Arjuna Mahendra on charges of criminal breach of trust for allegedly providing confidential information of the Central Bank of Sri Lanka to Perpetual Treasuries Limited.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central Bank of Sri Lanka"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.cbsl.gov.lk/pics_n_docs/02_prs/_docs/press/press_20150227.pdf",
-          "title": "Advertisement by the Central Bank of Sri Lanka",
-          "archive-url": "https://web.archive.org/web/20180219012057/http://www.cbsl.gov.lk/pics_n_docs/02_prs/_docs/press/press_20150227.pdf",
-          "archive-date": "19 February 2018",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sri Lankan central bank chief cleared over bond scandal",
-          "url": "https://news.yahoo.com/sri-lankan-central-bank-chief-cleared-over-bond-115819733.html",
-          "work": "Yahoo! News",
-          "agency": "Agence France-Presse",
-          "date": "19 April 2015",
-          "access-date": "8 December 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://dailynews.lk/2016/07/08/local/86949",
-          "title": "Ceylon Daily News 8 July 2016",
-          "archive-url": "https://web.archive.org/web/20181026161702/http://www.dailynews.lk/2016/07/08/local/86949",
-          "archive-date": "26 October 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Fernando",
-          "first1": "Tharushan",
-          "title": "Voice Against Corruption Movement condemns PM's statement on CBSL fraud",
-          "url": "http://newsfirst.lk/english/2015/05/voice-against-corruption-movement-condemns-pms-statement-on-cbsl-fraud/96707",
-          "work": "News First",
-          "date": "24 May 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20170701105304/http://newsfirst.lk/english/2015/05/voice-against-corruption-movement-condemns-pms-statement-on-cbsl-fraud/96707",
-          "archive-date": "1 July 2017",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.sundaytimes.lk/170122/news/monks-petition-on-eve-of-bond-debate-in-house-225917.html",
-          "title": "Monk's petition on eve of bond debate in House: Sunday Times 22 Jan 2017",
-          "archive-url": "https://web.archive.org/web/20180829124632/http://www.sundaytimes.lk/170122/news/monks-petition-on-eve-of-bond-debate-in-house-225917.html",
-          "archive-date": "29 August 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Samath",
-          "first1": "Feizal",
-          "title": "News Bond issue: Probe committee to question dealers on inside info",
-          "url": "http://www.sundaytimes.lk/150322/news/bond-issue-probe-committee-to-question-dealers-on-inside-info-141249.html",
-          "work": "The Sunday Times (Sri Lanka)",
-          "date": "22 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180806062141/http://www.sundaytimes.lk/150322/news/bond-issue-probe-committee-to-question-dealers-on-inside-info-141249.html",
-          "archive-date": "6 August 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Primary dealers seek urgent meeting with CB on bond issue",
-          "url": "http://www.sundaytimes.lk/150315/business-times/primary-dealers-seek-urgent-meeting-with-cb-on-bond-issue-139712.html",
-          "work": "The Sunday Times (Sri Lanka)",
-          "date": "15 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180907190921/http://www.sundaytimes.lk/150315/business-times/primary-dealers-seek-urgent-meeting-with-cb-on-bond-issue-139712.html",
-          "archive-date": "7 September 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Shauketaly",
-          "first1": "Faraz",
-          "title": "Trying To Stop The Third Force",
-          "url": "http://www.thesundayleader.lk/2015/04/12/trying-to-stop-the-third-force/",
-          "work": "The Sunday Leader",
-          "date": "12 April 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20160304062040/http://www.thesundayleader.lk/2015/04/12/trying-to-stop-the-third-force/",
-          "archive-date": "4 March 2016",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Perera",
-          "first1": "Yohan",
-          "title": "Finance Minister dismisses bond issue allegations",
-          "url": "http://www.dailymirror.lk/66149/finance-minister-dismisses-bond-issue-allegations",
-          "work": "The Daily Mirror (Sri Lanka)",
-          "date": "11 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20181026182610/http://www.dailymirror.lk/66149/finance-minister-dismisses-bond-issue-allegations",
-          "archive-date": "26 October 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.dailymirror.lk/article/Mahendran-responsible-for-CB-Bond-scam-COPE-report--118266.html",
-          "title": "Mahendran responsible for CB Bond scam: COPE report",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20181019124911/http://www.dailymirror.lk/article/Mahendran-responsible-for-CB-Bond-scam-COPE-report--118266.html",
-          "archive-date": "19 October 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://newsfirst.lk/english/2016/10/cope-report-former-cbsl-governor-arjuna-mahendran-found-accountable-bond-scam/153007",
-          "title": "Mahendran responsible for CB Bond scam: COPE report",
-          "date": "28 October 2016",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180114141440/http://newsfirst.lk/english/2016/10/cope-report-former-cbsl-governor-arjuna-mahendran-found-accountable-bond-scam/153007",
-          "archive-date": "14 January 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.adaderana.lk/news.php?nid=45097",
-          "title": "Bond commission hands over report to President Sirisena",
-          "publisher": "Adaderana",
-          "date": "30 December 2017",
-          "access-date": "23 March 2018",
-          "archive-url": "https://web.archive.org/web/20180414172306/http://www.adaderana.lk/news.php?nid=45097",
-          "archive-date": "14 April 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "PM before bond commission voluntarily",
-          "url": "http://www.dailymirror.lk/140653/PM-before-bond-commission-voluntarily",
-          "work": "Daily Mirror (Sri Lanka)",
-          "date": "19 November 2017",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20181026182619/http://www.dailymirror.lk/140653/PM-before-bond-commission-voluntarily",
-          "archive-date": "26 October 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.straitstimes.com/asia/south-asia/sri-lankan-pm-defeats-vote-of-no-confidence",
-          "title": "Sri Lankan PM defeats vote of no confidence",
-          "last": "hermes",
-          "date": "6 April 2018",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180617093642/https://www.straitstimes.com/asia/south-asia/sri-lankan-pm-defeats-vote-of-no-confidence",
-          "archive-date": "17 June 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "CB Governor faces 'family company' charges; calls mount for probe",
-          "url": "http://www.sundaytimes.lk/150308/news/cb-governor-faces-family-company-charges-calls-mount-for-probe-139578.html",
-          "work": "The Sunday Times (Sri Lanka)",
-          "date": "8 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180906220536/http://www.sundaytimes.lk/150308/news/cb-governor-faces-family-company-charges-calls-mount-for-probe-139578.html",
-          "archive-date": "6 September 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Harsha vows to go after fraudsters",
-          "url": "http://www.nation.lk/edition/latest-top-stories/item/39050-harsha-vows-to-go-after-fraudsters.html",
-          "work": "The Nation (Sri Lanka)",
-          "date": "8 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20161106145332/http://www.nation.lk/edition/latest-top-stories/item/39050-harsha-vows-to-go-after-fraudsters.html",
-          "archive-date": "6 November 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Aneez",
-          "first1": "Shihar",
-          "title": "Sri Lanka c.bank head resumes duty after bond probe report",
-          "url": "https://www.reuters.com/article/sri-lanka-cenbank-governor-idUSL4N0XK2ST20150423",
-          "work": "Reuters",
-          "date": "23 April 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20151120083102/http://www.reuters.com/article/2015/04/23/sri-lanka-cenbank-governor-idUSL4N0XK2ST20150423",
-          "archive-date": "20 November 2015",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "CB Bond Issue Call For Independent Probe",
-          "url": "http://www.thesundayleader.lk/2015/04/26/cb-bond-issue-call-for-independent-probe/",
-          "work": "The Sunday Leader",
-          "date": "26 April 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180302185454/http://www.thesundayleader.lk/2015/04/26/cb-bond-issue-call-for-independent-probe/",
-          "archive-date": "2 March 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Central Bank Governor under fire",
-          "url": "http://www.sundaytimes.lk/150315/business-times/central-bank-governor-under-fire-139688.html",
-          "work": "The Sunday Times (Sri Lanka)",
-          "date": "15 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20180907190849/http://www.sundaytimes.lk/150315/business-times/central-bank-governor-under-fire-139688.html",
-          "archive-date": "7 September 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The Central Bank Bond Fiasco",
-          "url": "http://www.nation.lk/edition/politics/item/39236-the-central-bank-bond-fiasco.html",
-          "work": "The Nation (Sri Lanka)",
-          "date": "14 March 2015",
-          "access-date": "26 October 2018",
-          "archive-url": "https://web.archive.org/web/20161224233438/http://www.nation.lk/edition/politics/item/39236-the-central-bank-bond-fiasco.html",
-          "archive-date": "24 December 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
       "title": "Foreign policy",
       "depth": 2,
       "paragraphs": [
@@ -5249,6 +4755,15 @@
                   "page": "Parliament of Sri Lanka"
                 }
               ]
+            },
+            {
+              "text": "A day later, he appointed Dinesh Gunawardena as the Prime Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dinesh Gunawardena"
+                }
+              ]
             }
           ]
         }
@@ -5312,6 +4827,14 @@
           "type": "news"
         },
         {
+          "title": "Dinesh Gunawardena, Sri Lanka president's schoolmate, to be next PM: Report",
+          "url": "https://www.hindustantimes.com/world-news/dinesh-gunawardena-sri-lanka-president-s-schoolmate-appointed-pm-report-101658408499970.html",
+          "work": "Hindustan Times News",
+          "date": "21 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "author": "PTI / Updated: 13 July 2022, 14:06 IST",
           "url": "https://www.telegraphindia.com/world/ranil-wickremesinghe-sworn-in-as-sri-lankas-interim-president/cid/1874835",
           "title": "Ranil Wickremesinghe sworn in as Sri Lanka's interim president",
@@ -5319,6 +4842,614 @@
           "access-date": "15 July 2022",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversies and criticism",
+      "depth": 0
+    },
+    {
+      "title": "Batalanda incident",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It was alleged by the People's Alliance government that Wickremesinghe, as Minister, was the political authority behind an illegal detention centre in the Batalanda housing and industrial complex outside Colombo between 1988 and 1990 which was allegedly run by a government-backed counter-subversive unit as part of the state's operation to put down an armed insurgency by the JVP.",
+              "links": [
+                {
+                  "text": "People's Alliance",
+                  "type": "internal",
+                  "page": "People's Alliance (Sri Lanka)"
+                },
+                {
+                  "text": "illegal detention centre",
+                  "type": "internal",
+                  "page": "Batalanda detention centre"
+                },
+                {
+                  "text": "armed insurgency by the JVP",
+                  "type": "internal",
+                  "page": "1987–89 JVP Insurrection"
+                }
+              ]
+            },
+            {
+              "text": "The People's Alliance government of President Chandrika Kumaratunga, appointed a Special Presidential Commission of Inquiry to investigate activities of Batalanda and on 3 September 1997 Wickremesinghe was summoned to testify before the commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chandrika Kumaratunga"
+                },
+                {
+                  "text": "Special Presidential Commission of Inquiry",
+                  "type": "internal",
+                  "page": "Presidential Commission of Inquiry"
+                }
+              ]
+            },
+            {
+              "text": "The commissions report was released on 12 April 1998."
+            },
+            {
+              "text": "The commission was a fact-finding mission and had no judicial powers, however it recommended the government to \"bring the guilty to book\"."
+            },
+            {
+              "text": "One of its findings was that \"Wickremesinghe and the SSP Nalin Delgoda, are indirectly responsible for the maintenance of places of unlawful detention and torture chambers in houses at the Batalanda Housing Scheme\"."
+            },
+            {
+              "text": "It further stated that Wickremesinghe held \"unauthorised meetings of police officers involved in counter-insurgency operations in the housing complex, and that as such, he had abused his authority\"."
+            },
+            {
+              "text": "No criminal proceedings took place thereafter."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Batalanda and Ranil – lot of explanations needed",
+          "newspaper": "Asian Tribune",
+          "url": "http://www.asiantribune.com/news/2005/10/17/batalanda-and-ranil-%E2%80%93-lot-explanations-needed",
+          "url-status": "live",
+          "access-date": "20 September 2012",
+          "archive-url": "https://web.archive.org/web/20131002100848/http://www.asiantribune.com/news/2005/10/17/batalanda-and-ranil-%E2%80%93-lot-explanations-needed",
+          "archive-date": "2 October 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The Sunday Times On The Web – News/Comment",
+          "url": "http://sundaytimes.lk/970831/newsm.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160129070844/http://www.sundaytimes.lk/970831/newsm.html",
+          "archive-date": "29 January 2016",
+          "access-date": "21 August 2015",
+          "work": "sundaytimes.lk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 August 2000",
+          "title": "The Sunday Times News/Comment Section",
+          "url": "http://sundaytimes.lk/000820/news5.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20111215125119/http://sundaytimes.lk/000820/news5.html",
+          "archive-date": "15 December 2011",
+          "access-date": "20 September 2012",
+          "publisher": "Sundaytimes.lk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://books.google.com/books?id=ySQhuAAACAAJ",
+          "title": "Report of the Commission of Inquiry Into the Establishment and Maintenance ... – Google Books",
+          "year": "2000",
+          "access-date": "20 September 2012",
+          "via": "Google Books",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "The Sunday Times Legal Column",
+          "url": "http://sundaytimes.lk/980412/mudli.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160129080310/http://www.sundaytimes.lk/980412/mudli.html",
+          "archive-date": "29 January 2016",
+          "access-date": "21 August 2015",
+          "work": "sundaytimes.lk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Subramanian",
+          "first1": "Nirupama",
+          "date": "23 August 2000",
+          "title": "Batalanda's ghosts return to haunt Ranil",
+          "newspaper": "The Hindu",
+          "url": "http://hindu.com/2000/08/23/stories/03230007.htm",
+          "url-status": "dead",
+          "access-date": "21 September 2012",
+          "archive-url": "https://web.archive.org/web/20140508223725/http://hindu.com/2000/08/23/stories/03230007.htm",
+          "archive-date": "8 May 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Subramanian",
+          "first1": "Nirupama",
+          "date": "23 August 2000",
+          "title": "Batalanda's ghosts return to haunt Ranil",
+          "newspaper": "The Hindu",
+          "url": "http://hindu.com/2000/08/23/stories/03230007.htm",
+          "url-status": "dead",
+          "access-date": "20 September 2012",
+          "archive-url": "https://web.archive.org/web/20140508223725/http://hindu.com/2000/08/23/stories/03230007.htm",
+          "archive-date": "8 May 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Government bonds controversy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February 2015 CBSL advertised the sale of Rs. 1 billion in 30 year government bonds at a coupon of 12.5%, though several accounts erroneously cite an indicative rate of 9.5%.",
+              "links": [
+                {
+                  "text": "Rs.",
+                  "type": "internal",
+                  "page": "Sri Lankan rupee"
+                },
+                {
+                  "text": "government bonds",
+                  "type": "internal",
+                  "page": "government bond"
+                }
+              ]
+            },
+            {
+              "text": "The sale was oversubscribed with 36 bids totaling Rs."
+            },
+            {
+              "text": "20 billion."
+            },
+            {
+              "text": "The majority of bidders, 26, bidded for Rs."
+            },
+            {
+              "text": "100 million or less at a rate of 9.5%–10.5%."
+            },
+            {
+              "text": "However, a few bidders, including Perpetual Treasuries Limited, wanted interest rates of 11%–12%."
+            },
+            {
+              "text": "On 27 February 2015 the CBSL accepted Rs."
+            },
+            {
+              "text": "10 billion in bids at rates of 9.5%–12.5%."
+            },
+            {
+              "text": "The issuing of ten times the advertised bonds, and at a higher than expected rate, was alleged to cost the Sri Lankan government an additional Rs."
+            },
+            {
+              "text": "1.6 billion ($10.6 million), though this was disputed by the Leader of the House of Parliament."
+            },
+            {
+              "text": "A petition was lodged in the Supreme Court of Sri Lanka contesting the methodology used to allege such a loss."
+            },
+            {
+              "text": "Perpetual Treasuries was issued, directly and indirectly, with Rs."
+            },
+            {
+              "text": "5 billion in bonds at 12.5%."
+            },
+            {
+              "text": "Perpetual Treasuries was one of the primary dealers in the sale and is owned by son-in-law of the Governor of the Central Bank of Sri Lanka Arjuna Mahendran, who was appointed by Wickremasinghe.",
+              "links": [
+                {
+                  "text": "primary dealers",
+                  "type": "internal",
+                  "page": "primary dealer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Sri Lanka"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arjuna Mahendran"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 28 October 2016 the Committee On Public Enterprises, after a lengthy investigation, found Mahendran responsible for the bond issue scam and recommended legal action be taken against him.",
+              "links": [
+                {
+                  "text": "Committee On Public Enterprises",
+                  "type": "internal",
+                  "page": "Committee On Public Enterprises (Sri Lanka)"
+                }
+              ]
+            },
+            {
+              "text": "However, President Maithripala Sirisena announced that he had appointed a Special Presidential Commission of Inquiry to further investigate the case.",
+              "links": [
+                {
+                  "text": "Special Presidential Commission of Inquiry",
+                  "type": "internal",
+                  "page": "Presidential Commission of Inquiry"
+                }
+              ]
+            },
+            {
+              "text": "The commission handed over the report on Central Bank bond issuance to Sirisena on 30 December 2017, and the Presidential Secretariat made available the full report in PDF form from its website for public viewing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presidential Secretariat"
+                }
+              ]
+            },
+            {
+              "text": "During the investigation Wickramesinghe had to appear before the Special Presidential Commission of Inquiry."
+            },
+            {
+              "text": "A group of ministers from the President's party along with opposition MPs failed in a recent attempt to pass a motion of no-confidence against the Prime Minister in Sri Lanka's Parliament."
+            },
+            {
+              "text": "On 15 March 2018 Colombo Fort Magistrate's Court issued an arrest warrant on Arjuna Mahendra on charges of criminal breach of trust for allegedly providing confidential information of the Central Bank of Sri Lanka to Perpetual Treasuries Limited.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Sri Lanka"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cbsl.gov.lk/pics_n_docs/02_prs/_docs/press/press_20150227.pdf",
+          "title": "Advertisement by the Central Bank of Sri Lanka",
+          "archive-url": "https://web.archive.org/web/20180219012057/http://www.cbsl.gov.lk/pics_n_docs/02_prs/_docs/press/press_20150227.pdf",
+          "archive-date": "19 February 2018",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sri Lankan central bank chief cleared over bond scandal",
+          "url": "https://news.yahoo.com/sri-lankan-central-bank-chief-cleared-over-bond-115819733.html",
+          "work": "Yahoo! News",
+          "agency": "Agence France-Presse",
+          "date": "19 April 2015",
+          "access-date": "8 December 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://dailynews.lk/2016/07/08/local/86949",
+          "title": "Ceylon Daily News 8 July 2016",
+          "archive-url": "https://web.archive.org/web/20181026161702/http://www.dailynews.lk/2016/07/08/local/86949",
+          "archive-date": "26 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Fernando",
+          "first1": "Tharushan",
+          "title": "Voice Against Corruption Movement condemns PM's statement on CBSL fraud",
+          "url": "http://newsfirst.lk/english/2015/05/voice-against-corruption-movement-condemns-pms-statement-on-cbsl-fraud/96707",
+          "work": "News First",
+          "date": "24 May 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20170701105304/http://newsfirst.lk/english/2015/05/voice-against-corruption-movement-condemns-pms-statement-on-cbsl-fraud/96707",
+          "archive-date": "1 July 2017",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.sundaytimes.lk/170122/news/monks-petition-on-eve-of-bond-debate-in-house-225917.html",
+          "title": "Monk's petition on eve of bond debate in House: Sunday Times 22 Jan 2017",
+          "archive-url": "https://web.archive.org/web/20180829124632/http://www.sundaytimes.lk/170122/news/monks-petition-on-eve-of-bond-debate-in-house-225917.html",
+          "archive-date": "29 August 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Samath",
+          "first1": "Feizal",
+          "title": "News Bond issue: Probe committee to question dealers on inside info",
+          "url": "http://www.sundaytimes.lk/150322/news/bond-issue-probe-committee-to-question-dealers-on-inside-info-141249.html",
+          "work": "The Sunday Times (Sri Lanka)",
+          "date": "22 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180806062141/http://www.sundaytimes.lk/150322/news/bond-issue-probe-committee-to-question-dealers-on-inside-info-141249.html",
+          "archive-date": "6 August 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Primary dealers seek urgent meeting with CB on bond issue",
+          "url": "http://www.sundaytimes.lk/150315/business-times/primary-dealers-seek-urgent-meeting-with-cb-on-bond-issue-139712.html",
+          "work": "The Sunday Times (Sri Lanka)",
+          "date": "15 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180907190921/http://www.sundaytimes.lk/150315/business-times/primary-dealers-seek-urgent-meeting-with-cb-on-bond-issue-139712.html",
+          "archive-date": "7 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Shauketaly",
+          "first1": "Faraz",
+          "title": "Trying To Stop The Third Force",
+          "url": "http://www.thesundayleader.lk/2015/04/12/trying-to-stop-the-third-force/",
+          "work": "The Sunday Leader",
+          "date": "12 April 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20160304062040/http://www.thesundayleader.lk/2015/04/12/trying-to-stop-the-third-force/",
+          "archive-date": "4 March 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Perera",
+          "first1": "Yohan",
+          "title": "Finance Minister dismisses bond issue allegations",
+          "url": "http://www.dailymirror.lk/66149/finance-minister-dismisses-bond-issue-allegations",
+          "work": "The Daily Mirror (Sri Lanka)",
+          "date": "11 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20181026182610/http://www.dailymirror.lk/66149/finance-minister-dismisses-bond-issue-allegations",
+          "archive-date": "26 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dailymirror.lk/article/Mahendran-responsible-for-CB-Bond-scam-COPE-report--118266.html",
+          "title": "Mahendran responsible for CB Bond scam: COPE report",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20181019124911/http://www.dailymirror.lk/article/Mahendran-responsible-for-CB-Bond-scam-COPE-report--118266.html",
+          "archive-date": "19 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://newsfirst.lk/english/2016/10/cope-report-former-cbsl-governor-arjuna-mahendran-found-accountable-bond-scam/153007",
+          "title": "Mahendran responsible for CB Bond scam: COPE report",
+          "date": "28 October 2016",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180114141440/http://newsfirst.lk/english/2016/10/cope-report-former-cbsl-governor-arjuna-mahendran-found-accountable-bond-scam/153007",
+          "archive-date": "14 January 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.adaderana.lk/news.php?nid=45097",
+          "title": "Bond commission hands over report to President Sirisena",
+          "publisher": "Adaderana",
+          "date": "30 December 2017",
+          "access-date": "23 March 2018",
+          "archive-url": "https://web.archive.org/web/20180414172306/http://www.adaderana.lk/news.php?nid=45097",
+          "archive-date": "14 April 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "PM before bond commission voluntarily",
+          "url": "http://www.dailymirror.lk/140653/PM-before-bond-commission-voluntarily",
+          "work": "Daily Mirror (Sri Lanka)",
+          "date": "19 November 2017",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20181026182619/http://www.dailymirror.lk/140653/PM-before-bond-commission-voluntarily",
+          "archive-date": "26 October 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.straitstimes.com/asia/south-asia/sri-lankan-pm-defeats-vote-of-no-confidence",
+          "title": "Sri Lankan PM defeats vote of no confidence",
+          "last": "hermes",
+          "date": "6 April 2018",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180617093642/https://www.straitstimes.com/asia/south-asia/sri-lankan-pm-defeats-vote-of-no-confidence",
+          "archive-date": "17 June 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "CB Governor faces 'family company' charges; calls mount for probe",
+          "url": "http://www.sundaytimes.lk/150308/news/cb-governor-faces-family-company-charges-calls-mount-for-probe-139578.html",
+          "work": "The Sunday Times (Sri Lanka)",
+          "date": "8 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180906220536/http://www.sundaytimes.lk/150308/news/cb-governor-faces-family-company-charges-calls-mount-for-probe-139578.html",
+          "archive-date": "6 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Harsha vows to go after fraudsters",
+          "url": "http://www.nation.lk/edition/latest-top-stories/item/39050-harsha-vows-to-go-after-fraudsters.html",
+          "work": "The Nation (Sri Lanka)",
+          "date": "8 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20161106145332/http://www.nation.lk/edition/latest-top-stories/item/39050-harsha-vows-to-go-after-fraudsters.html",
+          "archive-date": "6 November 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Aneez",
+          "first1": "Shihar",
+          "title": "Sri Lanka c.bank head resumes duty after bond probe report",
+          "url": "https://www.reuters.com/article/sri-lanka-cenbank-governor-idUSL4N0XK2ST20150423",
+          "work": "Reuters",
+          "date": "23 April 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20151120083102/http://www.reuters.com/article/2015/04/23/sri-lanka-cenbank-governor-idUSL4N0XK2ST20150423",
+          "archive-date": "20 November 2015",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "CB Bond Issue Call For Independent Probe",
+          "url": "http://www.thesundayleader.lk/2015/04/26/cb-bond-issue-call-for-independent-probe/",
+          "work": "The Sunday Leader",
+          "date": "26 April 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180302185454/http://www.thesundayleader.lk/2015/04/26/cb-bond-issue-call-for-independent-probe/",
+          "archive-date": "2 March 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Central Bank Governor under fire",
+          "url": "http://www.sundaytimes.lk/150315/business-times/central-bank-governor-under-fire-139688.html",
+          "work": "The Sunday Times (Sri Lanka)",
+          "date": "15 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20180907190849/http://www.sundaytimes.lk/150315/business-times/central-bank-governor-under-fire-139688.html",
+          "archive-date": "7 September 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The Central Bank Bond Fiasco",
+          "url": "http://www.nation.lk/edition/politics/item/39236-the-central-bank-bond-fiasco.html",
+          "work": "The Nation (Sri Lanka)",
+          "date": "14 March 2015",
+          "access-date": "26 October 2018",
+          "archive-url": "https://web.archive.org/web/20161224233438/http://www.nation.lk/edition/politics/item/39236-the-central-bank-bond-fiasco.html",
+          "archive-date": "24 December 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Crackdown on the 2022 anti-government protests",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Soon after he was appointed as the president, Wickremesinghe vowed to crack down on the 2022 anti-government protests.",
+              "links": [
+                {
+                  "text": "2022 anti-government protests",
+                  "type": "internal",
+                  "page": "2022 Sri Lankan protests"
+                }
+              ]
+            },
+            {
+              "text": "Wickremesinghe claimed the protestors to be \"fascists\".",
+              "links": [
+                {
+                  "text": "fascists",
+                  "type": "internal",
+                  "page": "Fascist"
+                }
+              ]
+            },
+            {
+              "text": "Security forces raided the protest site in Galle Face Green in the early hours of 22 July, a day after Wickremesinghe's swearing-in.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Galle Face Green"
+                }
+              ]
+            },
+            {
+              "text": "50 protestors were injured and two were hospitalised."
+            },
+            {
+              "text": "BBC journalists were also attacked in the raid."
+            },
+            {
+              "text": "Saliya Pieris, president of the Bar Association of Sri Lanka, criticised the raid."
+            },
+            {
+              "text": "British High Commissioner to Sri Lanka, Sarah Hulton, also expressed concerns.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sarah Hulton"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Sri Lanka braced for more unrest as new president vows crackdown on 'fascist' protests",
+          "url": "https://www.theguardian.com/world/2022/jul/21/sri-lanka-unrest-new-president-crackdown-protests",
+          "access-date": "22 July 2022",
+          "work": "The Guardian",
+          "publisher": "Guardian Media Group",
+          "date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sri Lankan forces raid anti-government protest camp as President Ranil Wickremesinghe takes office",
+          "url": "https://indianexpress.com/article/world/sri-lanka-anti-government-protests-8044713/",
+          "access-date": "22 July 2022",
+          "work": "The New Indian Express",
+          "publisher": "Express Publications",
+          "date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wright",
+          "first1": "George",
+          "last2": "Mao",
+          "first2": "Frances",
+          "title": "Sri Lanka: Forces raid anti-government protest camp",
+          "url": "https://www.bbc.com/news/world-asia-62260678",
+          "access-date": "22 July 2022",
+          "work": "BBC",
+          "date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -5430,6 +5561,14 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "July 2022",
+          "template": "citation needed"
+        },
+        {
+          "date": "July 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -5659,7 +5798,8 @@
           "template": "s-ttl"
         },
         {
-          "template": "s-vac"
+          "after": "Dinesh Gunawardena",
+          "template": "s-aft"
         },
         {
           "before": "Gotabaya Rajapaksa",

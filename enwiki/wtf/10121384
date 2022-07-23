@@ -25,7 +25,9 @@
     "Transport ministers of Sri Lanka",
     "United People's Freedom Alliance politicians",
     "University of Oregon alumni",
-    "Urban development ministers of Sri Lanka"
+    "Urban development ministers of Sri Lanka",
+    "Prime Ministers of Sri Lanka",
+    "Sri Lanka Podujana Peramuna politicians"
   ],
   "sections": [
     {
@@ -35,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Dinesh Chandra Rupasinghe Gunawardena (දිනේෂ් ගුණවර්ධන, தினேஷ் குணவர்தன; born 2 March 1949) is a Sri Lankan politician has served as Prime Minister of Sri Lanka since July 2022.",
+              "text": "Dinesh Chandra Rupasinghe Gunawardena (දිනේෂ් ගුණවර්ධන, தினேஷ் குணவர்தன; born 2 March 1949) is a Sri Lankan politician who is the current Prime Minister of Sri Lanka since 22 July 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -157,7 +159,7 @@
             ]
           },
           "image": {
-            "text": "Dinesh Gunawardena (cropped).jpg"
+            "text": "Dinesh Gunawardena.jpg"
           },
           "caption": {
             "text": "Gunawardena in 2020"
@@ -212,7 +214,12 @@
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "term_start1": {
             "text": "18 April 2022"
@@ -470,7 +477,7 @@
             ]
           },
           "primeminister8": {
-            "text": "Mahinda Rajapaksa Ranil Wickremesinghe",
+            "text": "Mahinda Rajapaksa Ranil Wickremesinghe Himself",
             "links": [
               {
                 "type": "internal",
@@ -480,7 +487,12 @@
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "term_start8": {
             "text": "3 January 2020"
@@ -600,6 +612,19 @@
           },
           "birth_date": {
             "text": "March 2, 1949"
+          },
+          "birth_place": {
+            "text": "Colombo, Dominion of Ceylon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colombo"
+              },
+              {
+                "type": "internal",
+                "page": "Dominion of Ceylon"
+              }
+            ]
           },
           "party": {
             "text": "Mahajana Eksath Peramuna",
@@ -1093,6 +1118,26 @@
               "text": "In March 2017 he was suspended from parliamentary sittings for one week due to repeatedly disrupting proceedings."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 July 2022, Gunawardena was appointed as the Prime Minister after former President Gotabaya Rajapaksa resigned amidst ongoing economic and political crisis and Ranil Wickremesinghe was elected by as his successor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gotabaya Rajapaksa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ranil Wickremesinghe"
+                }
+              ]
+            },
+            {
+              "text": "Gunawardena and Wickremesinghe were classmates during school days."
+            }
+          ]
         }
       ],
       "references": [
@@ -1232,6 +1277,14 @@
           "title": "Dinesh Gunawardena suspended from Parliament for a week for unruly behavior",
           "url": "http://www.asiantribune.com/node/90212",
           "access-date": "9 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Dinesh Gunawardena, Sri Lanka president's schoolmate, to be next PM: Report",
+          "url": "https://www.hindustantimes.com/world-news/dinesh-gunawardena-sri-lanka-president-s-schoolmate-appointed-pm-report-101658408499970.html",
+          "work": "Hindustan Times News",
+          "date": "21 April 2022",
           "template": "citation",
           "type": "news"
         },
@@ -1919,6 +1972,9 @@
             "30em"
           ],
           "template": "reflist"
+        },
+        {
+          "template": "prime ministers of sri lanka"
         },
         {
           "template": "sri lankan education ministers"
