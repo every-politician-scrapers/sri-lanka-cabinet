@@ -120,28 +120,33 @@
             ]
           },
           "president1": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\nRanil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
               }
             ]
           },
+          "primeminister1": {
+            "text": "Ranil Wickremesinghe\nDinesh Gunawardena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
+              }
+            ]
+          },
           "term_start1": {
             "text": "20 May 2022"
-          },
-          "term_end1": {
-            "text": "9 July 2022"
           },
           "predecessor1": {
             "text": "Vidura Wickremanayake",

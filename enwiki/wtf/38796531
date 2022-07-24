@@ -38,8 +38,13 @@
               }
             },
             {
-              "text": "He is a former Member of the Sri Lanka Parliament from National List.",
+              "text": "He is the current Cabinet Minister of Tourism and Lands He is also a current member of the Sri Lanka Parliament from National List.",
               "links": [
+                {
+                  "text": "Minister of Tourism and Lands",
+                  "type": "internal",
+                  "page": "Ministry of Tourism and Lands"
+                },
                 {
                   "type": "internal",
                   "page": "Sri Lanka Parliament"
@@ -52,7 +57,10 @@
               ]
             },
             {
-              "text": "He is the former Cabinet Minister of Telecommunication, Digital Infrastructure facilities, Foreign Employment,Sports and tourism He was the 7th Chief Minister of Uva Province.",
+              "text": "He previously served as the Minister of Telecommunication, Digital Infrastructure facilities, Foreign Employment, Sports, and tourism in previous Sri Lankan governments."
+            },
+            {
+              "text": "He was the 7th Chief Minister of Uva Province.",
               "links": [
                 {
                   "text": "Chief Minister",
@@ -132,24 +140,29 @@
           "term_start": {
             "text": "20 May 2022"
           },
-          "term_end": {
-            "text": "9 July 2022"
-          },
           "president": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\nRanil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "primeminister": {
-            "text": "Ranil Wickremesinghe",
+            "text": "Ranil Wickremesinghe\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },

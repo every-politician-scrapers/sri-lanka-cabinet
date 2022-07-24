@@ -129,11 +129,6 @@
                   "text": "infantry",
                   "type": "internal",
                   "page": "infantry"
-                },
-                {
-                  "text": "regiments",
-                  "type": "internal",
-                  "page": "regiment"
                 }
               ]
             },
@@ -170,18 +165,7 @@
         {
           "sentences": [
             {
-              "text": "Rajapaksa took early retirement from the army and moved into the field of information technology, before immigrating to the United States in 1998.",
-              "links": [
-                {
-                  "text": "information technology",
-                  "type": "internal",
-                  "page": "information technology"
-                },
-                {
-                  "type": "internal",
-                  "page": "United States"
-                }
-              ]
+              "text": "Rajapaksa took early retirement from the army and moved into the field of information technology, before immigrating to the United States in 1998."
             },
             {
               "text": "He returned to Sri Lanka in 2005, to assist his brother in his presidential campaign and was appointed Defence Secretary in his brother's administration."
@@ -827,7 +811,7 @@
           "url": "https://www.newsfirst.lk/2022/07/15/sri-lanka-president-gotabaya-has-officially-stepped-down/",
           "title": "Sri Lanka: President Gotabaya has officially stepped down",
           "date": "15 July 2022",
-          "website": "Sri Lanka News - Newsfirst",
+          "website": "Sri Lanka News – Newsfirst",
           "access-date": "15 July 2022",
           "archive-date": "15 July 2022",
           "archive-url": "https://web.archive.org/web/20220715064557/https://www.newsfirst.lk/2022/07/15/sri-lanka-president-gotabaya-has-officially-stepped-down/",
@@ -970,10 +954,6 @@
                 {
                   "type": "internal",
                   "page": "D. A. Rajapaksa"
-                },
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
                 },
                 {
                   "type": "internal",
@@ -1140,10 +1120,6 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Colonel"
-                },
-                {
-                  "type": "internal",
                   "page": "Tissa Weeratunga"
                 }
               ]
@@ -1151,10 +1127,6 @@
             {
               "text": "In April 1974, he was promoted to Lieutenant and in October he transferred to the Sri Lanka Sinha Regiment as an infantry officer.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Lieutenant"
-                },
                 {
                   "type": "internal",
                   "page": "Sri Lanka Sinha Regiment"
@@ -1261,10 +1233,6 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Assam"
-                },
-                {
-                  "type": "internal",
                   "page": "Defence Services Staff College"
                 },
                 {
@@ -1276,10 +1244,6 @@
                   "text": "psc",
                   "type": "internal",
                   "page": "psc (military)"
-                },
-                {
-                  "type": "internal",
-                  "page": "MSc"
                 },
                 {
                   "type": "internal",
@@ -1858,13 +1822,7 @@
         {
           "sentences": [
             {
-              "text": "In June 2007, Rajapaksa was severely critical of the United Nations (UN) and of western governments.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United Nations"
-                }
-              ]
+              "text": "In June 2007, Rajapaksa was severely critical of the United Nations (UN) and of western governments."
             },
             {
               "text": "He accused the UN of having been infiltrated by terrorists \"for 30 years or so\", and as a result the UN was fed incorrect information."
@@ -3058,10 +3016,6 @@
                 {
                   "type": "internal",
                   "page": "Lasantha Wickrematunge"
-                },
-                {
-                  "type": "internal",
-                  "page": "California"
                 }
               ]
             },
@@ -3116,10 +3070,6 @@
             {
               "text": "On 21 October 2019, the United States District Court for the Central District of California granted Gotabaya Rajapaksa's motion to dismiss, finding that he was entitled to foreign official immunity for acts undertaken while serving as Secretary of Defense.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "United States"
-                },
                 {
                   "type": "internal",
                   "page": "Central District of California"
@@ -4282,10 +4232,6 @@
               "links": [
                 {
                   "type": "internal",
-                  "page": "Singapore"
-                },
-                {
-                  "type": "internal",
                   "page": "Saudi Airlines"
                 }
               ]
@@ -4929,11 +4875,6 @@
             {
               "text": "Gotabaya Rajapaksa received an Honorary Doctorate, a Doctor of Letters from the University of Colombo on 6 September 2009, along with his brother President Mahinda Rajapaksa following public acclaim as a war hero.",
               "links": [
-                {
-                  "text": "Honorary Doctorate",
-                  "type": "internal",
-                  "page": "Honorary Degree"
-                },
                 {
                   "type": "internal",
                   "page": "Doctor of Letters"

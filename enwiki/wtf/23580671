@@ -22,7 +22,19 @@
         {
           "sentences": [
             {
-              "text": "Dr. Keheliya Rambukwella (born 21 September 1954, also known as Balcony Rambukwella) is a Sri Lankan politician.",
+              "text": "Dr. Keheliya Rambukwella (Sinhala:කෙහෙළිය රඹුක්වැල්ල,Tamil:கெஹெலிய ரம்புக்வெல; born 21 September 1954) is a Sri Lankan politician.",
+              "links": [
+                {
+                  "text": "Sinhala:",
+                  "type": "internal",
+                  "page": "Sinhala language"
+                },
+                {
+                  "text": "Tamil:",
+                  "type": "internal",
+                  "page": "Tamil language"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Dr. Keheliya Rambukwella"
@@ -507,6 +519,24 @@
           "url-status": "dead",
           "archive-url": "https://web.archive.org/web/20120304155806/http://www.parliament.lk/directory_of_members/ViewMember.do?memID=166",
           "archive-date": "4 March 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Eight new Cabinet ministers of all-party government sworn-in",
+          "url": "http://www.colombopage.com/archive_22A/May23_1653286722CH.php",
+          "website": "colombopage.com",
+          "access-date": "23 July 2022",
+          "date": "23 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Cabinet appointed",
+          "url": "https://island.lk/cabinet-appointed/",
+          "website": "The Island",
+          "access-date": "23 July 2022",
+          "date": "23 July 2022",
           "template": "citation",
           "type": "web"
         }

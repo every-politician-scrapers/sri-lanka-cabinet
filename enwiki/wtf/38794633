@@ -110,20 +110,28 @@
             ]
           },
           "president": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\nRanil Wickremesinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
               }
             ]
           },
           "primeminister": {
-            "text": "Ranil Wickremesinghe",
+            "text": "Ranil Wickremesinghe\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
                 "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },

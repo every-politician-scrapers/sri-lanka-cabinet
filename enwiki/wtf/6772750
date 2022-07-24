@@ -179,16 +179,20 @@
             "text": "12 August 2020"
           },
           "president": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa Ranil Wickramasinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickramasinghe"
               }
             ]
           },
           "primeminister": {
-            "text": "Mahinda Rajapaksa Ranil Wickramasinghe",
+            "text": "Mahinda Rajapaksa Ranil Wickramasinghe Dinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
@@ -197,6 +201,10 @@
               {
                 "type": "internal",
                 "page": "Ranil Wickramasinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },

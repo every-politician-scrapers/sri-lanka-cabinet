@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Achchige Don Susil Premajayantha (born 10 January 1955) is a Sri Lankan politician and a member of the Parliament of Sri Lanka.",
+              "text": "Achchige Don Susil Premajayantha (born 10 January 1955) is a Sri Lankan politician, Cabinet Minister and a member of the Parliament of Sri Lanka.",
               "links": [
                 {
                   "text": "Sri Lankan",
@@ -96,55 +96,50 @@
             "text": "Susil Premajayantha.jpg"
           },
           "office1": {
-            "text": "Minister of Technology and Research",
+            "text": "Minister of Education",
             "links": [
               {
-                "text": "Minister of Technology and Research",
+                "text": "Minister of Education",
                 "type": "internal",
-                "page": "Ministry of Technology and Research"
+                "page": "Minister of Education (Sri Lanka)"
               }
             ]
           },
           "president1": {
-            "text": "Maithripala Sirisena",
+            "text": "Gotabaya Rajapaksa Ranil Wickramasinghe",
             "links": [
               {
                 "type": "internal",
-                "page": "Maithripala Sirisena"
+                "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickramasinghe"
               }
             ]
           },
           "primeminister1": {
-            "text": "Ranil Wickremesinghe",
+            "text": "Ranil Wickramasinghe Dinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
-                "page": "Ranil Wickremesinghe"
+                "page": "Ranil Wickramasinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },
           "term_start1": {
-            "text": "4 September 2015"
-          },
-          "term_end1": {
-            "text": "12 April 2018"
+            "text": "2022-05-20"
           },
           "predecessor1": {
-            "text": "Champika Ranawaka",
+            "text": "Ramesh Pathirana",
             "links": [
               {
                 "type": "internal",
-                "page": "Champika Ranawaka"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Environment and Renewable Energy",
-            "links": [
-              {
-                "text": "Minister of Environment and Renewable Energy",
-                "type": "internal",
-                "page": "Ministry of Mahaweli Development and Environment"
+                "page": "Ramesh Pathirana"
               }
             ]
           },
@@ -158,68 +153,6 @@
             ]
           },
           "primeminister2": {
-            "text": "D. M. Jayaratne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. M. Jayaratne"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2013-01-28"
-          },
-          "term_end2": {
-            "text": "2015-01-12"
-          },
-          "successor2": {
-            "text": "Maithripala Sirisena"
-          },
-          "office3": {
-            "text": "Minister of Petroleum Industries",
-            "links": [
-              {
-                "text": "Minister of Petroleum Industries",
-                "type": "internal",
-                "page": "Ministry of Petroleum Resources Development"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Mahinda Rajapaksa"
-          },
-          "primeminister3": {
-            "text": "D. M. Jayaratne"
-          },
-          "term_start3": {
-            "text": "2010-04-23"
-          },
-          "term_end3": {
-            "text": "2013-01-28"
-          },
-          "successor3": {
-            "text": "Anura Priyadharshana Yapa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anura Priyadharshana Yapa"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (Sri Lanka)"
-              }
-            ]
-          },
-          "president4": {
-            "text": "Mahinda Rajapaksa"
-          },
-          "primeminister4": {
             "text": "Ratnasiri Wickremanayake",
             "links": [
               {
@@ -228,13 +161,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start2": {
             "text": "2005-11-23"
           },
-          "term_end4": {
+          "term_end2": {
             "text": "2010-04-23"
           },
-          "successor4": {
+          "successor2": {
             "text": "Bandula Gunawardane",
             "links": [
               {
@@ -243,7 +176,7 @@
               }
             ]
           },
-          "president5": {
+          "president3": {
             "text": "Chandrika Kumaratunga",
             "links": [
               {
@@ -252,18 +185,18 @@
               }
             ]
           },
-          "primeminister5": {
+          "primeminister3": {
             "text": "Ratnasiri Wickremanayake"
           },
-          "term_start5": {
+          "term_start3": {
             "text": "2000",
             "number": 2000
           },
-          "term_end5": {
+          "term_end3": {
             "text": "2001",
             "number": 2001
           },
-          "predecessor5": {
+          "predecessor3": {
             "text": "Richard Pathirana",
             "links": [
               {
@@ -272,7 +205,7 @@
               }
             ]
           },
-          "successor5": {
+          "successor3": {
             "text": "Sarath Amunugama",
             "links": [
               {
@@ -282,7 +215,118 @@
               }
             ]
           },
+          "office4": {
+            "text": "Minister of Technology and Research",
+            "links": [
+              {
+                "text": "Minister of Technology and Research",
+                "type": "internal",
+                "page": "Ministry of Technology and Research"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Maithripala Sirisena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maithripala Sirisena"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Ranil Wickremesinghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "4 September 2015"
+          },
+          "term_end4": {
+            "text": "12 April 2018"
+          },
+          "predecessor4": {
+            "text": "Champika Ranawaka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Champika Ranawaka"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister of Environment and Renewable Energy",
+            "links": [
+              {
+                "text": "Minister of Environment and Renewable Energy",
+                "type": "internal",
+                "page": "Ministry of Mahaweli Development and Environment"
+              }
+            ]
+          },
+          "president5": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "D. M. Jayaratne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "D. M. Jayaratne"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2013-01-28"
+          },
+          "term_end5": {
+            "text": "2015-01-12"
+          },
+          "successor5": {
+            "text": "Maithripala Sirisena"
+          },
           "office6": {
+            "text": "Minister of Petroleum Industries",
+            "links": [
+              {
+                "text": "Minister of Petroleum Industries",
+                "type": "internal",
+                "page": "Ministry of Petroleum Resources Development"
+              }
+            ]
+          },
+          "president6": {
+            "text": "Mahinda Rajapaksa"
+          },
+          "primeminister6": {
+            "text": "D. M. Jayaratne"
+          },
+          "term_start6": {
+            "text": "2010-04-23"
+          },
+          "term_end6": {
+            "text": "2013-01-28"
+          },
+          "successor6": {
+            "text": "Anura Priyadharshana Yapa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anura Priyadharshana Yapa"
+              }
+            ]
+          },
+          "office7": {
             "text": "Minister of Power and Energy",
             "links": [
               {
@@ -292,19 +336,19 @@
               }
             ]
           },
-          "president6": {
+          "president7": {
             "text": "Chandrika Kumaratunga"
           },
-          "primeminister6": {
+          "primeminister7": {
             "text": "Mahinda Rajapaksa"
           },
-          "term_start6": {
+          "term_start7": {
             "text": "2004-4-10"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "2005-11-23"
           },
-          "predecessor6": {
+          "predecessor7": {
             "text": "Karu Jayasuriya",
             "links": [
               {
@@ -313,7 +357,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor7": {
             "text": "John Seneviratne",
             "links": [
               {
@@ -322,7 +366,7 @@
               }
             ]
           },
-          "office7": {
+          "office8": {
             "text": "General Secretary of the United People's Freedom Alliance",
             "links": [
               {
@@ -335,7 +379,7 @@
               }
             ]
           },
-          "leader7": {
+          "leader8": {
             "text": "Maithripala Sirisena\nMahinda Rajapaksa\nChandrika Kumaratunga",
             "links": [
               {
@@ -352,13 +396,13 @@
               }
             ]
           },
-          "term_start7": {
+          "term_start8": {
             "text": "20 January 2004"
           },
-          "term_end7": {
+          "term_end8": {
             "text": "14 August 2015"
           },
-          "predecessor7": {
+          "predecessor8": {
             "text": "Office Created",
             "formatting": {
               "italic": [
@@ -366,7 +410,7 @@
               ]
             }
           },
-          "successor7": {
+          "successor8": {
             "text": "Wiswa Warnapala",
             "links": [
               {
@@ -375,7 +419,7 @@
               }
             ]
           },
-          "constituency_mp8": {
+          "constituency_mp9": {
             "text": "Colombo District",
             "links": [
               {
@@ -385,14 +429,14 @@
               }
             ]
           },
-          "parliament8": {
+          "parliament9": {
             "text": "Sri Lankan"
           },
-          "term_start8": {
+          "term_start9": {
             "text": "2001",
             "number": 2001
           },
-          "constituency_mp9": {
+          "constituency_mp10": {
             "text": "Gampaha District",
             "links": [
               {
@@ -402,14 +446,14 @@
               }
             ]
           },
-          "parliament9": {
+          "parliament10": {
             "text": "Sri Lankan"
           },
-          "term_start9": {
+          "term_start10": {
             "text": "2000",
             "number": 2000
           },
-          "term_end9": {
+          "term_end10": {
             "text": "2001",
             "number": 2001
           },
@@ -720,7 +764,7 @@
               ]
             },
             {
-              "text": "After the Sri Lanka Freedom Party and United National Party signed a Memorandum of Understanding to form a National unity government, Premajayantha became the Minister of Technology and Research",
+              "text": "After the Sri Lanka Freedom Party and United National Party signed a Memorandum of Understanding to form a National unity government, Premajayantha became the Minister of Technology and Research  He was reappointed as the Minister of Education on the 20th of May 2022 by President Gotabaya Rajapaksa and again by President Ranil Wickramasinghe on the 23th of July 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -734,6 +778,19 @@
                   "text": "Minister of Technology and Research",
                   "type": "internal",
                   "page": "Ministry of Technology and Research"
+                },
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Minister of Education (Sri Lanka)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gotabaya Rajapaksa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ranil Wickramasinghe"
                 }
               ]
             }

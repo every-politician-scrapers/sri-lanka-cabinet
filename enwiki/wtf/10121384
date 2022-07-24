@@ -192,7 +192,14 @@
             ]
           },
           "office1": {
-            "text": "[[Minister of Home Affairs (Sri Lanka)|Minister of Public Administration, Home Affairs, Provincial Councils and Local Government\n\n]]"
+            "text": "Minister of Public Administration, Home Affairs, Provincial Councils and Local Government",
+            "links": [
+              {
+                "text": "Minister of Public Administration, Home Affairs, Provincial Councils and Local Government",
+                "type": "internal",
+                "page": "Minister of Home Affairs (Sri Lanka)"
+              }
+            ]
           },
           "president1": {
             "text": "Gotabaya Rajapaksa",
@@ -550,8 +557,8 @@
             ]
           },
           "term_start10": {
-            "text": "1983",
-            "number": 1983
+            "text": "1972",
+            "number": 1972
           },
           "predecessor10": {
             "text": "Philip Gunawardena",
@@ -636,11 +643,11 @@
             ]
           },
           "otherparty": {
-            "text": "Sri Lanka People's Freedom Alliance",
+            "text": "Sri Lanka Podujana Peramuna",
             "links": [
               {
                 "type": "internal",
-                "page": "Sri Lanka People's Freedom Alliance"
+                "page": "Sri Lanka Podujana Peramuna"
               }
             ]
           },
