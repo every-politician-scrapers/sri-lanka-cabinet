@@ -1,8 +1,8 @@
 {
-  "honorific-prefix": "Hon.",
+  "honorific-prefix": "Hon. (Dr.)",
   "name": "Keheliya Rambukwella",
   "native_name": "කෙහෙළිය රඹුක්වැල්ල\nகெஹெலிய ரம்புக்வெல",
-  "honorific-suffix": "MP",
+  "honorific-suffix": "MP\n\nMBBS",
   "office": "Minister of Water Supply and Drainage",
   "term_start": "23 May 2022",
   "president": "Gotabaya Rajapaksa",
@@ -55,5 +55,5 @@
   "nationality": "Sri Lankan",
   "party": "Sri Lanka Podujana Peramuna (2021–Present) Sri Lanka Freedom Party (2006–2021) United National Party (Before 2006)",
   "alma_mater": "St. Thomas' College, Mount Lavinia",
-  "profession": "Businessman"
+  "profession": "Medical Officer"
 }
