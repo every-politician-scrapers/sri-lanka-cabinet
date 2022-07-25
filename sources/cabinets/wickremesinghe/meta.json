@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Sri Lanka",
+        "id": "Q854"
+    },
+    "cabinet": {
+        "id": "Q113236919",
+        "start": "2022-07-22",
+        "parent": "Q3783006"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Wickremesinghe_cabinet"
+    },
+    "person_description": {
+        "en": "Sri Lankan politician"
+    }
+}
