@@ -9,4 +9,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q79927671,Gotabaya Rajapaksa cabinet,2019-11-21,11,,,2020-08-12,11,,,Q85761840,Fourth Sirisena cabinet,Q104847864,Second Gotabaya Rajapaksa cabinet,,,,
 ,Q104847864,Second Gotabaya Rajapaksa cabinet,2020-08-12,11,,,2022-04-03,11,,,Q79927671,Gotabaya Rajapaksa cabinet,Q111992823,Third Gotabaya Rajapaksa cabinet,,,,
 ,Q111992823,Third Gotabaya Rajapaksa cabinet,2022-04-18,11,,,2022-05-09,11,,,Q104847864,Second Gotabaya Rajapaksa cabinet,Q111992836,Fourth Gotabaya Rajapaksa cabinet,,,,
-,Q111992836,Fourth Gotabaya Rajapaksa cabinet,2022-05-12,11,,,,,,,Q111992823,Third Gotabaya Rajapaksa cabinet,,,,,,
+,Q111992836,Fourth Gotabaya Rajapaksa cabinet,2022-05-12,11,,,2022-07-13,11,,,Q111992823,Third Gotabaya Rajapaksa cabinet,Q113236919,Wickremesinghe cabinet,,,,
+,Q113236919,Wickremesinghe cabinet,2022-07-22,11,,,,,,,Q111992836,Fourth Gotabaya Rajapaksa cabinet,,,,,,
