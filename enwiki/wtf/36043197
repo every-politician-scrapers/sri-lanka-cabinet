@@ -22,7 +22,14 @@
         {
           "sentences": [
             {
-              "text": "Prasanna Ranatunga (born 1 January 1967) is a Sri Lankan politician, member of parliament, and current Minister of Public Security and Tourism.",
+              "text": "Prasanna Ranatunga (born 1 January 1967) is a Sri Lankan politician, member of parliament, and current Minister of Urban Development and Housing.",
+              "links": [
+                {
+                  "text": "Minister of Urban Development and Housing",
+                  "type": "internal",
+                  "page": "Ministry of Housing and Construction (Sri Lanka)"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Prasanna Ranatunga"
@@ -176,10 +183,10 @@
             "text": "1 September 2015"
           },
           "office": {
-            "text": "Minister of Housing and Urban Development",
+            "text": "Minister of Urban Development and Housing",
             "links": [
               {
-                "text": "Minister of Housing and Urban Development",
+                "text": "Minister of Urban Development and Housing",
                 "type": "internal",
                 "page": "Ministry of Housing and Construction (Sri Lanka)"
               }
@@ -189,20 +196,28 @@
             "text": "14 May 2022"
           },
           "president": {
-            "text": "Gotabaya Rajapaksa",
+            "text": "Gotabaya Rajapaksa\nRanil Wickramasinghe",
             "links": [
               {
                 "type": "internal",
                 "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickramasinghe"
               }
             ]
           },
           "primeminister": {
-            "text": "Ranil Wickramasinghe",
+            "text": "Ranil Wickramasinghe\nDinesh Gunawardena",
             "links": [
               {
                 "type": "internal",
                 "page": "Ranil Wickramasinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
               }
             ]
           },

@@ -128,11 +128,20 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Minister of Fisheries and Aquatic Resources from 22 November 2019 to 12 August 2020."
+          ],
+          "template": "efn"
+        },
+        {
           "df": "yes",
           "year": "1957",
           "month": "11",
           "day": "10",
           "template": "birth date and age"
+        },
+        {
+          "template": "notelist"
         }
       ],
       "infoboxes": [
@@ -173,10 +182,17 @@
             "text": "Devananda in 2014"
           },
           "order": {
-            "text": "Minister of Fisheries"
+            "text": "Minister of Fisheries",
+            "links": [
+              {
+                "text": "Minister of Fisheries",
+                "type": "internal",
+                "page": "Ministry of Fisheries (Sri Lanka)"
+              }
+            ]
           },
           "term_start": {
-            "text": "12 August 2020"
+            "text": "22 November 2019"
           },
           "president": {
             "text": "Gotabaya Rajapaksa Ranil Wickramasinghe",
@@ -209,15 +225,224 @@
             ]
           },
           "predecessor": {
-            "text": "Dullas Alahapperuma",
+            "text": "P. Harrison",
             "links": [
               {
                 "type": "internal",
-                "page": "Dullas Alahapperuma"
+                "page": "P. Harrison"
               }
             ]
           },
-          "constituency_mp1": {
+          "office1": {
+            "text": "Minister of Resettlement, Rehabilitation, Northern Development and Hindu Religious Affairs",
+            "links": [
+              {
+                "text": "Minister of Resettlement, Rehabilitation, Northern Development and Hindu Religious Affairs",
+                "type": "internal",
+                "page": "Ministry of Resettlement"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 October 2018"
+          },
+          "term_end1": {
+            "text": "15 December 2018"
+          },
+          "president1": {
+            "text": "Maithripala Sirisena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maithripala Sirisena"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "D. M. Swaminathan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "D. M. Swaminathan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ranil Wickremesinghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Traditional Industries and Small Enterprise Development",
+            "links": [
+              {
+                "text": "Minister of Traditional Industries and Small Enterprise Development",
+                "type": "internal",
+                "page": "Ministry of Traditional Industries and Small Enterprise Development"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 April 2010"
+          },
+          "term_end2": {
+            "text": "12 January 2015"
+          },
+          "president2": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "D. M. Jayaratne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "D. M. Jayaratne"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Sarath Amunugama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sarath Amunugama"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Risad Badhiutheen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Risad Badhiutheen"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Social Services and Social Welfare",
+            "links": [
+              {
+                "text": "Minister of Social Services and Social Welfare",
+                "type": "internal",
+                "page": "Ministry of Social Empowerment, Welfare and Kandyan Heritage"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 November 2005"
+          },
+          "term_end3": {
+            "text": "23 April 2010"
+          },
+          "president3": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Ratnasiri Wickremanayake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ratnasiri Wickremanayake"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Nimal Siripala de Silva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nimal Siripala de Silva"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Felix Perera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felix Perera"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Development, Rehabilitation, Reconstruction of the North and North Eastern Provinces, Agricultural Marketing Development, Tamil and Hindu Affairs, Tamil Language Schools and Vocational Training for the North"
+          },
+          "term_start4": {
+            "text": "23 November 2005"
+          },
+          "term_end4": {
+            "text": "23 April 2010"
+          },
+          "president4": {
+            "text": "Chandrika Kumaratunga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandrika Kumaratunga"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Ratnasiri Wickremanayake Ranil Wickramasinghe Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ratnasiri Wickremanayake"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickramasinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "M. H. M. Ashraff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. H. M. Ashraff"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Chandrasiri Gajadeera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandrasiri Gajadeera"
+              }
+            ]
+          },
+          "constituency_mp5": {
             "text": "Jaffna District",
             "links": [
               {
@@ -227,10 +452,10 @@
               }
             ]
           },
-          "parliament1": {
+          "parliament5": {
             "text": "Sri Lanka"
           },
-          "term_start1": {
+          "term_start5": {
             "text": "16 August 1994"
           },
           "birth_date": {

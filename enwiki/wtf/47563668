@@ -51,13 +51,29 @@
         {
           "sentences": [
             {
-              "text": "He was educated at Royal College, Colombo where he completed the GCE O/L examination and represented the school in Cricket at under 15's and under 17."
+              "text": "He was educated at Trinity College, Kandy followed by Royal College, Colombo where he completed the GCE O/L examination and represented the school in Cricket at under 15's and under 17.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinity College, Kandy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal College, Colombo"
+                }
+              ]
             },
             {
               "text": "He sat for his A/L examinations at Asian International School in Colombo and represented the school in Cricket and Rugby at the senior level."
             },
             {
-              "text": "Further studies were done at Monash University in Melbourne where he followed a Degree in Economics."
+              "text": "Further studies were done at Monash University in Melbourne where he followed a Degree in Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Monash University"
+                }
+              ]
             }
           ]
         },
@@ -289,11 +305,15 @@
             ]
           },
           "education": {
-            "text": "Royal College Colombo Asian International School Colombo",
+            "text": "Royal College Colombo Trinity College Kandy Asian International School Colombo",
             "links": [
               {
                 "type": "internal",
                 "page": "Royal College Colombo"
+              },
+              {
+                "type": "internal",
+                "page": "Trinity College Kandy"
               }
             ]
           },

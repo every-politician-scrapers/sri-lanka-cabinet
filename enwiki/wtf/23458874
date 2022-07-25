@@ -24,12 +24,17 @@
         {
           "sentences": [
             {
-              "text": "Mahinda Amaraweera (Sinhala:මහින්ද අමරවීර ) (born 12 February 1962) is a Sri Lankan politician.",
+              "text": "Mahinda Amaraweera (Sinhala:මහින්ද අමරවීර,Tamil: மஹிந்த அமரவீர; born 12 February 1962) is a Sri Lankan politician.",
               "links": [
                 {
                   "text": "Sinhala",
                   "type": "internal",
                   "page": "Sinhala language"
+                },
+                {
+                  "text": "Tamil",
+                  "type": "internal",
+                  "page": "Tamil Language"
                 },
                 {
                   "text": "Sri Lankan",
@@ -44,20 +49,35 @@
               }
             },
             {
-              "text": "He is currently the cabinet minister of Transportation, Power and Energy and is a member for Hambantota, representing the United People's Freedom Alliance in the Parliament of Sri Lanka.",
+              "text": "He is currently the cabinet Minister of Agriculture, Wildlife, and Forest Resources Conservation.",
               "links": [
                 {
-                  "text": "Hambantota",
+                  "text": "Minister of Agriculture, Wildlife, and Forest Resources Conservation",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture (Sri Lanka)"
+                }
+              ]
+            },
+            {
+              "text": "He is also a member of the Parliament of Sri Lanka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Sri Lanka"
+                }
+              ]
+            },
+            {
+              "text": "for the Hambantota District, as a member of the Sri Lanka People's Freedom Alliance.",
+              "links": [
+                {
+                  "text": "Hambantota District",
                   "type": "internal",
                   "page": "Hambantota Electoral District"
                 },
                 {
                   "type": "internal",
-                  "page": "United People's Freedom Alliance"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliament of Sri Lanka"
+                  "page": "Sri Lanka People's Freedom Alliance"
                 }
               ]
             }
@@ -79,11 +99,20 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Minister of Passenger Transport Management from 22 November 2019 to 4 December 2019."
+          ],
+          "template": "efn"
+        },
+        {
           "year": "1962",
           "month": "02",
           "day": "12",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "template": "notelist"
         }
       ],
       "infoboxes": [
@@ -102,7 +131,7 @@
             "text": "Mahinda Amaraweera"
           },
           "native_name": {
-            "text": "මහින්ද අමරවිර\nமகிந்த அமரவீர"
+            "text": "මහින්ද අමරවීර\nமகிந்த அமரவீர"
           },
           "honorific-suffix": {
             "text": "MP",
@@ -115,9 +144,54 @@
             ]
           },
           "office": {
-            "text": "Chief Opposition Whip"
+            "text": "Minister of Agriculture, Wildlife, and Forest Resources Conservation",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Wildlife, and Forest Resources Conservation",
+                "type": "internal",
+                "page": "Ministry of Agriculture (Sri Lanka)"
+              }
+            ]
           },
           "president": {
+            "text": "Gotabaya Rajapaksa\nRanil Wickremesinghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              },
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Ranil Wickremesinghe\nDinesh Gunawardena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              },
+              {
+                "type": "internal",
+                "page": "Dinesh Gunawardena"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Janaka Wakkumbura",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janaka Wakkumbura"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 May 2022"
+          },
+          "president1": {
             "text": "Maithripala Sirisena",
             "links": [
               {
@@ -126,7 +200,7 @@
               }
             ]
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Ranil Wickremesinghe",
             "links": [
               {
@@ -135,25 +209,41 @@
               }
             ]
           },
-          "predecessor": {
-            "text": "Anura Kumara Dissanayake",
+          "predecessor1": {
+            "text": "Duminda Dissanayake",
             "links": [
               {
                 "type": "internal",
-                "page": "Anura Kumara Dissanayake"
+                "page": "Duminda Dissanayake"
               }
             ]
           },
-          "term_start": {
-            "text": "18 December 2018"
+          "successor1": {
+            "text": "P. Harrison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "P. Harrison"
+              }
+            ]
           },
-          "term_end": {
-            "text": "22 November 2019"
+          "term_start1": {
+            "text": "4 September 2015"
           },
-          "office1": {
-            "text": "Minister of Transportation, Power and Energy"
+          "term_end1": {
+            "text": "26 October 2018"
           },
-          "president1": {
+          "office2": {
+            "text": "Minister of Environment",
+            "links": [
+              {
+                "text": "Minister of Environment",
+                "type": "internal",
+                "page": "Ministry of Environment (Sri Lanka)"
+              }
+            ]
+          },
+          "president2": {
             "text": "Gotabaya Rajapaksa",
             "links": [
               {
@@ -162,55 +252,7 @@
               }
             ]
           },
-          "primeminister1": {
-            "text": "Mahinda Rajapakse",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahinda Rajapakse"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "22 November 2019"
-          },
-          "office2": {
-            "text": "Minister of Agriculture",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Agriculture"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Maithripala Sirisena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maithripala Sirisena"
-              }
-            ]
-          },
           "primeminister2": {
-            "text": "Ranil Wickremesinghe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranil Wickremesinghe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 September 2015"
-          },
-          "term_end2": {
-            "text": "26 October 2018"
-          },
-          "office3": {
-            "text": "Minister of Disaster Management"
-          },
-          "president3": {
             "text": "Mahinda Rajapaksa",
             "links": [
               {
@@ -219,29 +261,195 @@
               }
             ]
           },
-          "primeminister3": {
-            "text": "D. M. Jayaratne",
+          "predecessor2": {
+            "text": "S. M. Chandrasena",
             "links": [
               {
                 "type": "internal",
-                "page": "D. M. Jayaratne"
+                "page": "S. M. Chandrasena"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Naseer Ahamed",
+            "links": [
+              {
+                "text": "Naseer Ahamed",
+                "type": "internal",
+                "page": "Ahamed Nazeer Zainulabdeen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "12 August 2020"
+          },
+          "term_end2": {
+            "text": "3 April 2022"
+          },
+          "office3": {
+            "text": "Minister of Power and Energy",
+            "links": [
+              {
+                "text": "Minister of Power and Energy",
+                "type": "internal",
+                "page": "Ministry of Power and Energy"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Gotabaya Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Ravi Karunanayake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ravi Karunanayake"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Udaya Gammanpila \nDullas Alahapperuma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Udaya Gammanpila"
+              },
+              {
+                "type": "internal",
+                "page": "Dullas Alahapperuma"
               }
             ]
           },
           "term_start3": {
-            "text": "2010",
-            "number": 2010
+            "text": "22 November 2019"
           },
           "term_end3": {
-            "text": "12 January 2015"
+            "text": "12 August 2020"
           },
           "office4": {
-            "text": "Deputy Minister of Health"
+            "text": "Minister of Transport Service Management",
+            "links": [
+              {
+                "text": "Minister of Transport Service Management",
+                "type": "internal",
+                "page": "Ministry of Transport and Highways"
+              }
+            ]
           },
           "president4": {
-            "text": "Mahinda Rajapaksa"
+            "text": "Gotabaya Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gotabaya Rajapaksa"
+              }
+            ]
           },
           "primeminister4": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Arjuna Ranatunga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arjuna Ranatunga"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Dilum Amunugama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dilum Amunugama"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "22 November 2019"
+          },
+          "term_end4": {
+            "text": "12 August 2020"
+          },
+          "office5": {
+            "text": "Chief Opposition Whip",
+            "links": [
+              {
+                "text": "Chief Opposition Whip",
+                "type": "internal",
+                "page": "Chief Opposition Whip (Sri Lanka)"
+              }
+            ]
+          },
+          "president5": {
+            "text": "Maithripala Sirisena",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maithripala Sirisena"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Ranil Wickremesinghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ranil Wickremesinghe"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Anura Kumara Dissanayake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anura Kumara Dissanayake"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "18 December 2018"
+          },
+          "term_end5": {
+            "text": "22 November 2019"
+          },
+          "office6": {
+            "text": "Minister of Disaster Management"
+          },
+          "president6": {
+            "text": "Mahinda Rajapaksa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahinda Rajapaksa"
+              }
+            ]
+          },
+          "primeminister6": {
             "text": "D. M. Jayaratne",
             "links": [
               {
@@ -250,21 +458,43 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start6": {
             "text": "2010",
             "number": 2010
           },
-          "term_end4": {
-            "text": "2010",
-            "number": 2010
+          "term_end6": {
+            "text": "12 January 2015"
           },
-          "office5": {
-            "text": "Minister of Water Supply"
+          "office7": {
+            "text": "Deputy Minister of Health"
           },
-          "president5": {
+          "president7": {
             "text": "Mahinda Rajapaksa"
           },
-          "primeminister5": {
+          "primeminister7": {
+            "text": "D. M. Jayaratne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "D. M. Jayaratne"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "2010",
+            "number": 2010
+          },
+          "term_end7": {
+            "text": "2010",
+            "number": 2010
+          },
+          "office8": {
+            "text": "Minister of Water Supply"
+          },
+          "president8": {
+            "text": "Mahinda Rajapaksa"
+          },
+          "primeminister8": {
             "text": "Ratnasiri Wickremanayake",
             "links": [
               {
@@ -273,15 +503,15 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start8": {
             "text": "2007",
             "number": 2007
           },
-          "term_end5": {
+          "term_end8": {
             "text": "2010",
             "number": 2010
           },
-          "office6": {
+          "office9": {
             "text": "General Secretary of the United People's Freedom Alliance",
             "links": [
               {
@@ -294,7 +524,7 @@
               }
             ]
           },
-          "leader6": {
+          "leader9": {
             "text": "Maithripala Sirisena",
             "links": [
               {
@@ -303,10 +533,13 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start9": {
             "text": "8 March 2016"
           },
-          "predecessor6": {
+          "term_end9": {
+            "text": "9 December 2019"
+          },
+          "predecessor9": {
             "text": "Wiswa Warnapala",
             "links": [
               {
@@ -315,7 +548,15 @@
               }
             ]
           },
-          "constituency_mp7": {
+          "successor9": {
+            "text": "Alliance Dissolved",
+            "formatting": {
+              "italic": [
+                "Alliance Dissolved"
+              ]
+            }
+          },
+          "constituency_mp10": {
             "text": "Hambantota District",
             "links": [
               {
@@ -325,24 +566,24 @@
               }
             ]
           },
-          "parliament7": {
+          "parliament10": {
             "text": "Sri Lanka"
           },
-          "term_start7": {
+          "term_start10": {
             "text": "2004",
             "number": 2004
           },
-          "constituency_mp8": {
+          "constituency_mp11": {
             "text": "National List"
           },
-          "parliament8": {
+          "parliament11": {
             "text": "Sri Lanka"
           },
-          "term_start8": {
+          "term_start11": {
             "text": "2001",
             "number": 2001
           },
-          "term_end8": {
+          "term_end11": {
             "text": "2004",
             "number": 2004
           },
@@ -350,7 +591,23 @@
             "text": "February 12, 1962"
           },
           "birth_place": {
-            "text": "Udayala, Angunukolapelessa"
+            "text": "Udayala, Angunakolapelessa, Southern Province, Sri Lanka",
+            "links": [
+              {
+                "text": "Angunakolapelessa",
+                "type": "internal",
+                "page": "Angunakolapelessa Divisional Secretariat"
+              },
+              {
+                "text": "Southern Province",
+                "type": "internal",
+                "page": "Southern Province, Sri Lanka"
+              },
+              {
+                "type": "internal",
+                "page": "Sri Lanka"
+              }
+            ]
           },
           "nationality": {
             "text": "Sri Lankan",
@@ -366,20 +623,24 @@
             "text": "Dilrukshika Weerakoon (m.1996-2011), Madushini Prancisku (m.2018-),"
           },
           "party": {
-            "text": "Sri Lanka Freedom Party",
+            "text": "Sri Lanka Podujana Peramuna (After 2018)",
             "links": [
               {
                 "type": "internal",
-                "page": "Sri Lanka Freedom Party"
+                "page": "Sri Lanka Podujana Peramuna"
               }
             ]
           },
           "otherparty": {
-            "text": "United People's Freedom Alliance",
+            "text": "Sri Lanka Freedom Party (before 2018)\nSri Lanka People's Freedom Alliance\n(2020 - Present)",
             "links": [
               {
                 "type": "internal",
-                "page": "United People's Freedom Alliance"
+                "page": "Sri Lanka Freedom Party"
+              },
+              {
+                "type": "internal",
+                "page": "Sri Lanka People's Freedom Alliance"
               }
             ]
           },
@@ -396,11 +657,42 @@
             ]
           },
           "alma_mater": {
-            "text": "Vijithl Central College, Dickwella."
+            "text": "Vijitha Central College, Dickwella."
           },
           "occupation": {
             "text": "Politician"
           }
+        }
+      ],
+      "references": [
+        {
+          "title": "New Cabinet of Ministers sworn in",
+          "url": "http://www.adaderana.lk/news/83808/new-cabinet-of-ministers-sworn-in",
+          "access-date": "24 July 2022",
+          "agency": "Ada Derana",
+          "date": "22 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mahinda Amaraweera",
+          "url": "https://manthri.lk/en/politicians/mahinda-amaraweera",
+          "website": "Manthri.lk",
+          "access-date": "24 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
@@ -491,6 +783,16 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "N",
+          "template": "reflist"
         }
       ]
     },
